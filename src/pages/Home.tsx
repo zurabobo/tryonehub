@@ -7,14 +7,20 @@ export default function Home() {
   const { t } = useTranslate();
   const [search, setSearch] = useState("");
 
-  const filtered = sitesData.categories.filter((cat) => {
+  const categories = [...sitesData.categories].sort(
+    (a, b) => (a.priority ?? 999) - (b.priority ?? 999)
+  );
+
+  const filtered = categories
+  .filter((cat) => {
     const q = search.toLowerCase();
 
     return (
       t(cat.titleKey).toLowerCase().includes(q) ||
       cat.slug.toLowerCase().includes(q)
     );
-  });
+  })
+  .sort((a, b) => (a.priority ?? 999) - (b.priority ?? 999));
 
   return (
     <div className="grid grid-rows-[auto_auto_1fr] p-4">
