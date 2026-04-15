@@ -1,0 +1,4233 @@
+{
+  "categories": [
+    {
+      "slug": "sports",
+      "name": "Спорт",
+      "description": "Лучшие сайты о спорте: новости, обзоры, статистика.",
+      "titleKey": "home_sports",
+      "desc": "sport_description",
+      "logo": "Medal",
+      "bkglogo": "/images/sports-logobkg.png",
+      "priority": 21,
+      "sites": [
+        {
+          "id": 1,
+          "title": "FLASHSCORE.COM",
+          "description": "Онлайн-результаты матчей в реальном времени, подробная статистика, турнирные таблицы и расписания по популярным видам спорта.",
+          "intDesc": "id1_desc",
+          "url": "https://www.flashscore.com",
+          "logo": "/images/flashscore-logo.png",
+          "preview": "/images/flashscore-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "WHOSCORED.COM",
+          "description": "Подробная футбольная статистика, рейтинги игроков, аналитика матчей и тактические обзоры ведущих европейских чемпионатов.",
+          "intDesc": "id2_desc",
+          "url": "https://www.whoscored.com",
+          "logo": "/images/whoscored-logo.png",
+          "preview": "/images/whoscored-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "LIVESCORE.COM",
+          "description": "Быстрые онлайн-результаты футбольных матчей, турнирные таблицы, расписания игр и свежие спортивные обновления.",
+          "intDesc": "id3_desc",
+          "url": "https://www.livescore.com",
+          "logo": "/images/livescore-logo.png",
+          "preview": "/images/livescore-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "GE.BETSSON.SPORT",
+          "description": "Онлайн-платформа с актуальными спортивными результатами, календарями матчей и статистикой популярных турниров.",
+          "intDesc": "id4_desc",
+          "url": "https://ge.betsson.sport/",
+          "logo": "/images/popsport-logo.png",
+          "preview": "/images/popsport-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "SPORTALL.GE",
+          "description": "Грузинский спортивный портал с новостями, аналитикой, интервью и подробными обзорами национальных и международных турниров.",
+          "intDesc": "id5_desc",
+          "url": "https://www.sportall.ge",
+          "logo": "/images/sportall-logo.png",
+          "preview": "/images/sportall-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "SPORTLINE.GE",
+          "description": "Свежие спортивные новости из Грузии и мира, аналитика матчей, интервью спортсменов и ежедневные обновления.",
+          "intDesc": "id6_desc",
+          "url": "https://www.sportline.ge",
+          "logo": "/images/sportline-logo.png",
+          "preview": "/images/sportline-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "CROCO.GE",
+          "description": "Информационный портал о спорте с новостями, статистикой, аналитикой и обзорами футбола, баскетбола и других дисциплин.",
+          "intDesc": "id7_desc",
+          "url": "https://www.croco.ge",
+          "logo": "/images/croco-logo.png",
+          "preview": "/images/croco-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "LEADERSPORT.GE",
+          "description": "Спортивный онлайн-ресурс с актуальными новостями, интервью, аналитикой матчей и результатами турниров.",
+          "intDesc": "id8_desc",
+          "url": "https://www.leadersport.ge",
+          "logo": "/images/leadersport-logo.png",
+          "preview": "/images/leadersport-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "CRYSTALSPORT.GE",
+          "description": "Популярный спортивный сайт с видеообзорами, новостями, статистикой и материалами о национальных лигах.",
+          "intDesc": "id9_desc",
+          "url": "https://www.crystalsport.ge/",
+          "logo": "/images/crystalsport-logo.png",
+          "preview": "/images/crystalsport-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "BAYERN.GE",
+          "description": "Фан-портал о футбольном клубе «Бавария»: новости команды, матчи, статистика и материалы для болельщиков.",
+          "intDesc": "id10_desc",
+          "url": "https://bayern.ge/",
+          "logo": "/images/bayern-logo.png",
+          "preview": "/images/bayern-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "FOOTBALLNEWS.GE",
+          "description": "Футбольный новостной ресурс с аналитикой, интервью, статистикой матчей и материалами о национальных турнирах.",
+          "intDesc": "id11_desc",
+          "url": "https://footballnews.ge/",
+          "logo": "/images/footballnews-logo.png",
+          "preview": "/images/footballnews-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "BELIVE.GE",
+          "description": "Медиа-портал о спорте с круглосуточными новостями, видеоконтентом и эксклюзивными интервью спортсменов.",
+          "intDesc": "id12_desc",
+          "url": "https://www.belive.ge/",
+          "logo": "/images/belive-logo.png",
+          "preview": "/images/belive-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "SPORT.RU",
+          "description": "Крупный спортивный сайт с ежедневными новостями, аналитикой, интервью и обзорами популярных дисциплин.",
+          "intDesc": "id13_desc",
+          "url": "https://www.sport.ru",
+          "logo": "/images/sportru-logo.png",
+          "preview": "/images/sportru-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "NEWS.SPORTBOX.RU",
+          "description": "Новостной спортивный портал с прямыми трансляциями, статистикой, расписаниями матчей и аналитическими материалами.",
+          "intDesc": "id14_desc",
+          "url": "https://news.sportbox.ru/",
+          "logo": "/images/sportbox-logo.png",
+          "preview": "/images/sportbox-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "SPORT-EXPRESS.RU",
+          "description": "Известное спортивное издание с репортажами, интервью, аналитикой и новостями российских и международных турниров.",
+          "intDesc": "id15_desc",
+          "url": "https://www.sport-express.ru",
+          "logo": "/images/sportexpress-logo.png",
+          "preview": "/images/sportexpress-preview.png"
+        },
+        {
+          "id": 16,
+          "title": "METARATINGS.RU",
+          "description": "Спортивный аналитический портал с прогнозами, статистикой и материалами о футболе, хоккее и других дисциплинах.",
+          "intDesc": "id16_desc",
+          "url": "https://www.metaratings.ru",
+          "logo": "/images/metaratings-logo.png",
+          "preview": "/images/metaratings-preview.png"
+        },
+        {
+          "id": 17,
+          "title": "CHAMPIONAT.COM",
+          "description": "Популярный спортивный ресурс с новостями, трансляциями, аналитикой и статистикой по основным видам спорта.",
+          "intDesc": "id17_desc",
+          "url": "https://www.championat.com",
+          "logo": "/images/championat-logo.png",
+          "preview": "/images/championat-preview.png"
+        },
+        {
+          "id": 18,
+          "title": "MATCHTV.RU",
+          "description": "Официальный сайт спортивного телеканала с новостями, расписаниями матчей, трансляциями и эксклюзивными материалами.",
+          "intDesc": "id18_desc",
+          "url": "https://matchtv.ru",
+          "logo": "/images/matchtv-logo.png",
+          "preview": "/images/matchtv-preview.png"
+        },
+        {
+          "id": 19,
+          "title": "SOCCER.RU",
+          "description": "Футбольный портал с новостями, статистикой, обсуждениями матчей и аналитикой европейских чемпионатов.",
+          "intDesc": "id19_desc",
+          "url": "https://www.soccer.ru",
+          "logo": "/images/soccerru-logo.png",
+          "preview": "/images/soccerru-preview.png"
+        },
+        {
+          "id": 20,
+          "title": "SPORTS.RU",
+          "description": "Крупный спортивный портал с новостями, блогами, статистикой, трансляциями и активным сообществом болельщиков.",
+          "intDesc": "id20_desc",
+          "url": "https://www.sports.ru",
+          "logo": "/images/sports-ru-logo.png",
+          "preview": "/images/sports-ru-preview.png"
+        },
+        {
+          "id": 21,
+          "title": "PREMIERLIGA.RU",
+          "description": "Официальный ресурс футбольной Премьер-Лиги с расписаниями матчей, турнирными таблицами и статистикой команд.",
+          "intDesc": "id21_desc",
+          "url": "https://premierliga.ru",
+          "logo": "/images/rpl-logo.png",
+          "preview": "/images/rpl-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "movies",
+      "name": "Фильмы",
+      "description": "Сайты о фильмах и сериалах: рейтинги, трейлеры, отзывы.",
+      "logo": "Film",
+      "desc": "movies_description",
+      "bkglogo": "/images/movies-logobkg.png",
+      "titleKey": "home_movies",
+      "priority": 5,
+      "sites": [
+        {
+          "id": 1,
+          "title": "GEOSAITEBI.TV",
+          "description": "Платформа Georgian films: новинки и сериалы на грузинском языке.",
+          "intDesc": "id1_desc",
+          "url": "https://geosaitebi.tv",
+          "logo": "/images/geosaitebi-logo.png",
+          "preview": "/images/geosaitebi-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "QARTULAD.IN",
+          "description": "Онлайн-кинотеатр на грузинском языке: фильмы и сериалы.",
+          "intDesc": "id2_desc",
+          "url": "https://qartulad.in",
+          "logo": "/images/qartulad-in-logo.png",
+          "preview": "/images/qartulad-in-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "ADJARANET.IN",
+          "description": "Грузинский сайт с обширной коллекцией фильмов и сериалов онлайн.",
+          "intDesc": "id3_desc",
+          "url": "https://adjaranet.in",
+          "logo": "/images/adjaranet-in-logo.png",
+          "preview": "/images/adjaranet-in-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "IMOVS.GE",
+          "description": "Онлайн-кинотеатр для грузинской аудитории: фильмы и сериалы.",
+          "intDesc": "id4_desc",
+          "url": "https://www.imovs.ge/",
+          "logo": "/images/imovies-logo.png",
+          "preview": "/images/imovies-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "GE.MOVIE",
+          "description": "Грузинско-язычный онлайн-кинотеатр: фильмы и сериалы на грузинском.",
+          "intDesc": "id5_desc",
+          "url": "https://ge.movie/",
+          "logo": "/images/gemovie-logo.png",
+          "preview": "/images/gemovie-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "KOREAMANIA.GE",
+          "description": "Платформа с фильмами и сериалами в Грузии.",
+          "intDesc": "id6_desc",
+          "url": "https://koreamania.ge/",
+          "logo": "/images/koreamania-logo.png",
+          "preview": "/images/koreamania-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "SRULAD.COM",
+          "description": "Онлайн-ресурс грузинских фильмов и сериалов.",
+          "intDesc": "id7_desc",
+          "url": "https://srulad.com",
+          "logo": "/images/srulad-com-logo.png",
+          "preview": "/images/srulad-com-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "MEGOGO.NET",
+          "description": "Международный стриминг-сервис с грузинским контентом и не только.",
+          "intDesc": "id8_desc",
+          "url": "https://megogo.net",
+          "logo": "/images/megogo-logo.png",
+          "preview": "/images/megogo-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "UFASOFILMEBI.GE",
+          "description": "Грузинский сайт с бесплатными фильмами и сериалами онлайн.",
+          "intDesc": "id9_desc",
+          "url": "https://ufasofilmebi.ge/",
+          "logo": "/images/ufasofilmebi-logo.png",
+          "preview": "/images/ufasofilmebi-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "CAVEA.PLUS",
+          "description": "Официальная платформа Cavea с онлайн-доступом к фильмам и сериалам.",
+          "intDesc": "id10_desc",
+          "url": "https://cavea.plus/ka/movies",
+          "logo": "/images/cavea-logo.png",
+          "preview": "/images/cavea-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "GEOFILMS.NET",
+          "description": "Онлайн-библиотека фильмов и сериалов с грузинской локализацией.",
+          "intDesc": "id11_desc",
+          "url": "https://geofilms.net/",
+          "logo": "/images/geofilms-logo.png",
+          "preview": "/images/geofilms-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "PFF.MOVIE.BLOG",
+          "description": "Авторский блог о фильмах: рецензии, подборки и обзоры.",
+          "intDesc": "id12_desc",
+          "url": "https://pff.movie.blog/",
+          "logo": "/images/pffmovie-logo.png",
+          "preview": "/images/pffmovie-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "NETFLIX.COM",
+          "description": "Международный стриминг-гигант, доступен и в Грузии.",
+          "intDesc": "id13_desc",
+          "url": "https://netflix.com",
+          "logo": "/images/netflix-logo.png",
+          "preview": "/images/netflix-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "IMDB.COM",
+          "description": "Крупнейшая международная база фильмов и сериалов: трейлеры, рейтинги, обзоры.",
+          "intDesc": "id14_desc",
+          "url": "https://www.imdb.com",
+          "logo": "/images/imdb-logo.png",
+          "preview": "/images/imdb-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "ROTTENTOMATOES.COM",
+          "description": "Сайт-агрегатор рецензий критиков и зрителей на фильмы и сериалы.",
+          "intDesc": "id15_desc",
+          "url": "https://www.rottentomatoes.com",
+          "logo": "/images/rottentomatoes-logo.png",
+          "preview": "/images/rottentomatoes-preview.png"
+        },
+        {
+          "id": 16,
+          "title": "METACRITIC.COM",
+          "description": "Агрегатор оценок критиков и зрителей: фильмы, сериалы и игры.",
+          "intDesc": "id16_desc",
+          "url": "https://www.metacritic.com",
+          "logo": "/images/metacritic-logo.png",
+          "preview": "/images/metacritic-preview.png"
+        },
+        {
+          "id": 17,
+          "title": "LETTERBOXD.COM",
+          "description": "Сообщество киноманов: коллекции, обзоры, рейтинги фильмов.",
+          "intDesc": "id17_desc",
+          "url": "https://letterboxd.com",
+          "logo": "/images/letterboxd-logo.png",
+          "preview": "/images/letterboxd-preview.png"
+        },
+        {
+          "id": 18,
+          "title": "KINOGO.EC",
+          "description": "Популярный онлайн-кинотеатр: новинки фильмов и сериалов в хорошем качестве.",
+          "intDesc": "id18_desc",
+          "url": "https://kinogo.ec/",
+          "logo": "/images/kinogo-logo.png",
+          "preview": "/images/kinogo-preview.png"
+        },
+        {
+          "id": 19,
+          "title": "IVI.RU",
+          "description": "Российский онлайн-кинотеатр: фильмы, сериалы и мультфильмы в HD.",
+          "intDesc": "id19_desc",
+          "url": "https://www.ivi.ru/",
+          "logo": "/images/ivi-logo.png",
+          "preview": "/images/ivi-preview.png"
+        },
+        {
+          "id": 20,
+          "title": "REZKA.AG",
+          "description": "Один из самых популярных сайтов для просмотра фильмов и сериалов онлайн.",
+          "intDesc": "id20_desc",
+          "url": "https://rezka.ag/films/best/",
+          "logo": "/images/rezka-logo.png",
+          "preview": "/images/rezka-preview.png"
+        },
+        {
+          "id": 21,
+          "title": "START.RU",
+          "description": "Российский онлайн-кинотеатр с собственными сериалами и фильмами.",
+          "intDesc": "id21_desc",
+          "url": "https://start.ru/",
+          "logo": "/images/start-logo.png",
+          "preview": "/images/start-preview.png"
+        },
+        {
+          "id": 22,
+          "title": "ZETFLIX",
+          "description": "Сайт с онлайн-доступом к фильмам и сериалам.",
+          "intDesc": "id22_desc",
+          "url": "https://4sep.zet-flix.online/",
+          "logo": "/images/zetflix-logo.png",
+          "preview": "/images/zetflix-preview.png"
+        },
+        {
+          "id": 23,
+          "title": "LOSTFILM.TV",
+          "description": "Один из старейших русскоязычных сайтов с сериалами и фильмами онлайн.",
+          "intDesc": "id23_desc",
+          "url": "https://www.lostfilm.tv/",
+          "logo": "/images/lostfilm-logo.png",
+          "preview": "/images/lostfilm-preview.png"
+        },
+        {
+          "id": 24,
+          "title": "KINOPOISK.RU",
+          "description": "База фильмов и сериалов, рейтинги, отзывы, и стриминг-сервис.",
+          "intDesc": "id24_desc",
+          "url": "https://www.kinopoisk.ru",
+          "logo": "/images/kinopoisk-logo.png",
+          "preview": "/images/kinopoisk-preview.png"
+        },
+        {
+          "id": 25,
+          "title": "FILM.RU",
+          "description": "Новости кино и сериалов, трейлеры, обзоры и рецензии критиков.",
+          "intDesc": "id25_desc",
+          "url": "https://www.film.ru",
+          "logo": "/images/filmru-logo.png",
+          "preview": "/images/filmru-preview.png"
+        },
+        {
+          "id": 26,
+          "title": "KINO-TEATR.RU",
+          "description": "База данных о кино и театре: фильмы, сериалы, актёры, рецензии.",
+          "intDesc": "id26_desc",
+          "url": "https://www.kino-teatr.ru",
+          "logo": "/images/kinoteatr-logo.png",
+          "preview": "/images/kinoteatr-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "videos",
+      "name": "Видео",
+      "description": "Видеоплатформы для просмотра и загрузки контента: локальные сервисы, международные и российские альтернативы.",
+      "logo": "Video",
+      "desc": "videos_description",
+      "bkglogo": "/images/videos-logobkg.png",
+      "titleKey": "home_videos",
+      "priority": 3,
+      "sites": [
+        {
+          "id": 1,
+          "title": "YOUTUBE.COM",
+          "description": "Крупнейшая видеоплатформа для просмотра и загрузки видео онлайн: блоги, музыка, фильмы, стримы, обучающий и развлекательный контент.",
+          "intDesc": "id1_desc_videos",
+          "url": "https://www.youtube.com",
+          "logo": "/images/youtube-logo.png",
+          "preview": "/images/youtube-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "VIMEO.COM",
+          "description": "Платформа для профессионального видеоконтента: короткометражные фильмы, портфолио, креативные проекты, качественное видео без лишней рекламы.",
+          "intDesc": "id2_desc_videos",
+          "url": "https://vimeo.com",
+          "logo": "/images/vimeo-logo.png",
+          "preview": "/images/vimeo-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "DAILYMOTION.COM",
+          "description": "Популярная международная видеоплатформа для просмотра онлайн-видео: новости, развлечения, музыка, клипы, трансляции и пользовательский контент.",
+          "intDesc": "id3_desc_videos",
+          "url": "https://www.dailymotion.com",
+          "logo": "/images/dailymotion-logo.png",
+          "preview": "/images/dailymotion-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "TWITCH.TV",
+          "description": "Платформа для прямых видеотрансляций: стримы игр, киберспорт, общение в реальном времени, развлекательный live-контент и стримерские сообщества.",
+          "intDesc": "id4_desc_videos",
+          "url": "https://www.twitch.tv",
+          "logo": "/images/twitch-logo.png",
+          "preview": "/images/twitch-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "RUTUBE.RU",
+          "description": "Российская видеоплатформа для просмотра онлайн-контента: фильмы, сериалы, блоги, шоу, новости и прямые трансляции различных категорий.",
+          "intDesc": "id5_desc_videos",
+          "url": "https://rutube.ru",
+          "logo": "/images/rutube-logo.png",
+          "preview": "/images/rutube-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "IVI.RU",
+          "description": "Онлайн-кинотеатр с лицензированными фильмами и сериалами: HD-качество, подборки жанров, популярные новинки и удобный просмотр на разных устройствах.",
+          "intDesc": "id6_desc_videos",
+          "url": "https://www.ivi.ru",
+          "logo": "/images/ivi-logo.png",
+          "preview": "/images/ivi-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "COUB.COM",
+          "description": "Платформа коротких зацикленных видео: мемы, музыка, креативные клипы и развлекательный контент в формате быстрых визуальных историй.",
+          "intDesc": "id7_desc_videos",
+          "url": "https://coub.com",
+          "logo": "/images/coub-logo.png",
+          "preview": "/images/coub-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "TVIGLE.RU",
+          "description": "Онлайн-видеосервис с фильмами, сериалами, мультфильмами и телешоу: бесплатный просмотр, тематические подборки и регулярное обновление контента.",
+          "intDesc": "id8_desc_videos",
+          "url": "http://www.tvigle.ru",
+          "logo": "/images/tvigle-logo.png",
+          "preview": "/images/tvigle-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "bank",
+      "name": "Банки",
+      "description": "Онлайн-банкинг, кредиты, депозиты и финансовые услуги — грузинские, международные и российские банки с цифровыми сервисами.",
+      "desc": "bank_description",
+      "logo": "CreditCard",
+      "bkglogo": "/images/bank-logobkg.png",
+      "titleKey": "home_bank",
+      "priority": 12,
+      "sites": [
+        {
+          "id": 1,
+          "title": "BOG.GE",
+          "description": "Крупный банк Грузии с онлайн-банкингом, кредитами, банковскими картами, переводами, депозитами и цифровыми сервисами для частных и бизнес-клиентов.",
+          "intDesc": "id1_desc_bank",
+          "url": "https://www.bog.ge",
+          "logo": "/images/bog-logo.png",
+          "preview": "/images/bog-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "TBCBANK.GE",
+          "description": "Один из ведущих банков Грузии с современным интернет-банкингом, кредитными продуктами, платежными решениями и финансовыми услугами для бизнеса.",
+          "intDesc": "id2_desc_bank",
+          "url": "https://www.tbcbank.ge",
+          "logo": "/images/tbc-logo.png",
+          "preview": "/images/tbc-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "LIBERTYBANK.GE",
+          "description": "Грузинский банк, предлагающий банковские карты, кредиты, депозиты, переводы и удобные онлайн-сервисы для ежедневных финансовых операций.",
+          "intDesc": "id3_desc_bank",
+          "url": "https://www.libertybank.ge",
+          "logo": "/images/liberty-logo.png",
+          "preview": "/images/liberty-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "CARTUBANK.GE",
+          "description": "Коммерческий банк Грузии, предоставляющий финансовые услуги, расчетные операции, кредиты и цифровые банковские решения для клиентов.",
+          "intDesc": "id4_desc_bank",
+          "url": "https://www.cartubank.ge",
+          "logo": "/images/cartu-logo.png",
+          "preview": "/images/cartu-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "SILKBANK.GE",
+          "description": "Банк с финансовыми услугами для частных и корпоративных клиентов: кредиты, депозиты, счета и онлайн-управление финансами.",
+          "intDesc": "id5_desc_bank",
+          "url": "https://www.silkbank.ge",
+          "logo": "/images/silk-logo.png",
+          "preview": "/images/silk-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "PROCREDITBANK.GE",
+          "description": "Международный банк с фокусом на бизнес-клиентов, предлагающий расчетные услуги, кредиты, депозиты и цифровые банковские инструменты.",
+          "intDesc": "id6_desc_bank",
+          "url": "https://www.procreditbank.ge",
+          "logo": "/images/procredit-logo.png",
+          "preview": "/images/procredit-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "TERABANK.GE",
+          "description": "Грузинский банк с онлайн-банкингом, кредитными программами, платежными картами и современными цифровыми финансовыми сервисами.",
+          "intDesc": "id7_desc_bank",
+          "url": "https://www.terabank.ge",
+          "logo": "/images/tera-logo.png",
+          "preview": "/images/tera-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "REBANK.GE",
+          "description": "Цифровой банк с мобильными финансовыми сервисами, банковскими картами, переводами и удобным управлением счетами через приложение.",
+          "intDesc": "id8_desc_bank",
+          "url": "https://www.rebank.ge",
+          "logo": "/images/rebank-logo.png",
+          "preview": "/images/rebank-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "CREDOBANK.GE",
+          "description": "Финансовый банк Грузии с кредитными продуктами, депозитами, платежными решениями и онлайн-банкингом для частных клиентов и бизнеса.",
+          "intDesc": "id9_desc_bank",
+          "url": "https://www.credobank.ge",
+          "logo": "/images/credo-logo.png",
+          "preview": "/images/credo-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "BANKOFAMERICA.COM",
+          "description": "Крупный международный банк США с банковскими счетами, кредитами, инвестиционными продуктами и цифровыми финансовыми сервисами.",
+          "intDesc": "id10_desc_bank",
+          "url": "https://www.bankofamerica.com",
+          "logo": "/images/bankofamerica-logo.png",
+          "preview": "/images/bankofamerica-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "CHASE.COM",
+          "description": "Американский банк с широким спектром финансовых услуг, включая онлайн-банкинг, кредиты, карты и инвестиционные решения.",
+          "intDesc": "id11_desc_bank",
+          "url": "https://www.chase.com",
+          "logo": "/images/chase-logo.png",
+          "preview": "/images/chase-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "WELLSFARGO.COM",
+          "description": "Банк США с банковскими счетами, ипотечными программами, кредитами и цифровыми финансовыми сервисами для клиентов.",
+          "intDesc": "id12_desc_bank",
+          "url": "https://www.wellsfargo.com",
+          "logo": "/images/wellsfargo-logo.png",
+          "preview": "/images/wellsfargo-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "CITI.COM",
+          "description": "Глобальный банк с международными финансовыми услугами, банковскими картами, инвестициями и онлайн-банкингом для клиентов.",
+          "intDesc": "id13_desc_bank",
+          "url": "https://www.citi.com",
+          "logo": "/images/citi-logo.png",
+          "preview": "/images/citi-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "SBERBANK.RU",
+          "description": "Крупный банк с онлайн-банкингом, платежными сервисами, кредитными продуктами и цифровыми финансовыми инструментами.",
+          "intDesc": "id14_desc_bank",
+          "url": "https://www.sberbank.ru",
+          "logo": "/images/sber-logo.png",
+          "preview": "/images/sber-preview.png"
+        },
+        {
+          "id": 16,
+          "title": "ALFABANK.RU",
+          "description": "Частный коммерческий банк с банковскими картами, кредитами, онлайн-банкингом и финансовыми сервисами для бизнеса и частных клиентов.",
+          "intDesc": "id16_desc_bank",
+          "url": "https://alfabank.ru",
+          "logo": "/images/alfa-logo.png",
+          "preview": "/images/alfa-preview.png"
+        },
+        {
+          "id": 17,
+          "title": "TINKOFF.RU",
+          "description": "Онлайн-банк с дистанционным обслуживанием, банковскими картами, инвестициями, кредитами и мобильными финансовыми сервисами.",
+          "intDesc": "id17_desc_bank",
+          "url": "https://www.tinkoff.ru",
+          "logo": "/images/tinkoff-logo.png",
+          "preview": "/images/tinkoff-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "loans",
+      "name": "Ссуды и кредиты",
+      "description": "Онлайн-займы, потребительские кредиты и финансовые сервисы: предложения грузинских и международных организаций.",
+      "desc": "loans_description",
+      "logo": "HandCoins",
+      "bkglogo": "/images/loans-logobkg.png",
+      "titleKey": "home_loans",
+      "priority": 13,
+      "sites": [
+        {
+          "id": 1,
+          "title": "ALMAL.GE",
+          "description": "Онлайн-сервис микрофинансирования в Грузии: информация о потребительских займах, условиях оформления, сроках погашения и требованиях к заемщикам.",
+          "intDesc": "id1_desc_loans",
+          "url": "https://www.almal.ge",
+          "logo": "/images/almal-logo.png",
+          "preview": "/images/almal-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "TBCCREDIT.GE",
+          "description": "Финансовый сервис группы TBC: онлайн-кредиты, информация об условиях, процентных ставках, сроках погашения и возможностях дистанционного оформления.",
+          "intDesc": "id2_desc_loans",
+          "url": "https://www.tbccredit.ge",
+          "logo": "/images/tbc-logo.png",
+          "preview": "/images/tbc-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "CRYSTAL.GE",
+          "description": "Микрофинансовая организация в Грузии: программы кредитования для физических лиц, информация о ставках, сроках и правилах оформления.",
+          "intDesc": "id3_desc_loans",
+          "url": "https://www.crystal.ge",
+          "logo": "/images/crystal-logo.png",
+          "preview": "/images/crystal-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "REBANK.GE",
+          "description": "Цифровой банковский сервис с онлайн-кредитами и финансовыми продуктами: информация о ставках, условиях оформления и управлении счетами.",
+          "intDesc": "id4_desc_loans",
+          "url": "https://www.rebank.ge",
+          "logo": "/images/rebank-logo.png",
+          "preview": "/images/rebank-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "VALUTO.GE",
+          "description": "Онлайн-платформа финансовых услуг: информация о кредитных продуктах, условиях оформления, сроках погашения и требованиях к клиентам.",
+          "intDesc": "id5_desc_loans",
+          "url": "https://www.valuto.ge",
+          "logo": "/images/valuto-logo.png",
+          "preview": "/images/valuto-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "BANKOFGEORGIA.GE",
+          "description": "Официальный сайт Bank of Georgia: онлайн-кредиты, банковские продукты, информация о ставках, условиях оформления и финансовых сервисах.",
+          "intDesc": "id6_desc_loans",
+          "url": "https://www.bankofgeorgia.ge",
+          "logo": "/images/bog-logo.png",
+          "preview": "/images/bog-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "CREDOBANK.GE",
+          "description": "Банковские и микрофинансовые продукты Credo: кредиты для физических лиц, информация о ставках, сроках и условиях оформления.",
+          "intDesc": "id7_desc_loans",
+          "url": "https://www.credobank.ge",
+          "logo": "/images/credo-logo.png",
+          "preview": "/images/credo-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "TERABANK.GE",
+          "description": "Официальный сайт TeraBank: информация о потребительских кредитах, условиях оформления, процентных ставках и дополнительных банковских услугах.",
+          "intDesc": "id8_desc_loans",
+          "url": "https://www.terabank.ge",
+          "logo": "/images/tera-logo.png",
+          "preview": "/images/tera-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "dating",
+      "name": "Знакомства",
+      "description": "Онлайн-платформы знакомств: поиск новых людей, общение, дружба и отношения в Грузии и по всему миру.",
+      "desc": "dating_description",
+      "logo": "Heart",
+      "bkglogo": "/images/dating-logobkg.png",
+      "titleKey": "home_dating",
+      "priority": 16,
+      "sites": [
+        {
+          "id": 2,
+          "title": "FLIRTIC.GE",
+          "description": "Платформа онлайн-знакомств с удобным поиском анкет, личными сообщениями и возможностью находить людей по интересам и геолокации.",
+          "intDesc": "id1_desc_dating",
+          "url": "https://www.flirtic.ge",
+          "logo": "/images/flirtic-logo.png",
+          "preview": "/images/flirtic-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "SEV.GE",
+          "description": "Грузинский сайт знакомств для общения, поиска новых контактов и создания дружеских или романтических отношений онлайн.",
+          "intDesc": "id2_desc_dating",
+          "url": "https://sev.ge/page/auth/",
+          "logo": "/images/sev-logo.png",
+          "preview": "/images/sev-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "GAICANI.GE",
+          "description": "Онлайн-сервис знакомств с регистрацией анкет, удобным поиском пользователей и возможностью общения через встроенные сообщения.",
+          "intDesc": "id3_desc_dating",
+          "url": "https://gaicani.ge/",
+          "logo": "/images/gaicani-logo.png",
+          "preview": "/images/gaicani-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "FRIENDS.GE",
+          "description": "Платформа для общения и знакомств, где можно находить новых людей, обмениваться сообщениями и расширять круг общения.",
+          "intDesc": "id4_desc_dating",
+          "url": "https://www.friends.ge",
+          "logo": "/images/friends-logo.png",
+          "preview": "/images/friends-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "MAMBA.RU",
+          "description": "Популярный сервис знакомств с большой аудиторией, фильтрами поиска, чатами и возможностью находить людей по интересам.",
+          "intDesc": "id5_desc_dating",
+          "url": "https://www.mamba.ru",
+          "logo": "/images/mamba-logo.png",
+          "preview": "/images/mamba-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "VK.COM",
+          "description": "Социальная сеть с возможностью общения, создания профилей, поиска людей по интересам и участия в тематических сообществах.",
+          "intDesc": "id6_desc_dating",
+          "url": "https://www.vk.com",
+          "logo": "/images/vk-logo.png",
+          "preview": "/images/vk-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "TINDER.COM",
+          "description": "Международное приложение знакомств с удобным интерфейсом, подбором анкет по интересам и возможностью общения после взаимного совпадения.",
+          "intDesc": "id7_desc_dating",
+          "url": "https://www.tinder.com",
+          "logo": "/images/tinder-logo.png",
+          "preview": "/images/tinder-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "IHEY.IO",
+          "description": "Современная платформа знакомств для общения, поиска новых контактов и создания персонализированных профилей пользователей.",
+          "intDesc": "id8_desc_dating",
+          "url": "https://www.ihey.io",
+          "logo": "/images/ihey-logo.png",
+          "preview": "/images/ihey-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "BUMBLE.COM",
+          "description": "Приложение знакомств с акцентом на безопасное общение, фильтры поиска и удобные инструменты для создания профиля.",
+          "intDesc": "id9_desc_dating",
+          "url": "https://www.bumble.com",
+          "logo": "/images/bumble-logo.png",
+          "preview": "/images/bumble-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "FACEBOOK.COM",
+          "description": "Крупная социальная платформа для общения, поиска людей, участия в группах и расширения личных и профессиональных контактов.",
+          "intDesc": "id10_desc_dating",
+          "url": "https://www.facebook.com",
+          "logo": "/images/fc-logo.png",
+          "preview": "/images/fc-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "clinics",
+      "name": "კლინიკები",
+      "description": "სამედიცინო ცენტრები და კლინიკები საქართველოში, ამერიკაში და რუსეთში.",
+      "desc": "clinics_description",
+      "logo": "Stethoscope",
+      "bkglogo": "/images/clinics-logobkg.png",
+      "titleKey": "home_clinics",
+      "priority": 22,
+      "sites": [
+        {
+          "id": 1,
+          "title": "VIVAMEDI.GE",
+          "description": "VIVAMEDI.GE — სამედიცინო ცენტრი ვივამედი. მედიცინის ყველა დარგი და მიმართულება ერთ მრავალპროფილურ სამედიცინო ცენტრში.",
+          "intDesc": "id1_desc_clinics",
+          "url": "http://vivamedi.ge/",
+          "logo": "/images/vivamedi-logo.png",
+          "preview": "/images/vivamedi-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "ALADASHVILI.GE",
+          "description": "ALADASHVILI.GE — ალექსანდრე ალადაშვილის სახელობის კლინიკა, მრავალპროფილური სამედიცინო დაწესებულება, რომელიც ქალაქის ისტორიულ-კულტურული ძეგლების ნუსხაშია შეტანილი.",
+          "intDesc": "id2_desc_clinics",
+          "url": "https://aladashvili.ge",
+          "logo": "/images/aladashvili-logo.png",
+          "preview": "/images/aladashvili-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "CHACHAVA.GE",
+          "description": "CHACHAVA.GE — ჩაჩავას კლინიკა მულტიპროფილური სამედიცინო დაწესებულებაა, რომელიც თავის მრავალრიცხვოვან პაციენტებს ევროპული სტანდარტის შესაბამის, ყველა ტიპის სამედიცინო სერვისს სთავაზობს.",
+          "intDesc": "id3_desc_clinics",
+          "url": "https://chachava.ge",
+          "logo": "/images/chachava-logo.png",
+          "preview": "/images/chachava-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "TODUACLINIC.GE",
+          "description": "TODUACLINIC.GE — თოდუას კლინიკა. მრავალპროფილური სამედიცინო ცენტრი დაკომპლექტებულია  მაღალკვალიფიციური, პროფესიონალი ექიმებით, აღჭურვილია  ულტრათანამედროვე აპარატურით, ფლობს მძლავრ მატერიალურ-ტექნიკურ ბაზას  და გამორჩეულია მყუდრო, კომფორტული გარემოთი.",
+          "intDesc": "id4_desc_clinics",
+          "url": "https://toduaclinic.ge",
+          "logo": "/images/todua-logo.png",
+          "preview": "/images/todua-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "HCORE.GE",
+          "description": "HCORE.GE — კლინიკა ჰელსიკორი ინოვაციური მკურნალობისა და პროცედურების დანერგვის მიმართულებით ერთ-ერთი ლიდერია საქართველოსა და ამიერკავაკსიაში.",
+          "intDesc": "id5_desc_clinics",
+          "url": "https://hcore.ge",
+          "logo": "/images/hcore-logo.png",
+          "preview": "/images/hcore-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "MEDI.GE",
+          "description": "MEDI.GE — კლინიკა მედი 1999 წლიდან წარმატებით საქმიანობს საქართველოში და წარმოადგენს „მედი-ესთეტიკსის“ საერთაშორისო ქსელს.",
+          "intDesc": "id6_desc_clinics",
+          "url": "https://medi.ge",
+          "logo": "/images/medi-logo.png",
+          "preview": "/images/medi-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "ZHORDANIACLINIC.GE",
+          "description": "ZHORDANIACLINIC.GE — ჟორდანიას სამედიცინო ცენტრი საქართველოში ერთ-ერთი პირველი სპეციალიზებული გინეკოლოგიური კლინიკაა, რომელიც დღემდე არ კარგავს მოწინავე პოზიციას ამ მიმართულებით.",
+          "intDesc": "id7_desc_clinics",
+          "url": "https://zhordaniaclinic.ge",
+          "logo": "/images/zhordania-logo.png",
+          "preview": "/images/zhordania-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "AVERSICLINIC.GE",
+          "description": "AVERSICLINIC.GE — ავერსის კლინიკა. წამყვანი  მრავალპროფილური სამკურნალო–დიაგნოსტიკური  დაწესებულება კავკასიის რეგიონში, რომელმაც  ფუნქციონირება 2007 წლიდან  დაიწყო.",
+          "intDesc": "id8_desc_clinics",
+          "url": "https://aversiclinic.ge",
+          "logo": "/images/aversi-logo.png",
+          "preview": "/images/aversi-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "EVEXCLINICS.GE",
+          "description": "EVEXCLINICS.GE — ევექსის კლინიკები. ევექსი საქართველოს სამედიცინო სფეროში უმსხვილესი ჯგუფის GHG (Georgian Healthcare Group) შვილობილ კომპანიას წარმოადგენს.",
+          "intDesc": "id9_desc_clinics",
+          "url": "https://evexclinics.ge",
+          "logo": "/images/evex-logo.png",
+          "preview": "/images/evex-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "MAYOCLINIC.ORG",
+          "description": "MAYOCLINIC.ORG — одна из крупнейших и лучших клиник в США.",
+          "intDesc": "id10_desc_clinics",
+          "url": "https://www.mayoclinic.org",
+          "logo": "/images/mayo-logo.png",
+          "preview": "/images/mayo-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "CLEVELANDCLINIC.ORG",
+          "description": "CLEVELANDCLINIC.ORG — американский академический медицинский центр.",
+          "intDesc": "id11_desc_clinics",
+          "url": "https://my.clevelandclinic.org",
+          "logo": "/images/cleveland-logo.png",
+          "preview": "/images/cleveland-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "HOPKINSMEDICINE.ORG",
+          "description": "HOPKINSMEDICINE.ORG — известная клиника и медицинский университет США.",
+          "intDesc": "id12_desc_clinics",
+          "url": "https://www.hopkinsmedicine.org",
+          "logo": "/images/hopkins-logo.png",
+          "preview": "/images/hopkins-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "WEBMD.COM",
+          "description": "WEBMD.COM — медицинский информационный портал США.",
+          "intDesc": "id13_desc_clinics",
+          "url": "https://www.webmd.com",
+          "logo": "/images/webmd-logo.png",
+          "preview": "/images/webmd-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "EMCMOS.RU",
+          "description": "EMCMOS.RU — ведущая частная клиника в Москве.",
+          "intDesc": "id14_desc_clinics",
+          "url": "https://www.emcmos.ru",
+          "logo": "/images/emc-logo.png",
+          "preview": "/images/emc-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "SM-CLINIC.RU",
+          "description": "SM-CLINIC.RU — крупная сеть многопрофильных клиник в Москве и регионах.",
+          "intDesc": "id15_desc_clinics",
+          "url": "http://www.sm-clinic.ru",
+          "logo": "/images/smclinic-logo.png",
+          "preview": "/images/smclinic-preview.png"
+        },
+        {
+          "id": 16,
+          "title": "MAMADETI.RU",
+          "description": "MAMADETI.RU — крупнейшая сеть клиник репродукции и пედიатрии.",
+          "intDesc": "id16_desc_clinics",
+          "url": "https://mamadeti.ru",
+          "logo": "/images/mamadeti-logo.png",
+          "preview": "/images/mamadeti-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "religion",
+      "name": "რელიგია",
+      "description": "საეკლესიო და რელიგიური ორგანიზაციები საქართველოში, ამერიკაში და რუსეთში.",
+      "desc": "religion_description",
+      "logo": "Church",
+      "bkglogo": "/images/religion-logobkg.png",
+      "titleKey": "home_religion",
+      "priority": 38,
+      "sites": [
+        {
+          "id": 1,
+          "title": "PATRIARCHATE.GE",
+          "description": "PATRIARCHATE.GE — საქართველოს საპატრიარქოს ოფიციალური ვებსაიტი.",
+          "intDesc": "id1_desc_religion",
+          "url": "https://patriarchate.ge",
+          "logo": "/images/patriarchate-logo.png",
+          "preview": "/images/patriarchate-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "CHRISTIANITY.COM",
+          "description": "CHRISTIANITY.COM — христианский портал США о вере и духовности.",
+          "intDesc": "id2_desc_religion",
+          "url": "https://www.christianity.com",
+          "logo": "/images/christianity-logo.png",
+          "preview": "/images/christianity-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "ISLAMICITY.ORG",
+          "description": "ISLAMICITY.ORG — крупнейший исламский образовательный ресурс в США.",
+          "intDesc": "id3_desc_religion",
+          "url": "https://www.islamicity.org",
+          "logo": "/images/islamicity-logo.png",
+          "preview": "/images/islamicity-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "CHABAD.ORG",
+          "description": "CHABAD.ORG — ведущий иудейский образовательный портал США.",
+          "intDesc": "id4_desc_religion",
+          "url": "https://www.chabad.org",
+          "logo": "/images/chabad-logo.png",
+          "preview": "/images/chabad-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "RELIGIONNEWS.COM",
+          "description": "RELIGIONNEWS.COM — независимое американское агентство о религиях мира.",
+          "intDesc": "id5_desc_religion",
+          "url": "https://religionnews.com",
+          "logo": "/images/religionnews-logo.png",
+          "preview": "/images/religionnews-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "PATRIARCHIA.RU",
+          "description": "PATRIARCHIA.RU — официальный сайт Русской православной церкви.",
+          "intDesc": "id6_desc_religion",
+          "url": "https://www.patriarchia.ru",
+          "logo": "/images/patriarchia-logo.png",
+          "preview": "/images/patriarchia-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "embassies",
+      "name": "საელჩოები",
+      "description": "Сайты посольств в Грузии, США и России.",
+      "desc": "embassies_description",
+      "logo": "Globe2",
+      "bkglogo": "/images/embassies-logobkg.png",
+      "titleKey": "home_embassies",
+      "priority": 37,
+      "sites": [
+        {
+          "id": 1,
+          "title": "AMBAFRANCE.ORG",
+          "description": "AMBAFRANCE.ORG — საფრანგეთის საელჩო საქართველოში.",
+          "intDesc": "id1_desc_embassies",
+          "country": "Georgia",
+          "url": "https://www.ambafrance.org",
+          "logo": "/images/ambafrance-logo.png",
+          "preview": "/images/ambafrance-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "AMBTBILISI.ESTERI.IT",
+          "description": "AMBTBILISI.ESTERI.IT — იტალიის საელჩო საქართველოში.",
+          "intDesc": "id2_desc_embassies",
+          "country": "Georgia",
+          "url": "https://ambtbilisi.esteri.it",
+          "logo": "/images/esteri-logo.png",
+          "preview": "/images/esteri-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "USEMBASSY.GOV",
+          "description": "USEMBASSY.GOV — ამერიკის საელჩო საქართველოში.",
+          "intDesc": "id3_desc_embassies",
+          "country": "Georgia",
+          "url": "https://www.usembassy.gov",
+          "logo": "/images/usembassy-ge-logo.png",
+          "preview": "/images/usembassy-ge-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "FRANCE-USA.ORG",
+          "description": "Французское посольство в США.",
+          "intDesc": "id4_desc_embassies",
+          "country": "USA",
+          "url": "https://france-usa.org",
+          "logo": "/images/france-usa-logo.png",
+          "preview": "/images/france-usa-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "ITALYEMB.ORG",
+          "description": "Итальянское посольство в США.",
+          "intDesc": "id5_desc_embassies",
+          "country": "USA",
+          "url": "https://italyemb.org",
+          "logo": "/images/italyemb-logo.png",
+          "preview": "/images/italyemb-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "USEMBASSY.RU",
+          "description": "Американское посольство в России.",
+          "intDesc": "id6_desc_embassies",
+          "country": "Russia",
+          "url": "https://ru.usembassy.gov",
+          "logo": "/images/usembassy-ru-logo.png",
+          "preview": "/images/usembassy-ru-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "photoshop",
+      "name": "ფოტოშოპი",
+      "description": "Онлайн и оффлайн инструменты для редактирования изображений и графики.",
+      "desc": "photoshop_description",
+      "logo": "Camera",
+      "bkglogo": "/images/photoshop-logobkg.png",
+      "titleKey": "home_photoshop",
+      "priority": 27,
+      "sites": [
+        {
+          "id": 1,
+          "title": "LEONARDO.AI",
+          "description": "მოწინავე ხელოვნური ინტელექტი სურათების გენერაციისთვის.",
+          "intDesc": "id1_desc_photoshop",
+          "url": "https://www.leonardo.ai",
+          "logo": "/images/leonardo-logo.png",
+          "preview": "/images/leonardo-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "ADOBE.COM/EXPRESS",
+          "description": "ონლაინ ინსტრუმენტი გრაფიკული დიზაინის, ფოტორედაქტირებისა და ვიდეომონტაჟისთვის.",
+          "intDesc": "id2_desc_photoshop",
+          "url": "https://www.adobe.com/express",
+          "logo": "/images/adobe-logo.png",
+          "preview": "/images/adobe-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "IPICCY.COM",
+          "description": "ფოტოების დამუშავება ონლაინ.",
+          "intDesc": "id3_desc_photoshop",
+          "url": "https://ipiccy.com/",
+          "logo": "/images/ipiccy-logo.png",
+          "preview": "/images/ipiccy-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "CANVA.COM",
+          "description": "სურათების რედაქტირება მარტივი ონლაინ.",
+          "intDesc": "id4_desc_photoshop",
+          "url": "https://www.canva.com",
+          "logo": "/images/canva-logo.png",
+          "preview": "/images/canva-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "PHOTOPEA.COM",
+          "description": "ძალიან მარტივი და მოსახერხებელი ონლაინ ფოტოშოპი.",
+          "intDesc": "id5_desc_photoshop",
+          "url": "https://www.photopea.com",
+          "logo": "/images/photopea-logo.png",
+          "preview": "/images/photopea-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "EDIT.PHOTO",
+          "description": "ფოტოების რედაქტირება და ეფექტების დადება.",
+          "intDesc": "id6_desc_photoshop",
+          "url": "https://www.edit.photo",
+          "logo": "/images/editphoto-logo.png",
+          "preview": "/images/editphoto-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "PIXLR.COM",
+          "description": "ფოტოებზე ეფექტის დადება.",
+          "intDesc": "id7_desc_photoshop",
+          "url": "https://www.pixlr.com",
+          "logo": "/images/pixlr-logo.png",
+          "preview": "/images/pixlr-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "FOTOR.COM",
+          "description": "ონლაინ ფოტოშოპი უფასოდ.",
+          "intDesc": "id8_desc_photoshop",
+          "url": "https://www.fotor.com",
+          "logo": "/images/fotor-logo.png",
+          "preview": "/images/fotor-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "PICMONKEY.COM",
+          "description": "სურათების რედატირება ონლაინ.",
+          "intDesc": "id9_desc_photoshop",
+          "url": "https://www.picmonkey.com",
+          "logo": "/images/picmonkey-logo.png",
+          "preview": "/images/picmonkey-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "animals",
+      "name": "ცხოველები",
+      "description": "ონლაინ ზოომაღაზიები, ვეტერინარული სერვისები და ცხოველებზე ინფორმაცია საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "animals_description",
+      "logo": "PawPrint",
+      "bkglogo": "/images/animals-logobkg.png",
+      "titleKey": "home_animals",
+      "priority": 30,
+      "sites": [
+        {
+          "id": 1,
+          "title": "WOOFY.GE",
+          "description": "WOOFY.GE — გრუმინგ სალონი საქართველოში.",
+          "intDesc": "id1_desc_animals",
+          "url": "https://woofy.ge",
+          "logo": "/images/woofy-logo.png",
+          "preview": "/images/woofy-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "PETFOOD.GE",
+          "description": "PETFOOD.GE — ყველაფერი ძაღლისთვის და კატისთვის.",
+          "intDesc": "id2_desc_animals",
+          "url": "https://www.petfood.ge",
+          "logo": "/images/petfood-logo.png",
+          "preview": "/images/petfood-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "ZOOMART.GE",
+          "description": "ZOOMART.GE — ყველაფერი ცხოველებისთვის.",
+          "intDesc": "id3_desc_animals",
+          "url": "https://www.zoomart.ge",
+          "logo": "/images/zoomart-logo.png",
+          "preview": "/images/zoomart-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "ZOOCITY.GE",
+          "description": "ZOOCITY.GE — ცხოველების კვება და ვეტერინალური მომსახურება.",
+          "intDesc": "id4_desc_animals",
+          "url": "https://www.zoocity.ge",
+          "logo": "/images/zoocity-logo.png",
+          "preview": "/images/zoocity-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "ZOOPLUS.GE",
+          "description": "ZOOPLUS.GE — ყველაფერი ცხოველების და მათი მოვლის შესახებ.",
+          "intDesc": "id5_desc_animals",
+          "url": "https://zooplus.ge",
+          "logo": "/images/zooplus-logo.png",
+          "preview": "/images/zooplus-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "PETCO.COM",
+          "description": "PETCO.COM — один из крупнейших американских ритейлеров товаров для животных.",
+          "intDesc": "id6_desc_animals",
+          "url": "https://www.petco.com",
+          "logo": "/images/petco-logo.png",
+          "preview": "/images/petco-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "CHEWY.COM",
+          "description": "CHEWY.COM — крупнейший американский онлайн-магазин товаров для собак и кошек.",
+          "intDesc": "id7_desc_animals",
+          "url": "https://www.chewy.com",
+          "logo": "/images/chewy-logo.png",
+          "preview": "/images/chewy-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "ASPCA.ORG",
+          "description": "ASPCA.ORG — Американское общество по предотвращению жестокого обращения с животными.",
+          "intDesc": "id8_desc_animals",
+          "url": "https://www.aspca.org",
+          "logo": "/images/aspca-logo.png",
+          "preview": "/images/aspca-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "ZOOMAG.RU",
+          "description": "ZOOMAG.RU — российский интернет-магазин товаров для животных.",
+          "intDesc": "id9_desc_animals",
+          "url": "https://zoomag.ru/",
+          "logo": "/images/zoomag-logo.png",
+          "preview": "/images/zoomag-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "4LAPY.RU",
+          "description": "4LAPY.RU — популярная сеть зоомагазинов в России.",
+          "intDesc": "id10_desc_animals",
+          "url": "https://www.4lapy.ru",
+          "logo": "/images/4lapy-logo.png",
+          "preview": "/images/4lapy-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "ZONAZOO.RU",
+          "description": "ZONAZOO.RU — российский портал о животных, уходе и ветеринарии.",
+          "intDesc": "id11_desc_animals",
+          "url": "https://www.zonazoo.ru",
+          "logo": "/images/zonazoo-logo.png",
+          "preview": "/images/zonazoo-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "delivery",
+      "name": "გამოძახების სერვისი",
+      "description": "საჭმლის, ტაქსის და სხვადასხვა გამოძახების სერვისები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "delivery_description",
+      "logo": "Truck",
+      "bkglogo": "/images/delivery-logobkg.png",
+      "titleKey": "home_delivery",
+      "priority": 24,
+      "sites": [
+        {
+          "id": 1,
+          "title": "GLOVOAPP.COM",
+          "description": "Glovo — საჭმლის მიტანის სერვისი საქართველოში.",
+          "intDesc": "id1_desc_delivery",
+          "url": "https://glovoapp.com",
+          "logo": "/images/glovo-logo.png",
+          "preview": "/images/glovo-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "WOLT.COM",
+          "description": "Wolt — საჭმლის გამოძახების სერვისი.",
+          "intDesc": "id2_desc_delivery",
+          "url": "https://wolt.com",
+          "logo": "/images/wolt-logo.png",
+          "preview": "/images/wolt-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "BOLT.EU",
+          "description": "Bolt — ტაქსის გამოძახების სერვისი.",
+          "intDesc": "id3_desc_delivery",
+          "url": "https://bolt.eu",
+          "logo": "/images/bolt-logo.png",
+          "preview": "/images/bolt-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "TAXIMAXIM.GE",
+          "description": "Taximaxim.ge — ტაქსის გამოძახების იაფი სერვისი საქართველოში.",
+          "intDesc": "id4_desc_delivery",
+          "url": "https://taximaxim.ge",
+          "logo": "/images/taximaxim-logo.png",
+          "preview": "/images/taximaxim-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "UBER.COM",
+          "description": "Uber.com — крупнейший американский сервис такси и доставки.",
+          "intDesc": "id5_desc_delivery",
+          "url": "https://www.uber.com",
+          "logo": "/images/uber-logo.png",
+          "preview": "/images/uber-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "LYFT.COM",
+          "description": "Lyft.com — популярный американский сервис такси.",
+          "intDesc": "id6_desc_delivery",
+          "url": "https://www.lyft.com",
+          "logo": "/images/lyft-logo.png",
+          "preview": "/images/lyft-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "DOORDASH.COM",
+          "description": "DoorDash.com — крупнейший американский сервис доставки еды.",
+          "intDesc": "id7_desc_delivery",
+          "url": "https://www.doordash.com",
+          "logo": "/images/doordash-logo.png",
+          "preview": "/images/doordash-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "POSTMATES.COM",
+          "description": "Postmates.com — американский сервис доставки еды и товаров.",
+          "intDesc": "id8_desc_delivery",
+          "url": "https://www.postmates.com",
+          "logo": "/images/postmates-logo.png",
+          "preview": "/images/postmates-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "EDA.YANDEX.RU",
+          "description": "eda.yandex.ru — российский сервис доставки еды.",
+          "intDesc": "id9_desc_delivery",
+          "url": "https://eda.yandex.ru",
+          "logo": "/images/yandexeda-logo.png",
+          "preview": "/images/yandexeda-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "DELIVERY-CLUB.RU",
+          "description": "Delivery-club.ru — крупнейший российский сервис доставки еды.",
+          "intDesc": "id10_desc_delivery",
+          "url": "https://www.delivery-club.ru",
+          "logo": "/images/deliveryclub-logo.png",
+          "preview": "/images/deliveryclub-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "TAXI.YANDEX.RU",
+          "description": "Taxi.yandex.ru — крупнейший российский сервис такси.",
+          "intDesc": "id11_desc_delivery",
+          "url": "https://taxi.yandex.ru",
+          "logo": "/images/yandextaxi-logo.png",
+          "preview": "/images/yandextaxi-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "CITY-MOBIL.RU",
+          "description": "City-mobil.ru — российский сервис заказа такси.",
+          "intDesc": "id12_desc_delivery",
+          "url": "https://city-mobil.ru",
+          "logo": "/images/citymobil-logo.png",
+          "preview": "/images/citymobil-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "dictionary",
+      "name": "სლოვარი",
+      "description": "ონლაინ ლექსიკონები და თარგმანების სერვისები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "dictionary_description",
+      "logo": "BookOpen",
+      "bkglogo": "/images/dictionary-logobkg.png",
+      "titleKey": "home_dictionary",
+      "priority": 28,
+      "sites": [
+        {
+          "id": 1,
+          "title": "TRANSLATE.GE",
+          "description": "Translate.ge — ქართული ონლაინ ლექსიკონი და თარგმანის სერვისი.",
+          "intDesc": "id1_desc_dictionary",
+          "url": "https://translate.ge",
+          "logo": "/images/translatege-logo.png",
+          "preview": "/images/translatege-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "MERRIAM-WEBSTER.COM",
+          "description": "Merriam-Webster.com — ერთ-ერთი ყველაზე ცნობილი ამერიკული ლექსიკონი.",
+          "intDesc": "id2_desc_dictionary",
+          "url": "https://www.merriam-webster.com",
+          "logo": "/images/merriamwebster-logo.png",
+          "preview": "/images/merriamwebster-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "DICTIONARY.COM",
+          "description": "Dictionary.com — პოპულარული ამერიკული ონლაინ ლექსიკონი და თარგმანის სერვისი.",
+          "intDesc": "id3_desc_dictionary",
+          "url": "https://www.dictionary.com",
+          "logo": "/images/dictionarycom-logo.png",
+          "preview": "/images/dictionarycom-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "DICTIONARY.CAMBRIDGE.ORG",
+          "description": "Cambridge.org/dictionary — კემბრიჯის უნივერსიტეტის ინგლისური ლექსიკონი.",
+          "intDesc": "id4_desc_dictionary",
+          "url": "https://dictionary.cambridge.org",
+          "logo": "/images/cambridge-logo.png",
+          "preview": "/images/cambridge-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "OXFORDLEARNERSDICTIONARIES.COM",
+          "description": "Oxfordlearnersdictionaries.com — ოქსფორდის უნივერსიტეტის ინგლისური ლექსიკონი.",
+          "intDesc": "id5_desc_dictionary",
+          "url": "https://www.oxfordlearnersdictionaries.com",
+          "logo": "/images/oxford-logo.png",
+          "preview": "/images/oxford-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "MULTITRAN.COM",
+          "description": "Multitran.com — один из самых популярных русскоязычных онлайн-словарей.",
+          "intDesc": "id6_desc_dictionary",
+          "url": "https://www.multitran.com",
+          "logo": "/images/multitran-logo.png",
+          "preview": "/images/multitran-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "GRAMOTA.RU",
+          "description": "Gramota.ru — словари русского языка и справочная служба.",
+          "intDesc": "id7_desc_dictionary",
+          "url": "https://www.gramota.ru",
+          "logo": "/images/gramota-logo.png",
+          "preview": "/images/gramota-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "DIC.ACADEMIC.RU",
+          "description": "Academic.ru — онлайн-энциклопедии и словари на русском языке.",
+          "intDesc": "id8_desc_dictionary",
+          "url": "https://dic.academic.ru",
+          "logo": "/images/academic-logo.png",
+          "preview": "/images/academic-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "gov",
+      "name": "სახელმწიფო სამსახური",
+      "description": "სახელმწიფო უწყებები და ოფიციალური სააგენტოები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "gov_description",
+      "logo": "Landmark",
+      "bkglogo": "/images/gov-logobkg.png",
+      "titleKey": "home_gov",
+      "priority": 36,
+      "sites": [
+        {
+          "id": 1,
+          "title": "EQE.GE",
+          "description": "EQE.GE — განათლების ხარისხის განვითარების ეროვნული ცენტრი.",
+          "intDesc": "id1_desc_gov",
+          "url": "https://eqe.ge",
+          "logo": "/images/eqe-logo.png",
+          "preview": "/images/eqe-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "PARLIAMENT.GE",
+          "description": "PARLIAMENT.GE — საქართველოს პარლამენტის ოფიციალური ვებსაიტი.",
+          "intDesc": "id2_desc_gov",
+          "url": "https://parliament.ge",
+          "logo": "/images/parliament-logo.png",
+          "preview": "/images/parliament-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "RS.GE",
+          "description": "RS.GE — საქართველოს შემოსავლების სამსახური.",
+          "intDesc": "id3_desc_gov",
+          "url": "https://rs.ge",
+          "logo": "/images/rs-logo.png",
+          "preview": "/images/rs-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "NOTARY.GE",
+          "description": "NOTARY.GE — საქართველოს ნოტარიუსთა პალატა.",
+          "intDesc": "id4_desc_gov",
+          "url": "https://notary.ge",
+          "logo": "/images/notary-logo.png",
+          "preview": "/images/notary-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "NAPR.GOV.GE",
+          "description": "NAPR.GOV.GE — საჯარო რეესტრის ეროვნული სააგენტო.",
+          "intDesc": "id5_desc_gov",
+          "url": "https://napr.gov.ge",
+          "logo": "/images/napr-logo.png",
+          "preview": "/images/napr-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "USA.GOV",
+          "description": "USA.GOV — ოფიციალური პორტალი ამერიკის შეერთებული შტატების ფედერალური მთავრობის.",
+          "intDesc": "id6_desc_gov",
+          "url": "https://www.usa.gov",
+          "logo": "/images/usagov-logo.png",
+          "preview": "/images/usagov-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "IRS.GOV",
+          "description": "IRS.GOV — აშშ-ის შიდა შემოსავლების სამსახური (Internal Revenue Service).",
+          "intDesc": "id7_desc_gov",
+          "url": "https://www.irs.gov",
+          "logo": "/images/irs-logo.png",
+          "preview": "/images/irs-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "CONGRESS.GOV",
+          "description": "CONGRESS.GOV — აშშ კონგრესის ოფიციალური ვებსაიტი.",
+          "intDesc": "id8_desc_gov",
+          "url": "https://www.congress.gov",
+          "logo": "/images/congress-logo.png",
+          "preview": "/images/congress-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "GOSUSLUGI.RU",
+          "description": "GOSUSLUGI.RU — единый портал государственных услуг России.",
+          "intDesc": "id9_desc_gov",
+          "url": "https://www.gosuslugi.ru",
+          "logo": "/images/gosuslugi-logo.png",
+          "preview": "/images/gosuslugi-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "tourism",
+      "name": "ტურისტული კომპანიები",
+      "description": "ტურისტული სააგენტოები და მოგზაურობის სერვისები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "tourism_description",
+      "logo": "Mountain",
+      "bkglogo": "/images/tourism-logobkg.png",
+      "titleKey": "home_tourism",
+      "priority": 20,
+      "sites": [
+        {
+          "id": 1,
+          "title": "TRAVELFY.GE",
+          "description": "TRAVELFY.GE — თრეველფაი ტურისტული კომპანია საქართველოში.",
+          "intDesc": "id1_desc_tourism",
+          "url": "https://travelfy.ge",
+          "logo": "/images/travelfy-logo.png",
+          "preview": "/images/travelfy-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "GOODTRAVEL.GE",
+          "description": "GOODTRAVEL.GE — იმოგზაურე კომფორტულად საქართველოში და მის ფარგლებს გარეთ.",
+          "intDesc": "id2_desc_tourism",
+          "url": "https://goodtravel.ge",
+          "logo": "/images/goodtravel-logo.png",
+          "preview": "/images/goodtravel-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "VOYAGER365.GE",
+          "description": "VOYAGER365.GE — ტურისტული კომპანია Voyager 365 საქართველოში.",
+          "intDesc": "id3_desc_tourism",
+          "url": "https://voyager365.ge",
+          "logo": "/images/voyager365-logo.png",
+          "preview": "/images/voyager365-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "TUREBI.GE",
+          "description": "TUREBI.GE — ყველა ტური საქართველოში და მსოფლიოს ნებისმიერ ადგილზე ერთ საიტზე.",
+          "intDesc": "id4_desc_tourism",
+          "url": "https://www.turebi.ge",
+          "logo": "/images/turebi-logo.png",
+          "preview": "/images/turebi-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "DISCOVERGEORGIA.GE",
+          "description": "DISCOVERGEORGIA.GE — დაჯავშნე ტურები საქართველოში და აღმოაჩინე საქართველო.",
+          "intDesc": "id5_desc_tourism",
+          "url": "https://discovergeorgia.ge",
+          "logo": "/images/discovergeorgia-logo.png",
+          "preview": "/images/discovergeorgia-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "OKTRAVEL.GE",
+          "description": "OKTRAVEL.GE — მოგზაურობა მსოფლიოს გარშემო.",
+          "intDesc": "id6_desc_tourism",
+          "url": "https://oktravel.ge",
+          "logo": "/images/oktravel-logo.png",
+          "preview": "/images/oktravel-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "EXPEDIA.COM",
+          "description": "EXPEDIA.COM — ერთ-ერთი უმსხვილესი ამერიკული ტურისტული კომპანია, სასტუმროებისა და ფრენების დაჯავშნა.",
+          "intDesc": "id7_desc_tourism",
+          "url": "https://www.expedia.com",
+          "logo": "/images/expedia-logo.png",
+          "preview": "/images/expedia-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "BOOKING.COM",
+          "description": "BOOKING.COM — საერთაშორისო პლატფორმა სასტუმროებისა და ტურების დაჯავშნისთვის.",
+          "intDesc": "id8_desc_tourism",
+          "url": "https://www.booking.com",
+          "logo": "/images/booking-logo.png",
+          "preview": "/images/booking-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "TRIPADVISOR.COM",
+          "description": "TRIPADVISOR.COM — ამერიკული პლატფორმა მოგზაურობის მიმოხილვებისა და ტურისტული რჩევებისთვის.",
+          "intDesc": "id9_desc_tourism",
+          "url": "https://www.tripadvisor.com",
+          "logo": "/images/tripadvisor-logo.png",
+          "preview": "/images/tripadvisor-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "TUTU.RU",
+          "description": "TUTU.RU — российский туристический портал для бронирования билетов и туров.",
+          "intDesc": "id10_desc_tourism",
+          "url": "https://www.tutu.ru",
+          "logo": "/images/tutu-logo.png",
+          "preview": "/images/tutu-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "LEVEL.TRAVEL",
+          "description": "LEVEL.TRAVEL — российская система онлайн-бронирования туров.",
+          "intDesc": "id11_desc_tourism",
+          "url": "https://www.level.travel",
+          "logo": "/images/leveltravel-logo.png",
+          "preview": "/images/leveltravel-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "TRAVELATA.RU",
+          "description": "TRAVELATA.RU — поиск и бронирование горящих туров в России.",
+          "intDesc": "id12_desc_tourism",
+          "url": "https://www.travelata.ru",
+          "logo": "/images/travelata-logo.png",
+          "preview": "/images/travelata-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "crypto",
+      "name": "კრიპტოვალუტა",
+      "description": "კრიპტოვალუტის ბირჟები და სერვისები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "slug_description",
+      "logo": "Bitcoin",
+      "bkglogo": "/images/crypto-logobkg.png",
+      "titleKey": "home_crypto",
+      "priority": 11,
+      "sites": [
+        {
+          "id": 1,
+          "title": "BITNET.GE",
+          "description": "BITNET.GE — ქართული კრიპტოვალუტის ბირჟა.",
+          "intDesc": "id1_desc_crypto",
+          "url": "https://bitnet.ge",
+          "logo": "/images/bitnet-logo.png",
+          "preview": "/images/bitnet-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "CRYPTAL.COM",
+          "description": "CRYPTAL.COM — შეიძინე კრიპტოვალუტა სწრაფად და უსაფრთხოდ საქართველოში.",
+          "intDesc": "id2_desc_crypto",
+          "url": "https://cryptal.com",
+          "logo": "/images/cryptal-logo.png",
+          "preview": "/images/cryptal-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "WHITEBIT.GE",
+          "description": "WHITEBIT.GE — ყველაზე დიდი კრიპტოვალუტების ბირჟა ქართულად.",
+          "intDesc": "id3_desc_crypto",
+          "url": "https://whitebit.ge",
+          "logo": "/images/whitebit-logo.png",
+          "preview": "/images/whitebit-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "COINMARKETCAP.COM",
+          "description": "COINMARKETCAP.COM — ერთ-ერთი უმსხვილესი ამერიკული პლატფორმა კრიპტოვალუტების ფასებისა და ინფორმაციისთვის.",
+          "intDesc": "id4_desc_crypto",
+          "url": "https://coinmarketcap.com",
+          "logo": "/images/coinmarketcap-logo.png",
+          "preview": "/images/coinmarketcap-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "BINANCE.COM",
+          "description": "BINANCE.COM — საერთაშორისო კრიპტოვალუტის ბირჟა და სავაჭრო პლატფორმა.",
+          "intDesc": "id5_desc_crypto",
+          "url": "https://www.binance.com",
+          "logo": "/images/binance-logo.png",
+          "preview": "/images/binance-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "GATE.IO",
+          "description": "GATE.IO — საერთაშორისო კრიპტოვალუტის ბირჟა ნებისმიერი კოინის ყიდვისთვის.",
+          "intDesc": "id6_desc_crypto",
+          "url": "https://www.gate.io",
+          "logo": "/images/gateio-logo.png",
+          "preview": "/images/gateio-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "POLONIEX.COM",
+          "description": "POLONIEX.COM — ამერიკული კრიპტო ბირჟა მარტივი სავაჭრო გამოცდილებით.",
+          "intDesc": "id7_desc_crypto",
+          "url": "https://poloniex.com",
+          "logo": "/images/poloniex-logo.png",
+          "preview": "/images/poloniex-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "BESTCHANGE.RU",
+          "description": "BESTCHANGE.RU — мониторинг обменников криптовалюты и электронных денег в России.",
+          "intDesc": "id8_desc_crypto",
+          "url": "https://www.bestchange.ru",
+          "logo": "/images/bestchange-logo.png",
+          "preview": "/images/bestchange-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "MATBEA.COM",
+          "description": "MATBEA.COM — российская криптобиржа для покупки и продажи биткоина.",
+          "intDesc": "id9_desc_crypto",
+          "url": "https://matbea.com",
+          "logo": "/images/matbea-logo.png",
+          "preview": "/images/matbea-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "casino",
+      "name": "კაზინოები",
+      "description": "ონლაინ კაზინოები და ტოტალიზატორები საქართველოში, ამერიკაში და რუსეთში.",
+      "desc": "casino_description",
+      "logo": "Dices",
+      "bkglogo": "/images/casino-logobkg.png",
+      "titleKey": "home_casino",
+      "priority": 42,
+      "sites": [
+        {
+          "id": 1,
+          "title": "ASVLA.COM",
+          "description": "ASVLA.COM - სლოტების დიდი არჩევანი.",
+          "intDesc": "id1_desc_casino",
+          "url": "https://asvla.com",
+          "logo": "/images/asvla-logo.png",
+          "preview": "/images/asvla-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "VBET.COM",
+          "description": "VBET.COM - აღმოაჩინე გართობის ახალი სივრცე.",
+          "intDesc": "id2_desc_casino",
+          "url": "https://vbet.com",
+          "logo": "/images/vbet-logo.png",
+          "preview": "/images/vbet-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "MEGAPARI.COM",
+          "description": "MEGAPARI.COM - ყველა აზარტული თამაში ერთად.",
+          "intDesc": "id3_desc_casino",
+          "url": "https://megapari.com",
+          "logo": "/images/megapari-logo.png",
+          "preview": "/images/megapari-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "BETWINNER.COM",
+          "description": "BETWINNER.COM - სლოტების მრავალფეროვანი არჩევანი.",
+          "intDesc": "id4_desc_casino",
+          "url": "https://betwinner.com",
+          "logo": "/images/betwinner-logo.png",
+          "preview": "/images/betwinner-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "PARIPESA.COM",
+          "description": "PARIPESA.COM - თანამედროვე კაზინო, მარტივი ინტერფეისით.",
+          "intDesc": "id5_desc_casino",
+          "url": "https://paripesa.com",
+          "logo": "/images/paripesa-logo.png",
+          "preview": "/images/paripesa-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "MELBET.COM",
+          "description": "MELBET.COM - ონლაინ სპორტული ფსონები და კაზინო.",
+          "intDesc": "id6_desc_casino",
+          "url": "https://melbet.com",
+          "logo": "/images/melbet-logo.png",
+          "preview": "/images/melbet-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "22BET.COM",
+          "description": "22BET.COM - ითამაშე ყველაფერი ქართულად.",
+          "intDesc": "id7_desc_casino",
+          "url": "https://22bet.com",
+          "logo": "/images/22bet-logo.png",
+          "preview": "/images/22bet-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "CROCOBET.COM",
+          "description": "CROCOBET.COM - აზარტული თამაშების საუკეთესო საიტი.",
+          "intDesc": "id8_desc_casino",
+          "url": "https://crocobet.com",
+          "logo": "/images/crocobet-logo.png",
+          "preview": "/images/crocobet-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "CRYSTALBET.COM",
+          "description": "CRYSTALBET.COM - ონლაინ ტოტალიზატორი და კაზინო.",
+          "intDesc": "id9_desc_casino",
+          "url": "https://crystalbet.com",
+          "logo": "/images/crystalbet-logo.png",
+          "preview": "/images/crystalbet-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "ADJARABET.COM",
+          "description": "ADJARABET.COM - ონლაინ ტოტალიზატორი და კაზინო.",
+          "intDesc": "id10_desc_casino",
+          "url": "https://adjarabet.com",
+          "logo": "/images/adjarabet-logo.png",
+          "preview": "/images/adjarabet-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "LIDER-BET.COM",
+          "description": "LIDER-BET.COM - სპორტი და კაზინო.",
+          "intDesc": "id11_desc_casino",
+          "url": "https://lider-bet.com",
+          "logo": "/images/liderbet-logo.png",
+          "preview": "/images/liderbet-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "BETLIVE.COM",
+          "description": "BETLIVE.COM - ქართული ონლაინ ტოტალიზატორი.",
+          "intDesc": "id12_desc_casino",
+          "url": "https://betlive.com",
+          "logo": "/images/betlive-logo.png",
+          "preview": "/images/betlive-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "EUROPEBET.COM",
+          "description": "EUROPEBET.COM - საუკეთესო მობილური კაზინო და პოკერი.",
+          "intDesc": "id13_desc_casino",
+          "url": "https://europebet.com",
+          "logo": "/images/europebet-logo.png",
+          "preview": "/images/europebet-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "AMBASSADORIBET.COM",
+          "description": "AMBASSADORIBET.COM - ახალი ქართული ონლაინ კაზინო.",
+          "intDesc": "id14_desc_casino",
+          "url": "https://ambassadoribet.com",
+          "logo": "/images/ambassadoribet-logo.png",
+          "preview": "/images/ambassadoribet-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "JVSPIN.COM",
+          "description": "JVSPIN.COM - ონლაინ კაზინო და სპორტზე ფსონების პლატფორმა.",
+          "intDesc": "id15_desc_casino",
+          "url": "https://jvspin.com",
+          "logo": "/images/jvspin-logo.png",
+          "preview": "/images/jvspin-preview.png"
+        },
+        {
+          "id": 16,
+          "title": "GAMDOM.COM",
+          "description": "GAMDOM.COM - ონლაინ აზარტული თამაშების პლატფორმა.",
+          "intDesc": "id16_desc_casino",
+          "url": "https://gamdom.com",
+          "logo": "/images/gamdom-logo.png",
+          "preview": "/images/gamdom-preview.png"
+        },
+        {
+          "id": 17,
+          "title": "LINEBET.COM",
+          "description": "LINEBET.COM - ტოტალიზატორი და კაზინო ქართულად.",
+          "intDesc": "id17_desc_casino",
+          "url": "https://linebet.com",
+          "logo": "/images/linebet-logo.png",
+          "preview": "/images/linebet-preview.png"
+        },
+        {
+          "id": 18,
+          "title": "STAKE.COM",
+          "description": "STAKE.COM - ყველაზე ცნობილი ტოტალიზატორი და კაზინო კრიპტოვალუტით.",
+          "intDesc": "id18_desc_casino",
+          "url": "https://stake.com",
+          "logo": "/images/stake-logo.png",
+          "preview": "/images/stake-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "horoscope",
+      "name": "ჰოროსკოპი",
+      "description": "ჰოროსკოპის საიტები და ასტროლოგიური სერვისები საქართველოში, რუსეთში და აშშ-ში.",
+      "desc": "horoscope_description",
+      "logo": "Sparkles",
+      "bkglogo": "/images/horoscope-logobkg.png",
+      "titleKey": "home_horoscope",
+      "priority": 39,
+      "sites": [
+        {
+          "id": 1,
+          "title": "MYASTRO.GE",
+          "description": "MYASTRO.GE — დღის ჰოროსკოპი და ასტროლოგია.",
+          "intDesc": "id1_desc_horoscope",
+          "url": "https://myastro.ge",
+          "logo": "/images/myastro-logo.png",
+          "preview": "/images/myastro-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "HOROSKOPI.GE",
+          "description": "HOROSKOPI.GE — ყოველდღიური ჰოროსკოპი.",
+          "intDesc": "id2_desc_horoscope",
+          "url": "https://horoskopi.ge",
+          "logo": "/images/horoskopi-logo.png",
+          "preview": "/images/horoskopi-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "FUNTIME.GE",
+          "description": "FUNTIME.GE — გაიგე ყოველდღიური ჰოროსკოპი.",
+          "intDesc": "id3_desc_horoscope",
+          "url": "https://funtime.ge",
+          "logo": "/images/funtime-logo.png",
+          "preview": "/images/funtime-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "ASTROSCOPE.RU",
+          "description": "ASTROSCOPE.RU — гороскопы и астрология в России.",
+          "intDesc": "id4_desc_horoscope",
+          "url": "https://astroscope.ru",
+          "logo": "/images/astroscope-logo.png",
+          "preview": "/images/astroscope-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "1001GOROSKOP.RU",
+          "description": "1001GOROSKOP.RU — популярный сайт с гороскопами и предсказаниями.",
+          "intDesc": "id5_desc_horoscope",
+          "url": "https://1001goroskop.ru",
+          "logo": "/images/1001goroskop-logo.png",
+          "preview": "/images/1001goroskop-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "ASTROLOGY.COM",
+          "description": "ASTROLOGY.COM — один из самых известных сайтов США по астрологии и гороскопам.",
+          "intDesc": "id6_desc_horoscope",
+          "url": "https://www.astrology.com",
+          "logo": "/images/astrology-logo.png",
+          "preview": "/images/astrology-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "HOROSCOPE.COM",
+          "description": "HOROSCOPE.COM — ежедневные гороскопы и предсказания на английском языке.",
+          "intDesc": "id7_desc_horoscope",
+          "url": "https://www.horoscope.com",
+          "logo": "/images/horoscopecom-logo.png",
+          "preview": "/images/horoscopecom-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "CAFEASTROLOGY.COM",
+          "description": "CAFEASTROLOGY.COM — популярный англоязычный сайт о гороскопах и астрологии.",
+          "intDesc": "id8_desc_horoscope",
+          "url": "https://cafeastrology.com",
+          "logo": "/images/cafeastrology-logo.png",
+          "preview": "/images/cafeastrology-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "insurance",
+      "name": "დაზღვევა",
+      "description": "სადაზღვევო კომპანიები და სერვისები საქართველოში, რუსეთში და აშშ-ში.",
+      "desc": "insurance_description",
+      "logo": "ShieldCheck",
+      "bkglogo": "/images/insurance-logobkg.png",
+      "titleKey": "home_insurance",
+      "priority": 23,
+      "sites": [
+        {
+          "id": 1,
+          "title": "ALDAGI.GE",
+          "description": "ALDAGI.GE — მრავალფეროვანი სადაზღვევო პაკეტები საუკეთესო პირობებით, საუკეთესო ფასად.",
+          "intDesc": "id1_desc_insurance",
+          "url": "https://aldagi.ge",
+          "logo": "/images/aldagi-logo.png",
+          "preview": "/images/aldagi-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "ALPHA.GE",
+          "description": "ALPHA.GE — სადაზღვევო პროდუქტების სრული სპექტრი როგორც საცალო,  ასევე კორპორატიული მიმართულებით.",
+          "intDesc": "id2_desc_insurance",
+          "url": "https://alpha.ge",
+          "logo": "/images/alpha-logo.png",
+          "preview": "/images/alpha-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "MYGPI.GE",
+          "description": "MYGPI.GE — სამოგზაურო დაზღვევა, ჯანმრთელობის დაზღვევა, ავტომობილის დაზღვევა, ქონების დაზღვევა.",
+          "intDesc": "id3_desc_insurance",
+          "url": "https://mygpi.ge",
+          "logo": "/images/mygpi-logo.png",
+          "preview": "/images/mygpi-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "IRAO.GE",
+          "description": "IRAO.GE — ირაო ლიდერი სადაზღვევო კომპანიაა, რომელიც უკვე 20 წელია წარმატებულად ოპერირებს საქართველოში.",
+          "intDesc": "id4_desc_insurance",
+          "url": "https://irao.ge",
+          "logo": "/images/irao-logo.png",
+          "preview": "/images/irao-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "IMEDIL.GE",
+          "description": "IMEDIL.GE — ყველა დაზღვევა ერთ სივრცეში.",
+          "intDesc": "id5_desc_insurance",
+          "url": "https://imedil.ge",
+          "logo": "/images/imedil-logo.png",
+          "preview": "/images/imedil-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "INGOS.RU",
+          "description": "INGOS.RU — Ингосстрах, одна из крупнейших страховых компаний России.",
+          "intDesc": "id6_desc_insurance",
+          "url": "https://ingos.ru",
+          "logo": "/images/ingos-logo.png",
+          "preview": "/images/ingos-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "RESO.RU",
+          "description": "RESO.RU — РЕСО-Гарантия, федеральная страховая компания.",
+          "intDesc": "id7_desc_insurance",
+          "url": "https://reso.ru",
+          "logo": "/images/reso-logo.png",
+          "preview": "/images/reso-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "ALFASTRAH.RU",
+          "description": "ALFASTRAH.RU — АльфаСтрахование, популярная российская страховая компания.",
+          "intDesc": "id8_desc_insurance",
+          "url": "https://alfastrah.ru",
+          "logo": "/images/alfastrah-logo.png",
+          "preview": "/images/alfastrah-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "GEICO.COM",
+          "description": "GEICO.COM — ერთ-ერთი ყველაზე ცნობილი სადაზღვევო კომპანია აშშ-ში.",
+          "intDesc": "id9_desc_insurance",
+          "url": "https://www.geico.com",
+          "logo": "/images/geico-logo.png",
+          "preview": "/images/geico-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "forum",
+      "name": "ფორუმი",
+      "description": "ონლაინ ფორუმები საქართველოში, რუსეთში და აშშ-ში.",
+      "desc": "forum_description",
+      "logo": "MessageCircle",
+      "bkglogo": "/images/forum-logobkg.png",
+      "titleKey": "home_forum",
+      "priority": 30,
+      "sites": [
+        {
+          "id": 1,
+          "title": "FORUM.GE",
+          "description": "FORUM.GE — ნომერ პირველი თბილისის ფორუმი.",
+          "intDesc": "id1_desc_forum",
+          "url": "https://forum.ge",
+          "logo": "/images/forumge-logo.png",
+          "preview": "/images/forumge-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "4PDA.TO",
+          "description": "4PDA.TO — самый известный российский IT-форум о гаджетах и технологиях.",
+          "intDesc": "id2_desc_forum",
+          "url": "https://4pda.to",
+          "logo": "/images/4pda-logo.png",
+          "preview": "/images/4pda-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "REDDIT.COM",
+          "description": "REDDIT.COM — ერთ-ერთი ყველაზე ცნობილი ამერიკული ფორუმი და სოციალური პლატფორმა.",
+          "intDesc": "id3_desc_forum",
+          "url": "https://www.reddit.com",
+          "logo": "/images/reddit-logo.png",
+          "preview": "/images/reddit-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "QUORA.COM",
+          "description": "QUORA.COM — ამერიკული კითხვებისა და პასუხების ფორუმი.",
+          "intDesc": "id4_desc_forum",
+          "url": "https://www.quora.com",
+          "logo": "/images/quora-logo.png",
+          "preview": "/images/quora-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "airtickets",
+      "name": "ავიაბილეთები",
+      "description": "ავიაბილეთების შეძენა და დაჯავშნის სერვისები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "airtickets_description",
+      "logo": "Plane",
+      "bkglogo": "/images/airtickets-logobkg.png",
+      "titleKey": "home_airtickets",
+      "priority": 35,
+      "sites": [
+        {
+          "id": 1,
+          "title": "WIZZAIR.COM",
+          "description": "WIZZAIR.COM — ავიაბილეთების ყიდვა და დაჯავშნა ონლაინ.",
+          "intDesc": "id1_desc_airtickets",
+          "url": "https://wizzair.com",
+          "logo": "/images/wizzair-logo.png",
+          "preview": "/images/wizzair-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "FLY.GE",
+          "description": "FLY.GE — 10 წლიანი წარმატებული სამუშაო გამოცდილების მქონე, წამყვანი ონლაინ ტურისტული სააგენტო საქართველოში.",
+          "intDesc": "id2_desc_airtickets",
+          "url": "https://fly.ge",
+          "logo": "/images/flyge-logo.png",
+          "preview": "/images/flyge-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "AVIABILETEBI.ORG",
+          "description": "AVIABILETEBI.ORG — მსხვილი ავიაბილეთების საძიებო  საქართველოში.",
+          "intDesc": "id3_desc_airtickets",
+          "url": "https://aviabiletebi.org",
+          "logo": "/images/aviabiletebi-logo.png",
+          "preview": "/images/aviabiletebi-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "TICKETS.GE",
+          "description": "TICKETS.GE — ყველაზე მეტი ავიაბილეთები ერთ საიტზე.",
+          "intDesc": "id4_desc_airtickets",
+          "url": "https://tickets.ge",
+          "logo": "/images/ticketsge-logo.png",
+          "preview": "/images/ticketsge-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "TICKET.VANILLASKY.GE",
+          "description": "TICKET.VANILLASKY.GE — შიდა ფრენები და ტურები საქართველოში.",
+          "intDesc": "id5_desc_airtickets",
+          "url": "https://ticket.vanillasky.ge/ge",
+          "logo": "/images/vanillasky-logo.png",
+          "preview": "/images/vanillasky-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "AVIASALES.RU",
+          "description": "AVIASALES.RU — один из крупнейших российских сервисов поиска авиабилетов.",
+          "intDesc": "id6_desc_airtickets",
+          "url": "https://www.aviasales.ru",
+          "logo": "/images/aviasales-logo.png",
+          "preview": "/images/aviasales-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "TUTU.RU",
+          "description": "TUTU.RU — российский сервис для покупки авиабилетов и ж/д билетов.",
+          "intDesc": "id7_desc_airtickets",
+          "url": "https://www.tutu.ru",
+          "logo": "/images/tutu-logo.png",
+          "preview": "/images/tutu-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "EXPEDIA.COM",
+          "description": "EXPEDIA.COM — ერთ-ერთი ყველაზე დიდი ამერიკული პლატფორმა მოგზაურობებისა და ავიაბილეთებისთვის.",
+          "intDesc": "id8_desc_airtickets",
+          "url": "https://www.expedia.com",
+          "logo": "/images/expedia-logo.png",
+          "preview": "/images/expedia-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "KAYAK.COM",
+          "description": "KAYAK.COM — ამერიკული პლატფორმა იაფი ავიაბილეთების მოსაძებნად.",
+          "intDesc": "id9_desc_airtickets",
+          "url": "https://www.kayak.com",
+          "logo": "/images/kayak-logo.png",
+          "preview": "/images/kayak-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "ai",
+      "name": "AI საიტები",
+      "description": "ხელოვნური ინტელექტის სერვისები და პლატფორმები საქართველოში, აშშ-ში და რუსეთში.",
+      "desc": "ai_description",
+      "logo": "Brain",
+      "bkglogo": "/images/ai-logobkg.png",
+      "titleKey": "home_ai",
+      "priority": 8,
+      "sites": [
+        {
+          "id": 1,
+          "title": "MYLINGO.GE",
+          "description": "MYLINGO.GE — AI-ზე დაფუძნებული ინოვაციური აპლიკაცია უცხო ენების შესასწავლად.",
+          "intDesc": "id1_desc_ai",
+          "url": "https://mylingo.ge",
+          "logo": "/images/mylingo-logo.png",
+          "preview": "/images/mylingo-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "CHATGPT.COM",
+          "description": "CHATGPT.COM — OpenAI-ის მიერ შემუშავებული დიდი ენობრივი მოდელი.",
+          "intDesc": "id2_desc_ai",
+          "url": "https://chatgpt.com",
+          "logo": "/images/chatgpt-logo.png",
+          "preview": "/images/chatgpt-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "GEMINI.GOOGLE.COM",
+          "description": "GEMINI.GOOGLE.COM — Google-ის უახლესი და ძლიერი ხელოვნური ინტელექტის მოდელი.",
+          "intDesc": "id3_desc_ai",
+          "url": "https://gemini.google.com",
+          "logo": "/images/gemini-logo.png",
+          "preview": "/images/gemini-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "GROK.COM",
+          "description": "GROK.COM — xAI-ის მიერ შექმნილი AI ჩათბოტი ილონ მასკისგან.",
+          "intDesc": "id4_desc_ai",
+          "url": "https://grok.com",
+          "logo": "/images/grok-logo.png",
+          "preview": "/images/grok-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "DEEPSEEK.COM",
+          "description": "DEEPSEEK.COM — ჩინური ხელოვნური ინტელექტის კომპანია.",
+          "intDesc": "id5_desc_ai",
+          "url": "https://deepseek.com",
+          "logo": "/images/deepseek-logo.png",
+          "preview": "/images/deepseek-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "KLINGAI.COM",
+          "description": "KLINGAI.COM — AI ვიდეოგენერაციის პლატფორმა.",
+          "intDesc": "id6_desc_ai",
+          "url": "https://klingai.com",
+          "logo": "/images/klingai-logo.png",
+          "preview": "/images/klingai-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "LEONARDO.AI",
+          "description": "LEONARDO.AI — მოწინავე ხელოვნური ინტელექტი სურათების გენერაციისთვის.",
+          "intDesc": "id7_desc_ai",
+          "url": "https://leonardo.ai",
+          "logo": "/images/leonardo-logo.png",
+          "preview": "/images/leonardo-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "DOCTORIUM.COM",
+          "description": "DOCTORIUM.COM — შენი ციფრული სამედიცინო ასისტენტი.",
+          "intDesc": "id8_desc_ai",
+          "url": "https://doctorium.com",
+          "logo": "/images/doctorium-logo.png",
+          "preview": "/images/doctorium-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "fashion",
+      "name": "Мода",
+      "description": "Модные тренды, коллекции и советы по стилю.",
+      "desc": "fashion_description",
+      "logo": "Shirt",
+      "bkglogo": "/images/fashion-logobkg.png",
+      "titleKey": "home_fashion",
+      "priority": 26,
+      "sites": [
+        {
+          "id": 1,
+          "title": "LCWAIKIKI.GE",
+          "description": "Грузинский онлайн-магазин популярного турецкого бренда LC Waikiki.",
+          "intDesc": "id1_desc_fashion",
+          "url": "https://www.lcwaikiki.ge/",
+          "logo": "/images/lcwaikiki-logo.png",
+          "preview": "/images/lcwaikiki-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "LTB.GE",
+          "description": "Официальный грузинский сайт бренда LTB: джинсы, одежда и аксессуары.",
+          "intDesc": "id2_desc_fashion",
+          "url": "https://ltb.ge/",
+          "logo": "/images/ltb-logo.png",
+          "preview": "/images/ltb-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "BATA.GE",
+          "description": "Международный бренд обуви и аксессуаров, представленный в Грузии.",
+          "intDesc": "id3_desc_fashion",
+          "url": "https://icrshop.ge/",
+          "logo": "/images/bata-logo.png",
+          "preview": "/images/bata-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "ZARA.COM",
+          "description": "Международный бренд модной одежды и аксессуаров.",
+          "intDesc": "id4_desc_fashion",
+          "url": "https://www.zara.com/",
+          "logo": "/images/zara-logo.png",
+          "preview": "/images/zara-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "HM.COM",
+          "description": "Шведский бренд H&M: доступная мода для женщин, мужчин и детей.",
+          "intDesc": "id5_desc_fashion",
+          "url": "https://www.hm.com/",
+          "logo": "/images/hm-logo.png",
+          "preview": "/images/hm-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "ASOS.COM",
+          "description": "Один из крупнейших международных онлайн-магазинов одежды и аксессуаров.",
+          "intDesc": "id6_desc_fashion",
+          "url": "https://www.asos.com/",
+          "logo": "/images/asos-logo.png",
+          "preview": "/images/asos-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "FARFETCH.COM",
+          "description": "Международная платформа для люксовой моды: бренды и дизайнеры со всего мира.",
+          "intDesc": "id7_desc_fashion",
+          "url": "https://www.farfetch.com/",
+          "logo": "/images/farfetch-logo.png",
+          "preview": "/images/farfetch-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "NIKE.COM",
+          "description": "Международный бренд спортивной одежды, обуви и аксессуаров.",
+          "intDesc": "id8_desc_fashion",
+          "url": "https://www.nike.com/",
+          "logo": "/images/nike-logo.png",
+          "preview": "/images/nike-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "ADIDAS.COM",
+          "description": "Всемирно известный бренд спортивной одежды и обуви.",
+          "intDesc": "id9_desc_fashion",
+          "url": "https://www.adidas.com/",
+          "logo": "/images/adidas-logo.png",
+          "preview": "/images/adidas-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "LAMODA.RU",
+          "description": "Крупнейший российский онлайн-магазин моды: одежда, обувь и аксессуары.",
+          "intDesc": "id10_desc_fashion",
+          "url": "https://www.lamoda.ru/",
+          "logo": "/images/lamoda-logo.png",
+          "preview": "/images/lamoda-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "WILDBERRIES.RU",
+          "description": "Один из самых популярных российских маркетплейсов с одеждой и обувью.",
+          "intDesc": "id11_desc_fashion",
+          "url": "https://www.wildberries.ru/",
+          "logo": "/images/wildberries-logo.png",
+          "preview": "/images/wildberries-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "OZON.RU",
+          "description": "Крупный маркетплейс, включая раздел с модой, одеждой и аксессуарами.",
+          "intDesc": "id12_desc_fashion",
+          "url": "https://www.ozon.ru/category/odezhda-obuv-i-aksessuary-7500/",
+          "logo": "/images/ozon-logo.png",
+          "preview": "/images/ozon-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "KUPIVIP.RU",
+          "description": "Российский онлайн-аутлет брендовой одежды и аксессуаров.",
+          "intDesc": "id13_desc_fashion",
+          "url": "https://kupivip.ru/",
+          "logo": "/images/kupivip-logo.png",
+          "preview": "/images/kupivip-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "news",
+      "name": "Новости",
+      "description": "Свежие новости Грузии, России и мира.",
+      "desc": "news_description",
+      "logo": "Newspaper",
+      "bkglogo": "/images/news-logobkg.png",
+      "titleKey": "home_news",
+      "priority": 4,
+      "sites": [
+        {
+          "id": 1,
+          "title": "AMBEBI.GE",
+          "description": "Один из самых популярных новостных порталов Грузии, публикующий оперативные новости политики, экономики, общества, культуры и спорта с регулярными обновлениями в течение дня.",
+          "intDesc": "id1_desc_news",
+          "url": "https://www.ambebi.ge",
+          "logo": "/images/ambebi-logo.png",
+          "preview": "/images/ambebi-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "ALIA.GE",
+          "description": "Грузинский новостной портал с аналитическими материалами, актуальными политическими событиями и обсуждением общественных процессов внутри страны и за её пределами.",
+          "intDesc": "id2_desc_news",
+          "url": "https://www.alia.ge",
+          "logo": "/images/alia-logo.png",
+          "preview": "/images/alia-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "RADIOTAVISUPLEBA.GE",
+          "description": "Новостной ресурс Радио Свобода с независимой журналистикой, международными новостями, аналитикой и репортажами о ключевых событиях в Грузии и мире.",
+          "intDesc": "id3_desc_news",
+          "url": "https://www.radiotavisupleba.ge",
+          "logo": "/images/radiotavisupleba-logo.png",
+          "preview": "/images/radiotavisupleba-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "IMEDINEWS.GE",
+          "description": "Официальный новостной портал телеканала Имеди, предлагающий ежедневные новости политики, экономики, общества и видеорепортажи с актуальными событиями.",
+          "intDesc": "id4_desc_news",
+          "url": "https://imedinews.ge",
+          "logo": "/images/imedinews-logo.png",
+          "preview": "/images/imedinews-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "ON.GE",
+          "description": "Современное онлайн-медиа с новостями технологий, общества, культуры и политики, ориентированное на быстрый формат подачи информации и молодежную аудиторию.",
+          "intDesc": "id5_desc_news",
+          "url": "https://on.ge",
+          "logo": "/images/on-logo.png",
+          "preview": "/images/on-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "NETGAZETI.GE",
+          "description": "Независимое грузинское интернет-издание, публикующее важные политические и общественные события, аналитические статьи и расследования.",
+          "intDesc": "id6_desc_news",
+          "url": "https://netgazeti.ge",
+          "logo": "/images/netgazeti-logo.png",
+          "preview": "/images/netgazeti-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "KVIRISPALITRA.GE",
+          "description": "Онлайн версия популярной газеты «Квирис Палитра», содержащая новости, интервью, аналитические материалы и обзоры актуальных событий.",
+          "intDesc": "id7_desc_news",
+          "url": "https://kvirispalitra.ge",
+          "logo": "/images/kvirispalitra-logo.png",
+          "preview": "/images/kvirispalitra-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "PALITRAVIDEO.GE",
+          "description": "Новостная видеоплатформа с репортажами, интервью и сюжетами о текущих событиях в Грузии и мире в формате онлайн-видео.",
+          "intDesc": "id8_desc_news",
+          "url": "https://palitravideo.ge",
+          "logo": "/images/palitravideo-logo.png",
+          "preview": "/images/palitravideo-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "BBC.COM",
+          "description": "Международный новостной портал с глобальным освещением политики, экономики, технологий и культуры, предлагающий объективные материалы, аналитические статьи и мультимедийный контент.",
+          "intDesc": "id11_desc_news",
+          "url": "https://www.bbc.com",
+          "logo": "/images/bbc-logo.png",
+          "preview": "/images/bbc-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "CNN.COM",
+          "description": "Крупнейшая международная новостная платформа с оперативными обновлениями о событиях в мире, прямыми трансляциями, репортажами корреспондентов и аналитикой глобальных процессов.",
+          "intDesc": "id12_desc_news",
+          "url": "https://edition.cnn.com",
+          "logo": "/images/cnn-logo.png",
+          "preview": "/images/cnn-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "REUTERS.COM",
+          "description": "Международное информационное агентство, публикующее проверенные новости бизнеса, политики, финансовых рынков и технологий с акцентом на точность и профессиональную журналистику.",
+          "intDesc": "id13_desc_news",
+          "url": "https://www.reuters.com",
+          "logo": "/images/reuters-logo.png",
+          "preview": "/images/reuters-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "RIA.RU",
+          "description": "Новостной портал с ежедневными обновлениями политики, экономики и международных событий, аналитическими статьями, интервью и мультимедийными материалами.",
+          "intDesc": "id14_desc_news",
+          "url": "https://ria.ru",
+          "logo": "/images/ria-logo.png",
+          "preview": "/images/ria-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "LENTA.RU",
+          "description": "Популярный новостной сайт с быстрыми публикациями актуальных событий, обзорами мировых новостей, аналитикой и тематическими разделами о технологиях и культуре.",
+          "intDesc": "id15_desc_news",
+          "url": "https://lenta.ru",
+          "logo": "/images/lenta-logo.png",
+          "preview": "/images/lenta-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "search",
+      "name": "Поисковики",
+      "description": "Популярные поисковые системы для поиска информации, сайтов, изображений, видео и новостей по всему миру.",
+      "titleKey": "home_search",
+      "desc": "search_description",
+      "logo": "Search",
+      "bkglogo": "/images/search-logobkg.png",
+      "priority": 0,
+      "sites": [
+        {
+          "id": 1,
+          "title": "MYVIDEO.GE (SEARCH)",
+          "description": "Грузинский онлайн-сервис поиска видеоконтента и популярных медиа-материалов, позволяющий быстро находить локальные видео, трансляции и развлекательные ролики, ориентированные на аудиторию Грузии.",
+          "intDesc": "id1_desc_search",
+          "url": "https://www.myvideo.ge",
+          "logo": "/images/myvideo-logo.png",
+          "preview": "/images/myvideo-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "GOOGLE.COM",
+          "description": "Крупнейшая поисковая система мира, обеспечивающая быстрый и точный поиск сайтов, изображений, видео, карт и новостей с использованием современных алгоритмов ранжирования и искусственного интеллекта.",
+          "intDesc": "id2_desc_search",
+          "url": "https://www.google.com",
+          "logo": "/images/google-logo.png",
+          "preview": "/images/google-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "BING.COM",
+          "description": "Современная поисковая система от Microsoft с удобным интерфейсом, интеллектуальным поиском изображений и видео, встроенными AI-инструментами и расширенными возможностями фильтрации результатов.",
+          "intDesc": "id3_desc_search",
+          "url": "https://www.bing.com",
+          "logo": "/images/bing-logo.png",
+          "preview": "/images/bing-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "YANDEX.RU",
+          "description": "Популярная поисковая система в странах СНГ, предлагающая быстрый поиск сайтов, карт, изображений и новостей, а также множество дополнительных сервисов для повседневных задач пользователей.",
+          "intDesc": "id4_desc_search",
+          "url": "https://yandex.ru",
+          "logo": "/images/yandex-logo.png",
+          "preview": "/images/yandex-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "DUCKDUCKGO.COM",
+          "description": "Поисковая система, ориентированная на конфиденциальность пользователей, не отслеживающая историю запросов и предлагающая чистые результаты поиска без персонализированного сбора данных.",
+          "intDesc": "id5_desc_search",
+          "url": "https://duckduckgo.com",
+          "logo": "/images/duckduckgo-logo.png",
+          "preview": "/images/duckduckgo-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "BAIDU.COM",
+          "description": "Крупнейшая поисковая система Китая, предоставляющая доступ к локальным китайским сайтам, изображениям, видео и новостям с оптимизацией под китайский язык и региональные интернет-ресурсы.",
+          "intDesc": "id6_desc_search",
+          "url": "https://www.baidu.com",
+          "logo": "/images/baidu-logo.png",
+          "preview": "/images/baidu-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "NAVER.COM",
+          "description": "Популярная поисковая платформа Южной Кореи, объединяющая поиск сайтов, блогов, новостей и мультимедиа-контента с акцентом на локальные сервисы и персонализированные результаты.",
+          "intDesc": "id7_desc_search",
+          "url": "https://www.naver.com",
+          "logo": "/images/naver-logo.png",
+          "preview": "/images/naver-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "YAHOO.COM",
+          "description": "Один из старейших интернет-порталов с поисковой системой, новостями, почтовыми сервисами и развлекательным контентом, популярный среди пользователей разных стран.",
+          "intDesc": "id8_desc_search",
+          "url": "https://www.yahoo.com",
+          "logo": "/images/yahoo-logo.png",
+          "preview": "/images/yahoo-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "tv",
+      "name": "ТВ и фильмы",
+      "description": "Сайты для просмотра фильмов, сериалов, телеканалов и онлайн-трансляций со всего мира.",
+      "desc": "tv_description",
+      "logo": "Tv",
+      "bkglogo": "/images/tv-logobkg.png",
+      "titleKey": "home_tv",
+      "priority": 14,
+      "sites": [
+        {
+          "id": 1,
+          "title": "MYVIDEO.GE",
+          "description": "ქართული ვიდეო პლატფორმა, სადაც შეგიძლიათ უყუროთ სერიალებს, ფილმებს, გადაცემებს და ტელევიზიას ონლაინში უფასოდ.",
+          "intDesc": "id1_desc_tv",
+          "url": "https://www.myvideo.ge",
+          "logo": "/images/myvideo-logo.png",
+          "preview": "/images/myvideo-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "RUSTAVI2.GE",
+          "description": "ერთ-ერთი ყველაზე პოპულარული ქართული ტელეარხის ოფიციალური ვებგვერდი, სადაც ხელმისაწვდომია პირდაპირი ეთერი და გადაცემების ჩანაწერები.",
+          "intDesc": "id2_desc_tv",
+          "url": "https://rustavi2.ge",
+          "logo": "/images/rustavi2-logo.png",
+          "preview": "/images/rustavi2-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "IMEDI.GE",
+          "description": "ქართული ტელევიზიის ოფიციალური საიტი, რომელიც გთავაზობთ პირდაპირ ეთერს, სერიალებს და პოპულარულ გადაცემებს ონლაინ რეჟიმში.",
+          "intDesc": "id3_desc_tv",
+          "url": "https://imedinews.ge",
+          "logo": "/images/imedi-logo.png",
+          "preview": "/images/imedi-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "FORMULA.NEWS",
+          "description": "ტელევიზია და მედია პლატფორმა, სადაც შეგიძლიათ უყუროთ პირდაპირ ეთერს და სხვადასხვა გადაცემებს ონლაინ რეჟიმში.",
+          "intDesc": "id4_desc_tv",
+          "url": "https://formulanews.ge",
+          "logo": "/images/formula-logo.png",
+          "preview": "/images/formula-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "ADJARANET.COM",
+          "description": "ფილმებისა და სერიალების ერთ-ერთი ყველაზე პოპულარული ქართული პლატფორმა, რომელიც გთავაზობთ დიდ ბიბლიოთეკას ქართულად.",
+          "intDesc": "id5_desc_tv",
+          "url": "https://adjaranet.com",
+          "logo": "/images/adjaranet-logo.png",
+          "preview": "/images/adjaranet-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "NETFLIX.COM",
+          "description": "მსოფლიოში ყველაზე პოპულარული სტრიმინგ პლატფორმა, რომელიც გთავაზობთ ორიგინალურ სერიალებს, ფილმებს და დოკუმენტურ კონტენტს მაღალი ხარისხით.",
+          "intDesc": "id6_desc_tv",
+          "url": "https://www.netflix.com",
+          "logo": "/images/netflix-logo.png",
+          "preview": "/images/netflix-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "YOUTUBE.COM",
+          "description": "ვიდეო პლატფორმა, სადაც შეგიძლიათ უყუროთ ფილმებს, შოუებს, გადაცემებს და სხვადასხვა გასართობ კონტენტს უფასოდ.",
+          "intDesc": "id7_desc_tv",
+          "url": "https://www.youtube.com",
+          "logo": "/images/youtube-logo.png",
+          "preview": "/images/youtube-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "AMAZON PRIME VIDEO",
+          "description": "სტრიმინგ სერვისი Amazon-ისგან, რომელიც გთავაზობთ ფილმებს, სერიალებს და ექსკლუზიურ კონტენტს მაღალი ხარისხით.",
+          "intDesc": "id8_desc_tv",
+          "url": "https://www.primevideo.com",
+          "logo": "/images/prime-logo.png",
+          "preview": "/images/prime-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "DISNEYPLUS.COM",
+          "description": "სტრიმინგ პლატფორმა Disney-ისგან, რომელიც მოიცავს Marvel, Star Wars და Pixar-ის კონტენტს ბავშვებისა და ოჯახებისთვის.",
+          "intDesc": "id9_desc_tv",
+          "url": "https://www.disneyplus.com",
+          "logo": "/images/disney-logo.png",
+          "preview": "/images/disney-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "HBO MAX",
+          "description": "პრემიუმ სტრიმინგ სერვისი, რომელიც გთავაზობთ მაღალი ხარისხის სერიალებს, ფილმებს და ექსკლუზიურ კონტენტს HBO-სგან.",
+          "intDesc": "id10_desc_tv",
+          "url": "https://www.max.com",
+          "logo": "/images/hbo-logo.png",
+          "preview": "/images/hbo-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "HULU.COM",
+          "description": "სტრიმინგ პლატფორმა, რომელიც გთავაზობთ სერიალებს, სატელევიზიო შოუებს და ფილმებს როგორც პირდაპირ ეთერში, ასევე ჩანაწერებით.",
+          "intDesc": "id11_desc_tv",
+          "url": "https://www.hulu.com",
+          "logo": "/images/hulu-logo.png",
+          "preview": "/images/hulu-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "APPLE TV+",
+          "description": "Apple-ის სტრიმინგ სერვისი, რომელიც გთავაზობთ ორიგინალურ ფილმებს და სერიალებს მაღალი ხარისხით.",
+          "intDesc": "id12_desc_tv",
+          "url": "https://tv.apple.com",
+          "logo": "/images/appletv-logo.png",
+          "preview": "/images/appletv-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "education",
+      "name": "Образование",
+      "description": "Образовательные платформы, онлайн-курсы, университеты и ресурсы для обучения и развития навыков.",
+      "desc": "education_description",
+      "logo": "GraduationCap",
+      "bkglogo": "/images/education-logobkg.png",
+      "titleKey": "home_education",
+      "priority": 10,
+      "sites": [
+        {
+          "id": 1,
+          "title": "KHANACADEMY.ORG",
+          "description": "უფასო საერთაშორისო საგანმანათლებლო პლატფორმა, რომელიც გთავაზობთ მაღალი ხარისხის ვიდეო გაკვეთილებს მათემატიკაში, პროგრამირებაში, მეცნიერებასა და სხვა საგნებში. იდეალურია სკოლის მოსწავლეებისთვის, სტუდენტებისთვის და თვითგანვითარებისთვის.",
+          "intDesc": "id1_desc_education",
+          "url": "https://www.khanacademy.org",
+          "logo": "/images/khan-logo.png",
+          "preview": "/images/khan-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "COURSERA.ORG",
+          "description": "მსოფლიოს წამყვანი უნივერსიტეტებისა და კომპანიების მიერ შექმნილი ონლაინ კურსების პლატფორმა, სადაც შეგიძლიათ ისწავლოთ ახალი პროფესია, მიიღოთ სერტიფიკატები და მნიშვნელოვნად განავითაროთ კარიერა.",
+          "intDesc": "id2_desc_education",
+          "url": "https://www.coursera.org",
+          "logo": "/images/coursera-logo.png",
+          "preview": "/images/coursera-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "UDEMY.COM",
+          "description": "ონლაინ სასწავლო პლატფორმა ათასობით პრაქტიკული კურსით პროგრამირებაში, დიზაინში, მარკეტინგსა და ბიზნესში. იდეალურია როგორც დამწყებთათვის, ასევე პროფესიონალებისთვის.",
+          "intDesc": "id3_desc_education",
+          "url": "https://www.udemy.com",
+          "logo": "/images/udemy-logo.png",
+          "preview": "/images/udemy-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "EDX.ORG",
+          "description": "ჰარვარდისა და MIT-ის მიერ შექმნილი პლატფორმა, რომელიც გთავაზობთ უნივერსიტეტის დონის ონლაინ კურსებს სხვადასხვა სფეროში და საერთაშორისო სერტიფიკატებს.",
+          "intDesc": "id4_desc_education",
+          "url": "https://www.edx.org",
+          "logo": "/images/edx-logo.png",
+          "preview": "/images/edx-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "SKILLSHARE.COM",
+          "description": "კრეატიული უნარების განვითარების პლატფორმა, რომელიც მოიცავს დიზაინს, ვიდეო მონტაჟს, ფოტოგრაფიას და სხვა პრაქტიკულ მიმართულებებს.",
+          "intDesc": "id5_desc_education",
+          "url": "https://www.skillshare.com",
+          "logo": "/images/skillshare-logo.png",
+          "preview": "/images/skillshare-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "YOUTUBE.COM",
+          "description": "მსოფლიოში ყველაზე დიდი ვიდეო პლატფორმა, სადაც ხელმისაწვდომია ათასობით უფასო სასწავლო ვიდეო პროგრამირებაში, ბიზნესში, დიზაინში და სხვა სფეროებში.",
+          "intDesc": "id6_desc_education",
+          "url": "https://www.youtube.com",
+          "logo": "/images/youtube-logo.png",
+          "preview": "/images/youtube-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "DUOLINGO.COM",
+          "description": "ენების შესასწავლი ინტერაქტიული პლატფორმა, რომელიც თამაშის ფორმატში გასწავლით ინგლისურს და სხვა ენებს. მარტივი და ეფექტური ყოველდღიური გამოყენებისთვის.",
+          "intDesc": "id7_desc_education",
+          "url": "https://www.duolingo.com",
+          "logo": "/images/duolingo-logo.png",
+          "preview": "/images/duolingo-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "FREECODECAMP.ORG",
+          "description": "პროგრამირების სრულიად უფასო პლატფორმა, რომელიც გთავაზობთ პრაქტიკულ სწავლებას რეალური პროექტებით. იდეალურია მათთვის, ვისაც სურს გახდეს ვებ დეველოპერი ნულიდან.",
+          "intDesc": "id8_desc_education",
+          "url": "https://www.freecodecamp.org",
+          "logo": "/images/fcc-logo.png",
+          "preview": "/images/fcc-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "W3SCHOOLS.COM",
+          "description": "ვებ დეველოპმენტის შესწავლის ერთ-ერთი ყველაზე მარტივი და პოპულარული რესურსი დამწყებთათვის, პრაქტიკული მაგალითებით და ტესტებით.",
+          "intDesc": "id9_desc_education",
+          "url": "https://www.w3schools.com",
+          "logo": "/images/w3-logo.png",
+          "preview": "/images/w3-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "SEU.EDU.GE",
+          "description": "ქართული უნივერსიტეტი, რომელიც სტუდენტებს სთავაზობს თანამედროვე განათლებას ბიზნესში, ტექნოლოგიებში და სხვა მიმართულებებში.",
+          "intDesc": "id10_desc_education",
+          "url": "https://seu.edu.ge",
+          "logo": "/images/seu-logo.png",
+          "preview": "/images/seu-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "TSU.GE",
+          "description": "ივანე ჯავახიშვილის სახელობის თბილისის სახელმწიფო უნივერსიტეტი — ერთ-ერთი ყველაზე პრესტიჟული უმაღლესი სასწავლებელი საქართველოში.",
+          "intDesc": "id11_desc_education",
+          "url": "https://tsu.ge",
+          "logo": "/images/tsu-logo.png",
+          "preview": "/images/tsu-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "BTU.EDU.GE",
+          "description": "ბიზნესისა და ტექნოლოგიების უნივერსიტეტი, რომელიც ორიენტირებულია თანამედროვე ტექნოლოგიებზე, სტარტაპებზე და ინოვაციებზე.",
+          "intDesc": "id12_desc_education",
+          "url": "https://btu.edu.ge",
+          "logo": "/images/btu-logo.png",
+          "preview": "/images/btu-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "GITA.GOV.GE",
+          "description": "საქართველოს ინოვაციების და ტექნოლოგიების სააგენტო, რომელიც გთავაზობთ უფასო ტრენინგებს, გრანტებს და ტექნოლოგიურ პროგრამებს.",
+          "intDesc": "id13_desc_education",
+          "url": "https://gita.gov.ge",
+          "logo": "/images/gita-logo.png",
+          "preview": "/images/gita-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "SCHOOLS.GE",
+          "description": "რესურსი, რომელიც მოიცავს ინფორმაციას საქართველოს სკოლების შესახებ და განათლების სისტემასთან დაკავშირებულ სერვისებს.",
+          "intDesc": "id14_desc_education",
+          "url": "https://schools.ge",
+          "logo": "/images/schools-logo.png",
+          "preview": "/images/schools-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "social",
+      "name": "Социальные сети",
+      "description": "Популярные социальные сети для общения, публикации контента, обмена сообщениями и поиска друзей по всему миру.",
+      "desc": "social_description",
+      "logo": "Users",
+      "bkglogo": "/images/social-logobkg.png",
+      "titleKey": "home_social",
+      "priority": 2,
+      "sites": [
+        {
+          "id": 1,
+          "title": "FACEBOOK.COM",
+          "description": "Крупнейшая социальная сеть в мире для общения с друзьями, публикации фотографий и видео, создания страниц, групп и ведения онлайн-бизнеса.",
+          "intDesc": "id1_desc_social",
+          "url": "https://www.facebook.com",
+          "logo": "/images/fc-logo.png",
+          "preview": "/images/fc-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "INSTAGRAM.COM",
+          "description": "Популярная платформа для публикации фотографий и коротких видео, сторис и рилс, а также продвижения брендов и личных блогов.",
+          "intDesc": "id2_desc_social",
+          "url": "https://www.instagram.com",
+          "logo": "/images/instagram-logo.png",
+          "preview": "/images/instagram-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "TIKTOK.COM",
+          "description": "Быстрорастущая социальная сеть для создания и просмотра коротких вертикальных видео с алгоритмической лентой рекомендаций.",
+          "intDesc": "id3_desc_social",
+          "url": "https://www.tiktok.com",
+          "logo": "/images/tiktok-logo.png",
+          "preview": "/images/tiktok-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "X.COM",
+          "description": "Социальная сеть для публикации коротких сообщений, новостей и обсуждений мировых событий в режиме реального времени.",
+          "intDesc": "id4_desc_social",
+          "url": "https://x.com",
+          "logo": "/images/x-logo.png",
+          "preview": "/images/x-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "LINKEDIN.COM",
+          "description": "Профессиональная социальная сеть для поиска работы, деловых контактов, публикации карьерных достижений и развития бизнеса.",
+          "intDesc": "id5_desc_social",
+          "url": "https://www.linkedin.com",
+          "logo": "/images/linkedin-logo.png",
+          "preview": "/images/linkedin-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "TELEGRAM.ORG",
+          "description": "Мессенджер с элементами социальной сети, позволяющий создавать каналы, группы, обмениваться файлами и вести публичные блоги.",
+          "intDesc": "id6_desc_social",
+          "url": "https://telegram.org",
+          "logo": "/images/telegram-logo.png",
+          "preview": "/images/telegram-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "VK.COM",
+          "description": "Популярная социальная сеть для общения, прослушивания музыки, просмотра видео, создания сообществ и обмена контентом.",
+          "intDesc": "id7_desc_social",
+          "url": "https://vk.com",
+          "logo": "/images/vk-logo.png",
+          "preview": "/images/vk-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "OK.RU",
+          "description": "Социальная сеть для общения с друзьями и родственниками, обмена фотографиями, видео, подарками и участия в тематических группах.",
+          "intDesc": "id8_desc_social",
+          "url": "https://ok.ru",
+          "logo": "/images/ok-logo.png",
+          "preview": "/images/ok-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "music",
+      "name": "Музыка",
+      "description": "Слушайте музыку онлайн, находите новые треки и скачивайте любимые песни.",
+      "desc": "music_description",
+      "logo": "Music",
+      "bkglogo": "/images/music-logobkg.png",
+      "titleKey": "home_music",
+      "priority": 6,
+      "sites": [
+        {
+          "id": 1,
+          "title": "YOUTUBE MUSIC",
+          "description": "Онлайн-платформа для прослушивания миллионов музыкальных треков, клипов и альбомов с удобными рекомендациями на основе ваших предпочтений и истории просмотров.",
+          "intDesc": "id1_desc_music",
+          "url": "https://music.youtube.com",
+          "logo": "/images/youtube-music-logo.png",
+          "preview": "/images/youtube-music-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "SPOTIFY.COM",
+          "description": "Один из самых популярных музыкальных стриминговых сервисов с огромной библиотекой треков, персональными плейлистами и интеллектуальными алгоритмами рекомендаций.",
+          "intDesc": "id2_desc_music",
+          "url": "https://www.spotify.com",
+          "logo": "/images/spotify-logo.png",
+          "preview": "/images/spotify-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "SOUNDCLOUD.COM",
+          "description": "Платформа для поиска новой музыки и независимых исполнителей, где можно слушать эксклюзивные треки, ремиксы и авторские записи со всего мира.",
+          "intDesc": "id3_desc_music",
+          "url": "https://soundcloud.com",
+          "logo": "/images/soundcloud-logo.png",
+          "preview": "/images/soundcloud-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "SHAZAM.COM",
+          "description": "Сервис для определения музыки по звуку, который помогает мгновенно узнать название песни, исполнителя и получить ссылки для дальнейшего прослушивания.",
+          "intDesc": "id4_desc_music",
+          "url": "https://www.shazam.com",
+          "logo": "/images/shazam-logo.png",
+          "preview": "/images/shazam-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "YTMP3.CC",
+          "description": "Онлайн-инструмент для конвертации видео в аудио формат, позволяющий быстро скачать музыкальные треки из видео-платформ в удобном формате MP3.",
+          "intDesc": "id5_desc_music",
+          "url": "https://ytmp3.cc",
+          "logo": "/images/ytmp3-logo.png",
+          "preview": "/images/ytmp3-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "MYSOUND.GE",
+          "description": "Каталог грузинской и зарубежной музыки с возможностью онлайн-прослушивания и скачивания популярных треков разных жанров.",
+          "intDesc": "id6_desc_music",
+          "url": "https://mysound.ge",
+          "logo": "/images/mysound-logo.png",
+          "preview": "/images/mysound-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "MUSIC.GE",
+          "description": "Музыкальный портал с подборками популярных песен, новинками и возможностью скачивания треков в различных форматах.",
+          "intDesc": "id7_desc_music",
+          "url": "https://music.ge",
+          "logo": "/images/musicge-logo.png",
+          "preview": "/images/musicge-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "APPLE MUSIC",
+          "description": "Стриминговый сервис с огромной музыкальной библиотекой, качественным звуком и эксклюзивными релизами известных исполнителей.",
+          "intDesc": "id8_desc_music",
+          "url": "https://music.apple.com",
+          "logo": "/images/apple-music-logo.png",
+          "preview": "/images/apple-music-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "DEEZER.COM",
+          "description": "Музыкальная платформа с миллионами треков, тематическими подборками и персональными рекомендациями на основе вкусов пользователя.",
+          "intDesc": "id9_desc_music",
+          "url": "https://www.deezer.com",
+          "logo": "/images/deezer-logo.png",
+          "preview": "/images/deezer-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "BANDCAMP.COM",
+          "description": "Платформа для поддержки независимых музыкантов, где можно слушать альбомы, покупать музыку напрямую у исполнителей и открывать новые жанры.",
+          "intDesc": "id10_desc_music",
+          "url": "https://bandcamp.com",
+          "logo": "/images/bandcamp-logo.png",
+          "preview": "/images/bandcamp-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "AUDIOMACK.COM",
+          "description": "Сервис для бесплатного стриминга и скачивания музыки, популярный среди новых исполнителей и поклонников современной музыки.",
+          "intDesc": "id11_desc_music",
+          "url": "https://audiomack.com",
+          "logo": "/images/audiomack-logo.png",
+          "preview": "/images/audiomack-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "MIXCLOUD.COM",
+          "description": "Платформа для прослушивания DJ-сетов, подкастов и радиошоу с огромным количеством эксклюзивных миксов.",
+          "intDesc": "id12_desc_music",
+          "url": "https://www.mixcloud.com",
+          "logo": "/images/mixcloud-logo.png",
+          "preview": "/images/mixcloud-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "LAST.FM",
+          "description": "Музыкальный сервис аналитики прослушивания, который отслеживает ваши музыкальные вкусы и предлагает новые треки на основе статистики.",
+          "intDesc": "id13_desc_music",
+          "url": "https://www.last.fm",
+          "logo": "/images/lastfm-logo.png",
+          "preview": "/images/lastfm-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "games",
+      "name": "Игры",
+      "description": "Игровые сайты, платформы и сервисы: скачивание игр, онлайн-игры, игровые магазины и крупнейшие игровые порталы.",
+      "desc": "games_description",
+      "logo": "Gamepad2",
+      "bkglogo": "/images/games-logobkg.png",
+      "titleKey": "home_games",
+      "priority": 7,
+      "sites": [
+        {
+          "id": 1,
+          "title": "ALL.TAMASHI.GE",
+          "description": "ქართული ვებპორტალი, სადაც შესაძლებელია სხვადასხვა ჟანრის კომპიუტერული თამაშების უფასოდ გადმოწერა. საიტზე წარმოდგენილია ახალი და ძველი თამაშები დეტალური აღწერებით.",
+          "intDesc": "id1_desc_games",
+          "url": "https://all.tamashi.ge",
+          "logo": "/images/alltamashi-logo.png",
+          "preview": "/images/alltamashi-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "BATTLE.GE",
+          "description": "ქართული გეიმინგ საიტი, რომელიც გთავაზობთ პოპულარული თამაშების გადმოწერას, სიახლეებს და ინფორმაციას კომპიუტერული თამაშების სამყაროდან.",
+          "intDesc": "id2_desc_games",
+          "url": "https://battle.ge",
+          "logo": "/images/battle-logo.png",
+          "preview": "/images/battle-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "GTORR.NET",
+          "description": "თამაშების გადმოსაწერი პლატფორმა, სადაც შესაძლებელია მრავალფეროვანი PC თამაშების მოძიება და უფასოდ ჩამოტვირთვა სხვადასხვა ჟანრში.",
+          "intDesc": "id3_desc_games",
+          "url": "https://gtorr.net",
+          "logo": "/images/gtorr-logo.png",
+          "preview": "/images/gtorr-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "STEAMPOWERED.COM",
+          "description": "მსოფლიოში ყველაზე დიდი ციფრული თამაშების მაღაზია. Steam საშუალებას გაძლევთ შეიძინოთ, ჩამოტვირთოთ და ითამაშოთ ათასობით თამაში ონლაინ რეჟიმში.",
+          "intDesc": "id4_desc_games",
+          "url": "https://store.steampowered.com",
+          "logo": "/images/steam-logo.png",
+          "preview": "/images/steam-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "EPICGAMES.COM",
+          "description": "Epic Games Store არის პოპულარული ციფრული პლატფორმა, სადაც მოთამაშეებს შეუძლიათ შეიძინონ და ხშირად უფასოდ მიიღონ მაღალი ხარისხის თამაშები.",
+          "intDesc": "id5_desc_games",
+          "url": "https://www.epicgames.com",
+          "logo": "/images/epicgames-logo.png",
+          "preview": "/images/epicgames-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "ROBLOX.COM",
+          "description": "პოპულარული ონლაინ გეიმინგ პლატფორმა, სადაც მომხმარებლებს შეუძლიათ შექმნან საკუთარი თამაშები და ითამაშონ მილიონობით მომხმარებლის მიერ შექმნილი სამყაროები.",
+          "intDesc": "id6_desc_games",
+          "url": "https://www.roblox.com",
+          "logo": "/images/roblox-logo.png",
+          "preview": "/images/roblox-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "DMARKET.COM",
+          "description": "ციფრული ბაზარი, სადაც მოთამაშეებს შეუძლიათ იყიდონ და გაყიდონ თამაშის ნივთები, სკინები და ქეისები განსაკუთრებით პოპულარული თამაშებისთვის.",
+          "intDesc": "id7_desc_games",
+          "url": "https://dmarket.com",
+          "logo": "/images/dmarket-logo.png",
+          "preview": "/images/dmarket-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "GAMELOOP.FUN",
+          "description": "ემულატორის პლატფორმა, რომელიც საშუალებას გაძლევთ ითამაშოთ Android მობილური თამაშები პირდაპირ კომპიუტერზე უკეთესი გრაფიკით და კონტროლით.",
+          "intDesc": "id8_desc_games",
+          "url": "https://www.gameloop.com",
+          "logo": "/images/gameloop-logo.png",
+          "preview": "/images/gameloop-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "FRIV.COM",
+          "description": "ონლაინ თამაშების დიდი კოლექცია, სადაც შეგიძლიათ ითამაშოთ ასობით უფასო ბრაუზერული თამაში რეგისტრაციის გარეშე.",
+          "intDesc": "id9_desc_games",
+          "url": "https://www.friv.com",
+          "logo": "/images/friv-logo.png",
+          "preview": "/images/friv-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "WORLDOFTANKS.EU",
+          "description": "პოპულარული ონლაინ მულტიპლეიერ თამაში ტანკების თემატიკაზე, სადაც მოთამაშეები რეალურ დროში მონაწილეობენ დიდ საბრძოლო ბრძოლებში.",
+          "intDesc": "id10_desc_games",
+          "url": "https://worldoftanks.eu",
+          "logo": "/images/wot-logo.png",
+          "preview": "/images/wot-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "ITCH.IO",
+          "description": "ინდიპენდენტური თამაშების პლატფორმა, სადაც დეველოპერები აქვეყნებენ საკუთარ თამაშებს და მოთამაშეებს შეუძლიათ აღმოაჩინონ უნიკალური პროექტები.",
+          "intDesc": "id12_desc_games",
+          "url": "https://itch.io",
+          "logo": "/images/itch-logo.png",
+          "preview": "/images/itch-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "GOG.COM",
+          "description": "ციფრული მაღაზია DRM-ის გარეშე თამაშებისთვის, სადაც შეგიძლიათ შეიძინოთ კლასიკური და თანამედროვე თამაშები მარტივი ინსტალაციით.",
+          "intDesc": "id13_desc_games",
+          "url": "https://www.gog.com",
+          "logo": "/images/gog-logo.png",
+          "preview": "/images/gog-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "MINICLIP.COM",
+          "description": "ერთ-ერთი ყველაზე ცნობილი ონლაინ თამაშების პორტალი, რომელიც გთავაზობთ სპორტულ, ლოგიკურ და მოქმედების თამაშებს ბრაუზერში.",
+          "intDesc": "id14_desc_games",
+          "url": "https://www.miniclip.com",
+          "logo": "/images/miniclip-logo.png",
+          "preview": "/images/miniclip-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "medicine",
+      "name": "Здоровье",
+      "description": "Здоровье.",
+      "logo": "BriefcaseMedical",
+      "bkglogo": "/images/medicine-logobkg.png",
+      "titleKey": "home_medicine",
+      "priority": 43,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/medicine-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "Restaurants",
+      "name": "Рестораны",
+      "description": "Рестораны.",
+      "logo": "HandPlatter",
+      "bkglogo": "/images/restaurants-logobkg.png",
+      "titleKey": "home_restaurants",
+      "priority": 25,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/restaurants-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "cars",
+      "name": "Автомобили",
+      "description": "Сайты для покупки, продажи, проверки и обслуживания автомобилей, а также автозапчастей.",
+      "desc": "cars_description",
+      "logo": "Car",
+      "bkglogo": "/images/cars-logobkg.png",
+      "titleKey": "home_cars",
+      "priority": 17,
+      "sites": [
+        {
+          "id": 1,
+          "title": "MYAUTO.GE",
+          "description": "ყველაზე პოპულარული ქართული ავტოპორტალი, სადაც შეგიძლიათ იყიდოთ ან გაყიდოთ ავტომობილები, ნახოთ ფასები და ბაზრის ტენდენციები.",
+          "intDesc": "id1_desc_cars",
+          "url": "https://www.myauto.ge",
+          "logo": "/images/myauto-logo.png",
+          "preview": "/images/myauto-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "SS.GE",
+          "description": "მრავალფუნქციური ქართული მარკეტპლეისი, სადაც წარმოდგენილია ავტომობილების დიდი არჩევანი როგორც ახალი, ასევე მეორადი.",
+          "intDesc": "id2_desc_cars",
+          "url": "https://ss.ge",
+          "logo": "/images/ss-logo.png",
+          "preview": "/images/ss-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "MYMARKET.GE",
+          "description": "ონლაინ პლატფორმა, სადაც შეგიძლიათ მოძებნოთ ავტომობილები და ავტონაწილები სხვადასხვა კატეგორიაში საქართველოში.",
+          "intDesc": "id3_desc_cars",
+          "url": "https://www.mymarket.ge",
+          "logo": "/images/mymarket-logo.png",
+          "preview": "/images/mymarket-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "AUTO.RIA.COM",
+          "description": "ერთ-ერთი ყველაზე დიდი ავტომობილების პორტალი რეგიონში, რომელიც გთავაზობთ მანქანების ყიდვა-გაყიდვას დეტალური ფილტრებით.",
+          "intDesc": "id4_desc_cars",
+          "url": "https://auto.ria.com",
+          "logo": "/images/ria-logo.png",
+          "preview": "/images/ria-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "COPART.COM",
+          "description": "აუქციონის პლატფორმა, სადაც შეგიძლიათ შეიძინოთ დაზიანებული და აუქციონზე გაყიდული ავტომობილები ამერიკიდან.",
+          "intDesc": "id5_desc_cars",
+          "url": "https://www.copart.com",
+          "logo": "/images/copart-logo.png",
+          "preview": "/images/copart-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "IAAI.COM",
+          "description": "საერთაშორისო ავტო აუქციონი, რომელიც გთავაზობთ ავტომობილების შეძენას დაზიანებული ან სადაზღვევო შემთხვევების შემდეგ.",
+          "intDesc": "id6_desc_cars",
+          "url": "https://www.iaai.com",
+          "logo": "/images/iaai-logo.png",
+          "preview": "/images/iaai-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "CARFAX.COM",
+          "description": "ავტომობილის ისტორიის შემოწმების სერვისი VIN კოდით, რომელიც გაძლევთ ინფორმაციას ავარიებზე, მფლობელებზე და ტექნიკურ მდგომარეობაზე.",
+          "intDesc": "id7_desc_cars",
+          "url": "https://www.carfax.com",
+          "logo": "/images/carfax-logo.png",
+          "preview": "/images/carfax-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "AUTOCHECK.COM",
+          "description": "VIN კოდის მიხედვით ავტომობილის ისტორიის შემოწმების ალტერნატიული პლატფორმა, რომელიც ხშირად გამოიყენება მანქანის ყიდვის წინ.",
+          "intDesc": "id8_desc_cars",
+          "url": "https://www.autocheck.com",
+          "logo": "/images/autocheck-logo.png",
+          "preview": "/images/autocheck-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "ROCKAUTO.COM",
+          "description": "ავტონაწილების ონლაინ მაღაზია, რომელიც გთავაზობთ დიდი არჩევანს სხვადასხვა ბრენდის და მოდელის ავტომობილებისთვის.",
+          "intDesc": "id9_desc_cars",
+          "url": "https://www.rockauto.com",
+          "logo": "/images/rockauto-logo.png",
+          "preview": "/images/rockauto-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "EBAY.COM",
+          "description": "მსოფლიო მარკეტპლეისი, სადაც შეგიძლიათ შეიძინოთ ავტონაწილები, აქსესუარები და ზოგჯერ თავად ავტომობილებიც.",
+          "intDesc": "id10_desc_cars",
+          "url": "https://www.ebay.com",
+          "logo": "/images/ebay-logo.png",
+          "preview": "/images/ebay-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "TESLA.COM",
+          "description": "ელექტრო ავტომობილების მწარმოებლის ოფიციალური საიტი, სადაც შეგიძლიათ გაეცნოთ Tesla-ს მოდელებს და ტექნოლოგიებს.",
+          "intDesc": "id11_desc_cars",
+          "url": "https://www.tesla.com",
+          "logo": "/images/tesla-logo.png",
+          "preview": "/images/tesla-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "TOYOTA.COM",
+          "description": "Toyota-ს ოფიციალური ვებგვერდი, სადაც წარმოდგენილია ახალი მოდელები, სპეციფიკაციები და ტექნოლოგიები.",
+          "intDesc": "id12_desc_cars",
+          "url": "https://www.toyota.com",
+          "logo": "/images/toyota-logo.png",
+          "preview": "/images/toyota-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "construction",
+      "name": "Строительство",
+      "description": "Строительство.",
+      "logo": "Drill",
+      "bkglogo": "/images/construction-logobkg.png",
+      "titleKey": "home_construction",
+      "priority": 44,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/construction-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "Hunting and fishing",
+      "name": "Охота и рыбалка",
+      "description": "Охота и рыбалка.",
+      "logo": "Fish",
+      "bkglogo": "/images/hunting-logobkg.png",
+      "titleKey": "home_hunting",
+      "priority": 33,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/hunting-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "Parcels",
+      "name": "Посылки",
+      "description": "Посылки.",
+      "logo": "PackageOpen",
+      "bkglogo": "/images/parcels-logobkg.png",
+      "titleKey": "home_parcels",
+      "priority": 34,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/parcels-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "Real estate",
+      "name": "Недвижимость",
+      "description": "Лучшие сайты для покупки, продажи и аренды недвижимости в Грузии и по всему миру.",
+      "logo": "DoorClosedLocked",
+      "bkglogo": "/images/reals-logobkg.png",
+      "titleKey": "home_real",
+      "priority": 18,
+      "sites": [
+        {
+          "id": 1,
+          "title": "SS.GE",
+          "description": "Один из самых популярных сайтов в Грузии для покупки, продажи и аренды недвижимости, где представлены квартиры, дома, коммерческие помещения и земельные участки.",
+          "intDesc": "id1_desc_realestate",
+          "url": "https://ss.ge",
+          "logo": "/images/ss-logo.png",
+          "preview": "/images/ss-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "MYHOME.GE",
+          "description": "Удобная платформа для поиска недвижимости в Грузии с большим выбором объявлений о продаже и аренде квартир, домов и коммерческих объектов по всей стране.",
+          "intDesc": "id2_desc_realestate",
+          "url": "https://www.myhome.ge",
+          "logo": "/images/myhome-logo.png",
+          "preview": "/images/myhome-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "LIVO.GE",
+          "description": "Современный сайт недвижимости в Грузии, предлагающий объявления о продаже и аренде квартир, домов и новостроек с удобной системой поиска и фильтрации.",
+          "intDesc": "id3_desc_realestate",
+          "url": "https://livo.ge",
+          "logo": "/images/livo-logo.png",
+          "preview": "/images/livo-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "PLACE.GE",
+          "description": "Платформа для поиска недвижимости в Тбилиси и других регионах Грузии, где можно найти выгодные предложения по продаже и аренде жилья и коммерческих объектов.",
+          "intDesc": "id4_desc_realestate",
+          "url": "https://place.ge",
+          "logo": "/images/place-logo.png",
+          "preview": "/images/place-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "ZILLOW.COM",
+          "description": "Один из крупнейших международных сайтов недвижимости, предлагающий миллионы объявлений о продаже и аренде домов, квартир и земельных участков в США.",
+          "intDesc": "id5_desc_realestate",
+          "url": "https://www.zillow.com",
+          "logo": "/images/zillow-logo.png",
+          "preview": "/images/zillow-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "REALTOR.COM",
+          "description": "Популярная американская платформа недвижимости с актуальными объявлениями о продаже и аренде жилья, аналитикой рынка и подробной информацией о районах.",
+          "intDesc": "id6_desc_realestate",
+          "url": "https://www.realtor.com",
+          "logo": "/images/realtor-logo.png",
+          "preview": "/images/realtor-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "RIGHTMOVE.CO.UK",
+          "description": "Крупнейший сайт недвижимости в Великобритании, предлагающий широкий выбор домов, квартир и коммерческой недвижимости для покупки и аренды.",
+          "intDesc": "id7_desc_realestate",
+          "url": "https://www.rightmove.co.uk",
+          "logo": "/images/rightmove-logo.png",
+          "preview": "/images/rightmove-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "IDEALISTA.COM",
+          "description": "Один из самых популярных сайтов недвижимости в Европе, особенно в Испании, Италии и Португалии, с большим выбором объектов для покупки и аренды.",
+          "intDesc": "id8_desc_realestate",
+          "url": "https://www.idealista.com",
+          "logo": "/images/idealista-logo.png",
+          "preview": "/images/idealista-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "AIRBNB.COM",
+          "description": "Глобальная платформа для краткосрочной аренды жилья, где можно найти квартиры, дома и уникальные варианты проживания по всему миру.",
+          "intDesc": "id9_desc_realestate",
+          "url": "https://www.airbnb.com",
+          "logo": "/images/airbnb-logo.png",
+          "preview": "/images/airbnb-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "BOOKING.COM",
+          "description": "Популярный сервис бронирования жилья по всему миру, предлагающий отели, апартаменты и дома для краткосрочного проживания с отзывами пользователей.",
+          "intDesc": "id10_desc_realestate",
+          "url": "https://www.booking.com",
+          "logo": "/images/booking-logo.png",
+          "preview": "/images/booking-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "weather",
+      "name": "Погода",
+      "description": "Погода.",
+      "logo": "CloudSun",
+      "bkglogo": "/images/weather-logobkg.png",
+      "titleKey": "home_weather",
+      "priority": 29,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/weather-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "Employment",
+      "name": "Трудоустройство",
+      "description": "Трудоустройство.",
+      "logo": "UserRoundSearch",
+      "bkglogo": "/images/employment-logobkg.png",
+      "titleKey": "home_employment",
+      "priority": 19,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/employment-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "shops",
+      "name": "Магазины",
+      "description": "Онлайн-магазины и торговые платформы: покупка товаров, электроники, одежды и других категорий в Грузии и по всему миру.",
+      "desc": "shops_description",
+      "logo": "ShoppingBasket",
+      "bkglogo": "/images/shops-logobkg.png",
+      "titleKey": "home_shops",
+      "priority": 10,
+      "sites": [
+        {
+          "id": 1,
+          "title": "VELI.STORE",
+          "description": "თანამედროვე ქართული ონლაინ მაღაზია, სადაც შეგიძლიათ მარტივად შეიძინოთ სხვადასხვა კატეგორიის პროდუქცია სწრაფი მიწოდებით და კომფორტული სერვისით.",
+          "intDesc": "id1_desc_shops",
+          "url": "https://veli.store",
+          "logo": "/images/veli-logo.png",
+          "preview": "/images/veli-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "WISHLIST.GE",
+          "description": "ბავშვთა პროდუქციის ერთ-ერთი ყველაზე დიდი ონლაინ პლატფორმა საქართველოში, სადაც წარმოდგენილია სათამაშოები, ტანსაცმელი და სხვა საჭირო ნივთები.",
+          "intDesc": "id2_desc_shops",
+          "url": "https://wishlist.ge",
+          "logo": "/images/wishlist-logo.png",
+          "preview": "/images/wishlist-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "EXTRA.GE",
+          "description": "პოპულარული ქართული ონლაინ მაღაზია, რომელიც გთავაზობთ ტექნიკას, საყოფაცხოვრებო ნივთებს და მრავალფეროვან პროდუქტებს კონკურენტულ ფასებში.",
+          "intDesc": "id3_desc_shops",
+          "url": "https://extra.ge",
+          "logo": "/images/extra-logo.png",
+          "preview": "/images/extra-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "VENDOO.GE",
+          "description": "ონლაინ მაღაზია დიდი ფასდაკლებებით, სადაც მომხმარებლებს შეუძლიათ შეიძინონ სხვადასხვა პროდუქცია ხელსაყრელ ფასებში და აქციებით.",
+          "intDesc": "id4_desc_shops",
+          "url": "https://vendoo.ge",
+          "logo": "/images/vendoo-logo.png",
+          "preview": "/images/vendoo-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "KONTAKT.GE",
+          "description": "ტექნიკის ონლაინ მაღაზია საქართველოში, რომელიც გთავაზობთ თანამედროვე ელექტრონიკას, საყოფაცხოვრებო ტექნიკას და აქსესუარებს.",
+          "intDesc": "id5_desc_shops",
+          "url": "https://kontakt.ge",
+          "logo": "/images/kontakt-logo.png",
+          "preview": "/images/kontakt-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "MYMARKET.GE",
+          "description": "ყველაზე ცნობილი ქართული მარკეტპლეისი, სადაც მომხმარებლებს შეუძლიათ იყიდონ ან გაყიდონ ახალი და მეორადი ნივთები სხვადასხვა კატეგორიაში.",
+          "intDesc": "id6_desc_shops",
+          "url": "https://www.mymarket.ge",
+          "logo": "/images/mymarket-logo.png",
+          "preview": "/images/mymarket-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "LILOSHOP.GE",
+          "description": "ლილოს ბაზრობის ონლაინ ვერსია, რომელიც მომხმარებლებს აძლევს შესაძლებლობას შეიძინონ პროდუქცია სახლიდან გაუსვლელად.",
+          "intDesc": "id7_desc_shops",
+          "url": "https://liloshop.ge",
+          "logo": "/images/liloshop-logo.png",
+          "preview": "/images/liloshop-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "DRESSUP.GE",
+          "description": "ონლაინ მაღაზია, რომელიც სპეციალიზდება ტანსაცმელში, ფეხსაცმელსა და აქსესუარებში თანამედროვე სტილის მოყვარულთათვის.",
+          "intDesc": "id8_desc_shops",
+          "url": "https://dressup.ge",
+          "logo": "/images/dressup-logo.png",
+          "preview": "/images/dressup-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "GORGIA.GE",
+          "description": "ერთ-ერთი ყველაზე დიდი ჰიპერმარკეტი საქართველოში, რომელიც გთავაზობთ სამშენებლო მასალებს, ავეჯს და საყოფაცხოვრებო ნივთებს.",
+          "intDesc": "id9_desc_shops",
+          "url": "https://gorgia.ge",
+          "logo": "/images/gorgia-logo.png",
+          "preview": "/images/gorgia-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "ULTRA.GE",
+          "description": "კომპიუტერული ტექნიკის ონლაინ მაღაზია, სადაც შესაძლებელია ლეპტოპების, კომპიუტერების და აქსესუარების შეძენა კარგ ფასებში.",
+          "intDesc": "id10_desc_shops",
+          "url": "https://ultra.ge",
+          "logo": "/images/ultra-logo.png",
+          "preview": "/images/ultra-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "ZOOMMER.GE",
+          "description": "მობილური ტექნიკის ერთ-ერთი ყველაზე პოპულარული მაღაზია საქართველოში, რომელიც გთავაზობთ სმარტფონებს და აქსესუარებს.",
+          "intDesc": "id11_desc_shops",
+          "url": "https://zoomer.ge",
+          "logo": "/images/zoomer-logo.png",
+          "preview": "/images/zoomer-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "PCSHOP.GE",
+          "description": "სანდო ონლაინ მაღაზია კომპიუტერული ტექნიკისთვის, რომელიც მომხმარებლებს სთავაზობს მაღალი ხარისხის პროდუქტებს.",
+          "intDesc": "id12_desc_shops",
+          "url": "https://pcshop.ge",
+          "logo": "/images/pcshop-logo.png",
+          "preview": "/images/pcshop-preview.png"
+        },
+        {
+          "id": 13,
+          "title": "ALTA.GE",
+          "description": "ელექტრო ტექნიკის ერთ-ერთი ყველაზე დიდი ქსელი საქართველოში, სადაც შესაძლებელია მრავალფეროვანი ტექნიკის შეძენა.",
+          "intDesc": "id13_desc_shops",
+          "url": "https://alta.ge",
+          "logo": "/images/alta-logo.png",
+          "preview": "/images/alta-preview.png"
+        },
+        {
+          "id": 14,
+          "title": "METROMART.GE",
+          "description": "ონლაინ პლატფორმა, რომელიც აერთიანებს საყოფაცხოვრებო ტექნიკას და სხვადასხვა პროდუქციას ერთ სივრცეში.",
+          "intDesc": "id14_desc_shops",
+          "url": "https://metromart.ge",
+          "logo": "/images/metromart-logo.png",
+          "preview": "/images/metromart-preview.png"
+        },
+        {
+          "id": 15,
+          "title": "DOMINO.COM.GE",
+          "description": "საოჯახო და სამშენებლო პროდუქციის დიდი ონლაინ მაღაზია, სადაც წარმოდგენილია ავეჯი, ტექნიკა და სახლის ნივთები.",
+          "intDesc": "id15_desc_shops",
+          "url": "https://domino.com.ge",
+          "logo": "/images/domino-logo.png",
+          "preview": "/images/domino-preview.png"
+        },
+        {
+          "id": 16,
+          "title": "BELUX.GE",
+          "description": "მაღალი ხარისხის ავეჯის ონლაინ მაღაზია საქართველოში, რომელიც გთავაზობთ თანამედროვე და კლასიკურ დიზაინს.",
+          "intDesc": "id16_desc_shops",
+          "url": "https://belux.ge",
+          "logo": "/images/belux-logo.png",
+          "preview": "/images/belux-preview.png"
+        },
+        {
+          "id": 17,
+          "title": "JYSK.GE",
+          "description": "სახლისა და ეზოს ავეჯის საერთაშორისო ბრენდი, რომელიც მომხმარებლებს სთავაზობს კომფორტულ და თანამედროვე პროდუქტებს.",
+          "intDesc": "id17_desc_shops",
+          "url": "https://jysk.ge",
+          "logo": "/images/jysk-logo.png",
+          "preview": "/images/jysk-preview.png"
+        },
+        {
+          "id": 18,
+          "title": "LOVELYROSES.GE",
+          "description": "პრემიუმ ყვავილების ონლაინ მაღაზია, რომელიც უზრუნველყოფს ყვავილების სწრაფ და ხარისხიან მიწოდებას სხვადასხვა ღონისძიებისთვის.",
+          "intDesc": "id18_desc_shops",
+          "url": "https://lovelyroses.ge",
+          "logo": "/images/flowers-logo.png",
+          "preview": "/images/flowers-preview.png"
+        },
+        {
+          "id": 19,
+          "title": "INGCO.GE",
+          "description": "ელექტრო ხელსაწყოებისა და სამშენებლო ინსტრუმენტების ოფიციალური ონლაინ მაღაზია საქართველოში პროფესიონალებისთვის.",
+          "intDesc": "id19_desc_shops",
+          "url": "https://ingco.ge",
+          "logo": "/images/ingco-logo.png",
+          "preview": "/images/ingco-preview.png"
+        },
+        {
+          "id": 20,
+          "title": "CHITA.GE",
+          "description": "სათამაშოების ონლაინ მაღაზია, რომელიც გთავაზობთ ბავშვებისთვის მრავალფეროვან და უსაფრთხო პროდუქტებს.",
+          "intDesc": "id20_desc_shops",
+          "url": "https://chita.ge",
+          "logo": "/images/chita-logo.png",
+          "preview": "/images/chita-preview.png"
+        },
+        {
+          "id": 21,
+          "title": "KIDSTAR.GE",
+          "description": "ბავშვთა სათამაშოების ონლაინ პლატფორმა, სადაც წარმოდგენილია სხვადასხვა ასაკის ბავშვებისთვის განკუთვნილი პროდუქცია.",
+          "intDesc": "id21_desc_shops",
+          "url": "https://kidstar.ge",
+          "logo": "/images/kidstar-logo.png",
+          "preview": "/images/kidstar-preview.png"
+        },
+        {
+          "id": 22,
+          "title": "TEMU.COM",
+          "description": "საერთაშორისო ონლაინ პლატფორმა, რომელიც მომხმარებლებს სთავაზობს მრავალფეროვან პროდუქტებს ძალიან დაბალ ფასებში.",
+          "intDesc": "id22_desc_shops",
+          "url": "https://www.temu.com",
+          "logo": "/images/temu-logo.png",
+          "preview": "/images/temu-preview.png"
+        },
+        {
+          "id": 23,
+          "title": "AMAZON.COM",
+          "description": "მსოფლიოში ყველაზე დიდი ონლაინ მაღაზია, სადაც შეგიძლიათ შეიძინოთ პრაქტიკულად ნებისმიერი პროდუქტი სხვადასხვა კატეგორიაში.",
+          "intDesc": "id23_desc_shops",
+          "url": "https://www.amazon.com",
+          "logo": "/images/amazon-logo.png",
+          "preview": "/images/amazon-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "Cooking",
+      "name": "кулинария",
+      "description": "кулинария.",
+      "logo": "CookingPot",
+      "bkglogo": "/images/cooking-logobkg.png",
+      "titleKey": "home_cooking",
+      "priority": 32,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/shops-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "applications",
+      "name": "Приложения",
+      "description": "Популярные приложения и программы для общения, работы, развлечений и повседневного использования.",
+      "desc": "applications_description",
+      "logo": "AppWindow",
+      "bkglogo": "/images/apps-logobkg.png",
+      "titleKey": "home_apps",
+      "priority": 15,
+      "sites": [
+        {
+          "id": 1,
+          "title": "WHATSAPP.COM",
+          "description": "ერთ-ერთი ყველაზე პოპულარული მესენჯერი მსოფლიოში, რომელიც გთავაზობთ სწრაფ და უსაფრთხო კომუნიკაციას ტექსტით, ზარებითა და ვიდეოკავშირით.",
+          "intDesc": "id1_desc_apps",
+          "url": "https://www.whatsapp.com",
+          "logo": "/images/whatsapp-logo.png",
+          "preview": "/images/whatsapp-preview.png"
+        },
+        {
+          "id": 2,
+          "title": "TELEGRAM.ORG",
+          "description": "სწრაფი და უსაფრთხო მესენჯერი, რომელიც გამოირჩევა არხებით, ჯგუფებით და ფაილების გაზიარების ძლიერი შესაძლებლობებით.",
+          "intDesc": "id2_desc_apps",
+          "url": "https://telegram.org",
+          "logo": "/images/telegram-logo.png",
+          "preview": "/images/telegram-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "FACEBOOK.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე დიდი სოციალური ქსელი, სადაც შეგიძლიათ დაუკავშირდეთ მეგობრებს, გააზიაროთ კონტენტი და იყოთ აქტიური ონლაინ სივრცეში.",
+          "intDesc": "id3_desc_apps",
+          "url": "https://www.facebook.com",
+          "logo": "/images/facebook-logo.png",
+          "preview": "/images/facebook-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "INSTAGRAM.COM",
+          "description": "პოპულარული სოციალური აპლიკაცია ფოტოების და ვიდეოების გასაზიარებლად, რომელიც განსაკუთრებით აქტიურია ახალგაზრდებში.",
+          "intDesc": "id4_desc_apps",
+          "url": "https://www.instagram.com",
+          "logo": "/images/instagram-logo.png",
+          "preview": "/images/instagram-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "TIKTOK.COM",
+          "description": "მოკლე ვიდეოების პლატფორმა, რომელიც გთავაზობთ გასართობ და ვირუსულ კონტენტს მილიონობით მომხმარებლისგან.",
+          "intDesc": "id5_desc_apps",
+          "url": "https://www.tiktok.com",
+          "logo": "/images/tiktok-logo.png",
+          "preview": "/images/tiktok-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "SPOTIFY.COM",
+          "description": "მუსიკის სტრიმინგ სერვისი, სადაც შეგიძლიათ მოუსმინოთ მილიონობით სიმღერას, პოდკასტებს და შექმნათ საკუთარი ფლეილისტები.",
+          "intDesc": "id6_desc_apps",
+          "url": "https://www.spotify.com",
+          "logo": "/images/spotify-logo.png",
+          "preview": "/images/spotify-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "ZOOM.US",
+          "description": "ვიდეოკონფერენციების ერთ-ერთი ყველაზე პოპულარული პლატფორმა ონლაინ შეხვედრებისთვის, სწავლებისთვის და ბიზნეს კომუნიკაციისთვის.",
+          "intDesc": "id7_desc_apps",
+          "url": "https://zoom.us",
+          "logo": "/images/zoom-logo.png",
+          "preview": "/images/zoom-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "GOOGLE DRIVE",
+          "description": "ფაილების შენახვის და გაზიარების სერვისი Google-ისგან, რომელიც გაძლევთ შესაძლებლობას იმუშაოთ დოკუმენტებზე ონლაინ რეჟიმში.",
+          "intDesc": "id8_desc_apps",
+          "url": "https://drive.google.com",
+          "logo": "/images/gdrive-logo.png",
+          "preview": "/images/gdrive-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "DROPBOX.COM",
+          "description": "კლაუდ სერვისი ფაილების შენახვისა და გაზიარებისთვის, რომელიც პოპულარულია როგორც პირადი, ასევე სამუშაო გამოყენებისთვის.",
+          "intDesc": "id9_desc_apps",
+          "url": "https://www.dropbox.com",
+          "logo": "/images/dropbox-logo.png",
+          "preview": "/images/dropbox-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "CANVA.COM",
+          "description": "ონლაინ დიზაინის ინსტრუმენტი, რომელიც გაძლევთ საშუალებას შექმნათ პროფესიონალური დიზაინები მარტივად — პოსტები, ლოგოები და პრეზენტაციები.",
+          "intDesc": "id10_desc_apps",
+          "url": "https://www.canva.com",
+          "logo": "/images/canva-logo.png",
+          "preview": "/images/canva-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "CHATGPT.COM",
+          "description": "ხელოვნური ინტელექტის პლატფორმა, რომელიც გეხმარებათ ტექსტის შექმნაში, კოდირებაში, იდეების გენერაციაში და სხვადასხვა ამოცანების სწრაფად შესრულებაში.",
+          "intDesc": "id11_desc_apps",
+          "url": "https://chat.openai.com",
+          "logo": "/images/chatgpt-logo.png",
+          "preview": "/images/chatgpt-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "NOTION.SO",
+          "description": "უნივერსალური სამუშაო სივრცე, რომელიც აერთიანებს ნოუთებს, დავალებებს და პროექტების მართვას ერთ პლატფორმაში.",
+          "intDesc": "id12_desc_apps",
+          "url": "https://www.notion.so",
+          "logo": "/images/notion-logo.png",
+          "preview": "/images/notion-preview.png"
+        }
+      ]
+    },
+    {
+      "slug": "Torrent Sites",
+      "name": "Торрент Сайти",
+      "description": "Торрент Сайти.",
+      "logo": "LayersPlus",
+      "bkglogo": "/images/torrent-logobkg.png",
+      "titleKey": "home_torrent",
+      "priority": 40,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/shops-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    },
+    {
+      "slug": "Adult",
+      "name": "18+",
+      "description": "18+.",
+      "logo": "Mars",
+      "bkglogo": "/images/adult-logobkg.png",
+      "titleKey": "home_adult",
+      "priority": 141,
+      "sites": [
+        {
+          "id": 20,
+          "title": "Coursera",
+          "description": "Курсы от ведущих университетов.",
+          "intDesc": "home_apps",
+          "url": "https://www.coursera.org",
+          "logo": "/images/shops-logo.png"
+        },
+        {
+          "id": 21,
+          "title": "Stepik",
+          "description": "Бесплатные курсы по программированию и наукам.",
+          "intDesc": "home_apps",
+          "url": "https://stepik.org",
+          "logo": "/images/stepik-logo.png"
+        }
+      ]
+    }
+  ]
+}
