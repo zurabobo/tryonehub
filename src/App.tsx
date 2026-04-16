@@ -8,11 +8,13 @@ import Privacy from "./pages/Privacy";
 import Contacts from "./pages/Contacts";
 import FavoritesPage from "./pages/Favorites";
 import Footer from "./components/Footer/Footer";
+import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 
 const App: React.FC = () => {
   return (
     <Router>
       <div className="min-h-screen flex flex-col bg-[#0f172a]">
+      <ScrollToTop />
         <Header />
 
         <main className="flex-1 px-0 md:px-[90px]">
