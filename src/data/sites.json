@@ -1884,7 +1884,7 @@
     {
       "slug": "casino",
       "name": "კაზინოები",
-      "description": "ონლაინ კაზინოები და ტოტალიზატორები საქართველოში, ამერიკაში და რუსეთში.",
+      "description": "ლიცენზირებულ და ცნობილ ონლაინ ბეთინგისა და თამაშების პლატფორმების სია, წარმოდგენილი ნეიტრალური საინფორმაციო ფორმატით.",
       "desc": "casino_description",
       "logo": "Dices",
       "bkglogo": "/images/casino-logobkg.png",
@@ -1893,162 +1893,72 @@
       "sites": [
         {
           "id": 1,
-          "title": "ASVLA.COM",
-          "description": "ASVLA.COM - სლოტების დიდი არჩევანი.",
-          "intDesc": "id1_desc_casino",
-          "url": "https://asvla.com",
-          "logo": "/images/asvla-logo.png",
-          "preview": "/images/asvla-preview.png"
-        },
-        {
-          "id": 2,
-          "title": "VBET.COM",
-          "description": "VBET.COM - აღმოაჩინე გართობის ახალი სივრცე.",
-          "intDesc": "id2_desc_casino",
-          "url": "https://vbet.com",
-          "logo": "/images/vbet-logo.png",
-          "preview": "/images/vbet-preview.png"
-        },
-        {
-          "id": 3,
-          "title": "MEGAPARI.COM",
-          "description": "MEGAPARI.COM - ყველა აზარტული თამაში ერთად.",
-          "intDesc": "id3_desc_casino",
-          "url": "https://megapari.com",
-          "logo": "/images/megapari-logo.png",
-          "preview": "/images/megapari-preview.png"
-        },
-        {
-          "id": 4,
-          "title": "BETWINNER.COM",
-          "description": "BETWINNER.COM - სლოტების მრავალფეროვანი არჩევანი.",
-          "intDesc": "id4_desc_casino",
-          "url": "https://betwinner.com",
-          "logo": "/images/betwinner-logo.png",
-          "preview": "/images/betwinner-preview.png"
-        },
-        {
-          "id": 5,
-          "title": "PARIPESA.COM",
-          "description": "PARIPESA.COM - თანამედროვე კაზინო, მარტივი ინტერფეისით.",
-          "intDesc": "id5_desc_casino",
-          "url": "https://paripesa.com",
-          "logo": "/images/paripesa-logo.png",
-          "preview": "/images/paripesa-preview.png"
-        },
-        {
-          "id": 6,
-          "title": "MELBET.COM",
-          "description": "MELBET.COM - ონლაინ სპორტული ფსონები და კაზინო.",
-          "intDesc": "id6_desc_casino",
-          "url": "https://melbet.com",
-          "logo": "/images/melbet-logo.png",
-          "preview": "/images/melbet-preview.png"
-        },
-        {
-          "id": 7,
-          "title": "22BET.COM",
-          "description": "22BET.COM - ითამაშე ყველაფერი ქართულად.",
-          "intDesc": "id7_desc_casino",
-          "url": "https://22bet.com",
-          "logo": "/images/22bet-logo.png",
-          "preview": "/images/22bet-preview.png"
-        },
-        {
-          "id": 8,
-          "title": "CROCOBET.COM",
-          "description": "CROCOBET.COM - აზარტული თამაშების საუკეთესო საიტი.",
-          "intDesc": "id8_desc_casino",
-          "url": "https://crocobet.com",
-          "logo": "/images/crocobet-logo.png",
-          "preview": "/images/crocobet-preview.png"
-        },
-        {
-          "id": 9,
-          "title": "CRYSTALBET.COM",
-          "description": "CRYSTALBET.COM - ონლაინ ტოტალიზატორი და კაზინო.",
-          "intDesc": "id9_desc_casino",
-          "url": "https://crystalbet.com",
-          "logo": "/images/crystalbet-logo.png",
-          "preview": "/images/crystalbet-preview.png"
-        },
-        {
-          "id": 10,
           "title": "ADJARABET.COM",
-          "description": "ADJARABET.COM - ონლაინ ტოტალიზატორი და კაზინო.",
-          "intDesc": "id10_desc_casino",
+          "description": "საქართველოს ერთ-ერთი ყველაზე ცნობილი ლიცენზირებული პლატფორმა სპორტული ფსონებისა და ონლაინ თამაშებისთვის, სადაც მომხმარებლები პოულობენ სხვადასხვა ტიპის გასართობ სერვისებს.",
+          "intDesc": "id1_desc_casino",
           "url": "https://adjarabet.com",
           "logo": "/images/adjarabet-logo.png",
           "preview": "/images/adjarabet-preview.png"
         },
         {
-          "id": 11,
-          "title": "LIDER-BET.COM",
-          "description": "LIDER-BET.COM - სპორტი და კაზინო.",
-          "intDesc": "id11_desc_casino",
-          "url": "https://lider-bet.com",
-          "logo": "/images/liderbet-logo.png",
-          "preview": "/images/liderbet-preview.png"
-        },
-        {
-          "id": 12,
-          "title": "BETLIVE.COM",
-          "description": "BETLIVE.COM - ქართული ონლაინ ტოტალიზატორი.",
-          "intDesc": "id12_desc_casino",
-          "url": "https://betlive.com",
-          "logo": "/images/betlive-logo.png",
-          "preview": "/images/betlive-preview.png"
-        },
-        {
-          "id": 13,
+          "id": 2,
           "title": "EUROPEBET.COM",
-          "description": "EUROPEBET.COM - საუკეთესო მობილური კაზინო და პოკერი.",
-          "intDesc": "id13_desc_casino",
+          "description": "ცნობილი ქართული ონლაინ პლატფორმა სპორტის, ბეთინგისა და თამაშების მიმართულებით, რომელიც მომხმარებლებს სთავაზობს მრავალფეროვან ციფრულ გასართობ სერვისებს.",
+          "intDesc": "id2_desc_casino",
           "url": "https://europebet.com",
           "logo": "/images/europebet-logo.png",
           "preview": "/images/europebet-preview.png"
         },
         {
-          "id": 14,
-          "title": "AMBASSADORIBET.COM",
-          "description": "AMBASSADORIBET.COM - ახალი ქართული ონლაინ კაზინო.",
-          "intDesc": "id14_desc_casino",
-          "url": "https://ambassadoribet.com",
-          "logo": "/images/ambassadoribet-logo.png",
-          "preview": "/images/ambassadoribet-preview.png"
+          "id": 3,
+          "title": "CRYSTALBET.COM",
+          "description": "საქართველოში მოქმედი პოპულარული ონლაინ სერვისი, რომელიც აერთიანებს სპორტულ შეთავაზებებს, სხვადასხვა თამაშებს და მომხმარებლისთვის ნაცნობ ინტერფეისს.",
+          "intDesc": "id3_desc_casino",
+          "url": "https://crystalbet.com",
+          "logo": "/images/crystalbet-logo.png",
+          "preview": "/images/crystalbet-preview.png"
         },
         {
-          "id": 15,
-          "title": "JVSPIN.COM",
-          "description": "JVSPIN.COM - ონლაინ კაზინო და სპორტზე ფსონების პლატფორმა.",
-          "intDesc": "id15_desc_casino",
-          "url": "https://jvspin.com",
-          "logo": "/images/jvspin-logo.png",
-          "preview": "/images/jvspin-preview.png"
+          "id": 4,
+          "title": "CROCOBET.COM",
+          "description": "ონლაინ გასართობი და ფსონების პლატფორმა, რომელიც მომხმარებლებს სთავაზობს სპორტულ მიმართულებებსა და ციფრულ თამაშების კატეგორიებს ერთ სივრცეში.",
+          "intDesc": "id4_desc_casino",
+          "url": "https://crocobet.com",
+          "logo": "/images/crocobet-logo.png",
+          "preview": "/images/crocobet-preview.png"
         },
         {
-          "id": 16,
-          "title": "GAMDOM.COM",
-          "description": "GAMDOM.COM - ონლაინ აზარტული თამაშების პლატფორმა.",
-          "intDesc": "id16_desc_casino",
-          "url": "https://gamdom.com",
-          "logo": "/images/gamdom-logo.png",
-          "preview": "/images/gamdom-preview.png"
+          "id": 5,
+          "title": "BETSSON.COM",
+          "description": "საერთაშორისო ბრენდი ონლაინ ბეთინგისა და თამაშების სფეროში, რომელიც ცნობილია ფართო მომსახურებით, სპორტული მიმართულებებით და მრავალ ბაზარზე ოპერირებით.",
+          "intDesc": "id5_desc_casino",
+          "url": "https://www.betsson.com",
+          "logo": "/images/betsson-logo.png",
+          "preview": "/images/betsson-preview.png"
         },
         {
-          "id": 17,
-          "title": "LINEBET.COM",
-          "description": "LINEBET.COM - ტოტალიზატორი და კაზინო ქართულად.",
-          "intDesc": "id17_desc_casino",
-          "url": "https://linebet.com",
-          "logo": "/images/linebet-logo.png",
-          "preview": "/images/linebet-preview.png"
+          "id": 6,
+          "title": "BET365.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე ცნობილი საერთაშორისო ბრენდი სპორტული ფსონებისა და ონლაინ თამაშების მიმართულებით, ძლიერი სახელითა და ფართო მომსახურებით.",
+          "intDesc": "id6_desc_casino",
+          "url": "https://www.bet365.com",
+          "logo": "/images/bet365-logo.png",
+          "preview": "/images/bet365-preview.png"
         },
         {
-          "id": 18,
+          "id": 7,
+          "title": "VBET.COM",
+          "description": "ონლაინ ბეთინგისა და ციფრული თამაშების ცნობილი საერთაშორისო პლატფორმა, რომელიც წარმოდგენილია მრავალ ქვეყანაში და სთავაზობს მრავალფეროვან ბაზრებს მომხმარებლებს.",
+          "intDesc": "id7_desc_casino",
+          "url": "https://www.vbet.com",
+          "logo": "/images/vbet-logo.png",
+          "preview": "/images/vbet-preview.png"
+        },
+        {
+          "id": 8,
           "title": "STAKE.COM",
-          "description": "STAKE.COM - ყველაზე ცნობილი ტოტალიზატორი და კაზინო კრიპტოვალუტით.",
-          "intDesc": "id18_desc_casino",
+          "description": "ციფრული ბეთინგისა და თამაშების ცნობილი საერთაშორისო პლატფორმა, რომელიც განსაკუთრებით გამოირჩევა თანამედროვე ინტერფეისით და გლობალური ცნობადობით.",
+          "intDesc": "id8_desc_casino",
           "url": "https://stake.com",
           "logo": "/images/stake-logo.png",
           "preview": "/images/stake-preview.png"
@@ -2277,6 +2187,42 @@
           "url": "https://www.quora.com",
           "logo": "/images/quora-logo.png",
           "preview": "/images/quora-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "STACKOVERFLOW.COM",
+          "description": "პროგრამისტების ერთ-ერთი ყველაზე ცნობილი კითხვა-პასუხის ფორუმი, სადაც მომხმარებლები განიხილავენ კოდს, შეცდომებს, ტექნოლოგიებს და პრაქტიკულ ამოცანებს.",
+          "intDesc": "id5_desc_forum",
+          "url": "https://stackoverflow.com",
+          "logo": "/images/stackoverflow-logo.png",
+          "preview": "/images/stackoverflow-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "XDA-DEVELOPERS.COM",
+          "description": "მობილური მოწყობილობებისა და Android სამყაროს ერთ-ერთი ყველაზე დიდი ფორუმი, სადაც იპოვი ROM-ებს, გიდებს, პრობლემების გადაწყვეტას და განხილვებს.",
+          "intDesc": "id6_desc_forum",
+          "url": "https://xdaforums.com",
+          "logo": "/images/xda-logo.png",
+          "preview": "/images/xda-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "TOMSHARDWARE.COM",
+          "description": "კომპიუტერული ტექნიკის, აწყობების, პროცესორების, ვიდეო ბარათებისა და სხვა IT თემების განხილვის პოპულარული ფორუმი და საინფორმაციო სივრცე.",
+          "intDesc": "id7_desc_forum",
+          "url": "https://forums.tomshardware.com",
+          "logo": "/images/tomshardware-logo.png",
+          "preview": "/images/tomshardware-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "DIGITALPOINT.COM",
+          "description": "ვებმასტერების, SEO სპეციალისტების და ონლაინ ბიზნესით დაინტერესებული ადამიანების ფორუმი, სადაც აქტიურად განიხილება მონეტიზაცია, SEO და ტრაფიკის წყაროები.",
+          "intDesc": "id8_desc_forum",
+          "url": "https://forums.digitalpoint.com",
+          "logo": "/images/digitalpoint-logo.png",
+          "preview": "/images/digitalpoint-preview.png"
         }
       ]
     },
@@ -2718,7 +2664,7 @@
     {
       "slug": "search",
       "name": "Поисковики",
-      "description": "Популярные поисковые системы для поиска информации, сайтов, изображений, видео и новостей по всему миру.",
+      "description": "საძიებო სისტემები მსოფლიოს სხვადასხვა ქვეყნიდან: ვებგვერდების, სურათების, ვიდეოების, რუკებისა და ინფორმაციის სწრაფად მოსაძებნად.",
       "titleKey": "home_search",
       "desc": "search_description",
       "logo": "Search",
@@ -2727,75 +2673,111 @@
       "sites": [
         {
           "id": 1,
-          "title": "MYVIDEO.GE (SEARCH)",
-          "description": "Грузинский онлайн-сервис поиска видеоконтента и популярных медиа-материалов, позволяющий быстро находить локальные видео, трансляции и развлекательные ролики, ориентированные на аудиторию Грузии.",
-          "intDesc": "id1_desc_search",
-          "url": "https://www.myvideo.ge",
-          "logo": "/images/myvideo-logo.png",
-          "preview": "/images/myvideo-preview.png"
-        },
-        {
-          "id": 2,
           "title": "GOOGLE.COM",
-          "description": "Крупнейшая поисковая система мира, обеспечивающая быстрый и точный поиск сайтов, изображений, видео, карт и новостей с использованием современных алгоритмов ранжирования и искусственного интеллекта.",
-          "intDesc": "id2_desc_search",
+          "description": "მსოფლიოში ყველაზე პოპულარული საძიებო სისტემა, რომელიც სწრაფად პოულობს ვებგვერდებს, სურათებს, ვიდეოებს, რუკებს, კომპანიებსა და სხვადასხვა ტიპის ინფორმაციას ყოველდღიური გამოყენებისთვის.",
+          "intDesc": "id1_desc_search",
           "url": "https://www.google.com",
           "logo": "/images/google-logo.png",
           "preview": "/images/google-preview.png"
         },
         {
-          "id": 3,
+          "id": 2,
           "title": "BING.COM",
-          "description": "Современная поисковая система от Microsoft с удобным интерфейсом, интеллектуальным поиском изображений и видео, встроенными AI-инструментами и расширенными возможностями фильтрации результатов.",
-          "intDesc": "id3_desc_search",
+          "description": "Microsoft-ის საძიებო სისტემა, რომელიც აერთიანებს კლასიკურ ვებ ძებნას, სურათების და ვიდეოების მოძიებას, რუკებსა და ხელოვნური ინტელექტის მხარდაჭერილ შედეგებს ერთ პლატფორმაში.",
+          "intDesc": "id2_desc_search",
           "url": "https://www.bing.com",
           "logo": "/images/bing-logo.png",
           "preview": "/images/bing-preview.png"
         },
         {
-          "id": 4,
-          "title": "YANDEX.RU",
-          "description": "Популярная поисковая система в странах СНГ, предлагающая быстрый поиск сайтов, карт, изображений и новостей, а также множество дополнительных сервисов для повседневных задач пользователей.",
-          "intDesc": "id4_desc_search",
-          "url": "https://yandex.ru",
+          "id": 3,
+          "title": "YANDEX.COM",
+          "description": "ერთ-ერთი ყველაზე ცნობილი საძიებო სისტემა რუსულენოვან სივრცეში, რომელიც სთავაზობს ვებ ძებნას, სურათებს, ვიდეოებს, რუკებს, ელფოსტასა და მრავალ დამატებით ონლაინ სერვისს.",
+          "intDesc": "id3_desc_search",
+          "url": "https://yandex.com",
           "logo": "/images/yandex-logo.png",
           "preview": "/images/yandex-preview.png"
         },
         {
-          "id": 5,
+          "id": 4,
           "title": "DUCKDUCKGO.COM",
-          "description": "Поисковая система, ориентированная на конфиденциальность пользователей, не отслеживающая историю запросов и предлагающая чистые результаты поиска без персонализированного сбора данных.",
-          "intDesc": "id5_desc_search",
+          "description": "კონფიდენციალურობაზე ორიენტირებული საძიებო სისტემა, რომელიც არ ინახავს მომხმარებლის ძიების ისტორიას და არ იყენებს ზედმეტ პერსონალიზაციას შედეგების ჩვენებისას.",
+          "intDesc": "id4_desc_search",
           "url": "https://duckduckgo.com",
-          "logo": "/images/duckduckgo-logo.png",
-          "preview": "/images/duckduckgo-preview.png"
+          "logo": "/images/ddg-logo.png",
+          "preview": "/images/ddg-preview.png"
         },
         {
-          "id": 6,
+          "id": 5,
           "title": "BAIDU.COM",
-          "description": "Крупнейшая поисковая система Китая, предоставляющая доступ к локальным китайским сайтам, изображениям, видео и новостям с оптимизацией под китайский язык и региональные интернет-ресурсы.",
-          "intDesc": "id6_desc_search",
+          "description": "ჩინეთის ერთ-ერთი ყველაზე დიდი საძიებო სისტემა, რომელიც განსაკუთრებულად ეფექტურია ჩინურენოვანი ვებგვერდების, სიახლეების, სურათებისა და ვიდეოების მოძიებისთვის.",
+          "intDesc": "id5_desc_search",
           "url": "https://www.baidu.com",
           "logo": "/images/baidu-logo.png",
           "preview": "/images/baidu-preview.png"
         },
         {
+          "id": 6,
+          "title": "ECOSIA.ORG",
+          "description": "საძიებო პლატფორმა, რომელიც რეკლამებიდან მიღებული შემოსავლის ნაწილს იყენებს ხეების დასარგავად, ამიტომ კარგი არჩევანია მათთვის, ვისაც ეკოლოგიური მიმართულება აინტერესებს.",
+          "intDesc": "id6_desc_search",
+          "url": "https://www.ecosia.org",
+          "logo": "/images/ecosia-logo.png",
+          "preview": "/images/ecosia-preview.png"
+        },
+        {
           "id": 7,
-          "title": "NAVER.COM",
-          "description": "Популярная поисковая платформа Южной Кореи, объединяющая поиск сайтов, блогов, новостей и мультимедиа-контента с акцентом на локальные сервисы и персонализированные результаты.",
+          "title": "STARTPAGE.COM",
+          "description": "საძიებო სისტემა, რომელიც უზრუნველყოფს უფრო პირად ძებნას და მომხმარებელს აძლევს შესაძლებლობას მიიღოს შედეგები ზედმეტი ტრეკინგისა და პერსონალური პროფაილინგის გარეშე.",
           "intDesc": "id7_desc_search",
+          "url": "https://www.startpage.com",
+          "logo": "/images/startpage-logo.png",
+          "preview": "/images/startpage-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "QWANT.COM",
+          "description": "ევროპული საძიებო სისტემა, რომელიც ფოკუსირებულია მომხმარებლის პირადი მონაცემების დაცვაზე და სთავაზობს ვებ, სურათების, რუკებისა და სიახლეების ძებნას.",
+          "intDesc": "id8_desc_search",
+          "url": "https://www.qwant.com",
+          "logo": "/images/qwant-logo.png",
+          "preview": "/images/qwant-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "NAVER.COM",
+          "description": "სამხრეთ კორეის ერთ-ერთი ყველაზე პოპულარული საძიებო პლატფორმა, რომელიც აერთიანებს ძებნას, პორტალ ტიპის მომსახურებებსა და ლოკალურ კონტენტზე წვდომას.",
+          "intDesc": "id9_desc_search",
           "url": "https://www.naver.com",
           "logo": "/images/naver-logo.png",
           "preview": "/images/naver-preview.png"
         },
         {
-          "id": 8,
+          "id": 10,
           "title": "YAHOO.COM",
-          "description": "Один из старейших интернет-порталов с поисковой системой, новостями, почтовыми сервисами и развлекательным контентом, популярный среди пользователей разных стран.",
-          "intDesc": "id8_desc_search",
-          "url": "https://www.yahoo.com",
+          "description": "კლასიკური ინტერნეტ პორტალი და საძიებო სისტემა, რომელიც კვლავ გამოიყენება ვებგვერდების, ფინანსური ინფორმაციის, ელფოსტისა და ახალი ამბების მოსაძებნად.",
+          "intDesc": "id10_desc_search",
+          "url": "https://search.yahoo.com",
           "logo": "/images/yahoo-logo.png",
           "preview": "/images/yahoo-preview.png"
+        },
+        {
+          "id": 11,
+          "title": "BRAVE.COM",
+          "description": "Brave Search არის დამოუკიდებელი საძიებო სისტემა, რომელიც ორიენტირებულია კონფიდენციალურობაზე და ცდილობს მომხმარებელს აჩვენოს უფრო სუფთა და ნაკლებად ტრეკინგზე დამყარებული შედეგები.",
+          "intDesc": "id11_desc_search",
+          "url": "https://search.brave.com",
+          "logo": "/images/brave-logo.png",
+          "preview": "/images/brave-preview.png"
+        },
+        {
+          "id": 12,
+          "title": "ASK.COM",
+          "description": "კითხვა-პასუხის სტილზე აგებული საძიებო პლატფორმა, რომელიც მარტივი ინტერფეისით ეხმარება მომხმარებელს ყოველდღიური ინფორმაციის, თემებისა და საიტების მოძებნაში.",
+          "intDesc": "id12_desc_search",
+          "url": "https://www.ask.com",
+          "logo": "/images/ask-logo.png",
+          "preview": "/images/ask-preview.png"
         }
       ]
     },
@@ -3402,54 +3384,184 @@
     {
       "slug": "medicine",
       "name": "Здоровье",
-      "description": "Здоровье.",
+      "description": "ჯანმრთელობის, დაავადებების, მედიკამენტების, ექიმების რჩევებისა და სამედიცინო ინფორმაციის სასარგებლო საიტები.",
       "logo": "BriefcaseMedical",
       "bkglogo": "/images/medicine-logobkg.png",
       "titleKey": "home_medicine",
       "priority": 43,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/medicine-logo.png"
+          "id": 1,
+          "title": "MKURNALI.GE",
+          "description": "ერთ-ერთი ყველაზე ცნობილი ქართული სამედიცინო პორტალი, სადაც თავმოყრილია ინფორმაცია დაავადებებზე, სიმპტომებზე, მკურნალობის გზებზე, ექიმების რჩევებსა და ჯანმრთელობის თემებზე.",
+          "intDesc": "id1_desc_medicine",
+          "url": "https://mkurnali.ge",
+          "logo": "/images/mkurnali-logo.png",
+          "preview": "/images/mkurnali-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "AVERSI.GE",
+          "description": "ქართული ფარმაცევტული და სამედიცინო საინფორმაციო პორტალი, სადაც მომხმარებელი პოულობს მედიკამენტებს, ჯანმრთელობის სტატიებს, ექიმების კონსულტაციებს და სასარგებლო რჩევებს.",
+          "intDesc": "id2_desc_medicine",
+          "url": "https://www.aversi.ge",
+          "logo": "/images/aversi-logo.png",
+          "preview": "/images/aversi-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "VIDAL.RU",
+          "description": "მედიკამენტების, ინსტრუქციების, მოქმედი ნივთიერებებისა და სამედიცინო ცნობარის ცნობილი ონლაინ ბაზა, რომელსაც ხშირად იყენებენ როგორც ექიმები, ისე ჩვეულებრივი მომხმარებლები.",
+          "intDesc": "id3_desc_medicine",
+          "url": "https://www.vidal.ru",
+          "logo": "/images/vidal-logo.png",
+          "preview": "/images/vidal-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "WEBMD.COM",
+          "description": "საერთაშორისო სამედიცინო პლატფორმა, რომელიც მარტივად განმარტავს დაავადებებს, სიმპტომებს, პრევენციას და ცხოვრების ჯანსაღ წესთან დაკავშირებულ საკითხებს ყოველდღიური მომხმარებლისთვის.",
+          "intDesc": "id4_desc_medicine",
+          "url": "https://www.webmd.com",
+          "logo": "/images/webmd-logo.png",
+          "preview": "/images/webmd-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "MAYOCLINIC.ORG",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე ავტორიტეტული სამედიცინო რესურსი, სადაც მაღალი ხარისხის სტატიებითაა ახსნილი დაავადებები, კვლევები, მკურნალობა და ჯანმრთელობის მართვის მეთოდები.",
+          "intDesc": "id5_desc_medicine",
+          "url": "https://www.mayoclinic.org",
+          "logo": "/images/mayoclinic-logo.png",
+          "preview": "/images/mayoclinic-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "MEDLINEPLUS.GOV",
+          "description": "აშშ-ის ეროვნული სამედიცინო ბიბლიოთეკის ოფიციალური რესურსი, რომელიც მომხმარებელს სთავაზობს საიმედო ინფორმაციას ჯანმრთელობის თემებზე, წამლებზე და ანატომიურ საკითხებზე.",
+          "intDesc": "id6_desc_medicine",
+          "url": "https://medlineplus.gov",
+          "logo": "/images/medlineplus-logo.png",
+          "preview": "/images/medlineplus-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "HEALTHLINE.COM",
+          "description": "პოპულარული პლატფორმა ჯანმრთელობის, კვების, ფიტნესის და სამედიცინო თემების შესახებ, რომელიც მარტივად წასაკითხ ფორმატში აწვდის ინფორმაციას ფართო აუდიტორიას.",
+          "intDesc": "id7_desc_medicine",
+          "url": "https://www.healthline.com",
+          "logo": "/images/healthline-logo.png",
+          "preview": "/images/healthline-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "NHS.UK",
+          "description": "ბრიტანეთის ჯანმრთელობის ეროვნული სამსახურის ოფიციალური საიტი, სადაც მომხმარებლები პოულობენ სიმპტომების, მკურნალობის და სამედიცინო მომსახურების შესახებ სანდო ინფორმაციას.",
+          "intDesc": "id8_desc_medicine",
+          "url": "https://www.nhs.uk",
+          "logo": "/images/nhs-logo.png",
+          "preview": "/images/nhs-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "CLEVELANDCLINIC.ORG",
+          "description": "ავტორიტეტული სამედიცინო ცენტრის ონლაინ რესურსი, რომელიც სიღრმისეულად ხსნის დაავადებებს, დიაგნოსტიკას, მკურნალობასა და ჯანმრთელობასთან დაკავშირებულ თემებს.",
+          "intDesc": "id9_desc_medicine",
+          "url": "https://my.clevelandclinic.org",
+          "logo": "/images/clevelandclinic-logo.png",
+          "preview": "/images/clevelandclinic-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "VERYWELLHEALTH.COM",
+          "description": "ჯანმრთელობის თემებზე ორიენტირებული ონლაინ გამოცემა, სადაც წარმოდგენილია დეტალური მასალები დაავადებებზე, ფსიქიკურ ჯანმრთელობაზე, კვებასა და ცხოვრების წესზე.",
+          "intDesc": "id10_desc_medicine",
+          "url": "https://www.verywellhealth.com",
+          "logo": "/images/verywell-logo.png",
+          "preview": "/images/verywell-preview.png"
         }
       ]
     },
     {
       "slug": "Restaurants",
       "name": "Рестораны",
-      "description": "Рестораны.",
+      "description": "რესტორნების, კვების ობიექტების, მენიუების, შეკვეთებისა და მაგიდის დაჯავშნის სასარგებლო პლატფორმები.",
       "logo": "HandPlatter",
       "bkglogo": "/images/restaurants-logobkg.png",
       "titleKey": "home_restaurants",
       "priority": 25,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/restaurants-logo.png"
+          "id": 1,
+          "title": "WOLT.COM",
+          "description": "საკვებისა და რესტორნების ონლაინ შეკვეთის ერთ-ერთი ყველაზე პოპულარული პლატფორმა, სადაც მარტივად შეგიძლია იპოვო ახლოს მდებარე ობიექტები, მენიუები და მომხმარებლის შეფასებები.",
+          "intDesc": "id1_desc_restaurants",
+          "url": "https://wolt.com",
+          "logo": "/images/wolt-logo.png",
+          "preview": "/images/wolt-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "GLOVOAPP.COM",
+          "description": "მიტანის პლატფორმა, რომელიც აერთიანებს მრავალ რესტორანსა და კვების ობიექტს, მომხმარებელს აძლევს მენიუს დათვალიერების და სწრაფი შეკვეთის შესაძლებლობას.",
+          "intDesc": "id2_desc_restaurants",
+          "url": "https://glovoapp.com",
+          "logo": "/images/glovo-logo.png",
+          "preview": "/images/glovo-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "TRIPADVISOR.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე პოპულარული მოგზაურობის პლატფორმა, სადაც რესტორნებზე იპოვი რეალურ შეფასებებს, ფოტოებს, რეიტინგებს და მომხმარებლების რეკომენდაციებს.",
+          "intDesc": "id3_desc_restaurants",
+          "url": "https://www.tripadvisor.com/Restaurants",
+          "logo": "/images/tripadvisor-logo.png",
+          "preview": "/images/tripadvisor-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "THEFORK.COM",
+          "description": "რესტორნების ძიებისა და მაგიდის დაჯავშნის პლატფორმა, რომელიც განსაკუთრებით პოპულარულია ევროპაში და ეხმარება მომხმარებლებს იპოვონ კარგი ადგილები სხვადასხვა ქალაქში.",
+          "intDesc": "id4_desc_restaurants",
+          "url": "https://www.thefork.com",
+          "logo": "/images/thefork-logo.png",
+          "preview": "/images/thefork-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "RESTAURANTGURU.COM",
+          "description": "რესტორნების, კაფეებისა და ბარების საძიებო პლატფორმა, სადაც თავმოყრილია მენიუები, რეიტინგები, მისამართები და მომხმარებლის გამოხმაურებები მსოფლიოს სხვადასხვა ქალაქიდან.",
+          "intDesc": "id5_desc_restaurants",
+          "url": "https://restaurantguru.com",
+          "logo": "/images/restaurantguru-logo.png",
+          "preview": "/images/restaurantguru-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "OPENTABLE.COM",
+          "description": "მაგიდის ონლაინ დაჯავშნის ცნობილი სერვისი, რომელიც მომხმარებელს საშუალებას აძლევს წინასწარ შეარჩიოს რესტორანი, დრო და ადგილები ქალაქების მიხედვით.",
+          "intDesc": "id6_desc_restaurants",
+          "url": "https://www.opentable.com",
+          "logo": "/images/opentable-logo.png",
+          "preview": "/images/opentable-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "YELP.COM",
+          "description": "ადგილობრივი ბიზნესებისა და რესტორნების შეფასების პლატფორმა, სადაც შესაძლებელია მიმოხილვების, რეიტინგების, ფოტოებისა და მომხმარებელთა გამოცდილების ნახვა.",
+          "intDesc": "id7_desc_restaurants",
+          "url": "https://www.yelp.com",
+          "logo": "/images/yelp-logo.png",
+          "preview": "/images/yelp-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "BOLT.EU/FOOD",
+          "description": "კვების ობიექტების ონლაინ შეკვეთის სერვისი, რომელიც სხვადასხვა ქალაქში მომხმარებელს სთავაზობს ადგილობრივი რესტორნების დათვალიერებას და სწრაფ მიწოდებას.",
+          "intDesc": "id8_desc_restaurants",
+          "url": "https://food.bolt.eu",
+          "logo": "/images/boltfood-logo.png",
+          "preview": "/images/boltfood-preview.png"
         }
       ]
     },
@@ -3576,88 +3688,292 @@
     {
       "slug": "construction",
       "name": "Строительство",
-      "description": "Строительство.",
+      "description": "მშენებლობის, არქიტექტურის, ინტერიერის, რემონტისა და სამშენებლო მასალების საიტები.",
       "logo": "Drill",
       "bkglogo": "/images/construction-logobkg.png",
       "titleKey": "home_construction",
       "priority": 44,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/construction-logo.png"
+          "id": 1,
+          "title": "GORGIA.GE",
+          "description": "საქართველოში ერთ-ერთი ყველაზე ცნობილი სამშენებლო ჰიპერმარკეტის საიტი, სადაც წარმოდგენილია სამშენებლო მასალები, ინსტრუმენტები, ავეჯი და სახლის მოწყობის ნივთები.",
+          "intDesc": "id1_desc_construction",
+          "url": "https://gorgia.ge",
+          "logo": "/images/gorgia-logo.png",
+          "preview": "/images/gorgia-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "DOMINO.COM.GE",
+          "description": "სახლის, რემონტისა და მშენებლობის პროდუქტების დიდი ონლაინ პლატფორმა, სადაც მომხმარებელი მარტივად პოულობს მასალებს, ავეჯს, ტექნიკას და ინტერიერის ნივთებს.",
+          "intDesc": "id2_desc_construction",
+          "url": "https://domino.com.ge",
+          "logo": "/images/domino-logo.png",
+          "preview": "/images/domino-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "INGCO.GE",
+          "description": "ინსტრუმენტების, სამშენებლო ხელსაწყოების და პროფესიონალური მოწყობილობების პლატფორმა, რომელიც სასარგებლოა როგორც ოსტატებისთვის, ისე კერძო მომხმარებლებისთვის.",
+          "intDesc": "id3_desc_construction",
+          "url": "https://ingco.ge",
+          "logo": "/images/ingco-logo.png",
+          "preview": "/images/ingco-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "M2.GE",
+          "description": "ერთ-ერთი ყველაზე ცნობილი ქართული დეველოპერული კომპანიის ოფიციალური საიტი, სადაც მომხმარებელი ნახავს საცხოვრებელი პროექტების, მშენებლობის ეტაპებისა და ბინების შესახებ დეტალურ ინფორმაციას.",
+          "intDesc": "id4_desc_construction",
+          "url": "https://m2.ge",
+          "logo": "/images/m2-logo.png",
+          "preview": "/images/m2-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "ARQI.GE",
+          "description": "სამშენებლო და დეველოპერული პროექტების პლატფორმა საქართველოში, სადაც წარმოდგენილია ახალი საცხოვრებელი კომპლექსები, პირობები, მდებარეობები და მიმდინარე მშენებლობები.",
+          "intDesc": "id5_desc_construction",
+          "url": "https://arqi.ge",
+          "logo": "/images/arqi-logo.png",
+          "preview": "/images/arqi-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "ARCHDAILY.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე პოპულარული არქიტექტურულ-სამშენებლო პორტალი, სადაც იპოვი თანამედროვე პროექტებს, იდეებს, მასალებს და დიზაინის მიმართულებებს.",
+          "intDesc": "id6_desc_construction",
+          "url": "https://www.archdaily.com",
+          "logo": "/images/archdaily-logo.png",
+          "preview": "/images/archdaily-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "HOUZZ.COM",
+          "description": "ინტერიერის, არქიტექტურისა და სახლის რემონტის იდეების პლატფორმა, სადაც შესაძლებელია პროფესიონალების, პროდუქტებისა და რეალური პროექტების მოძებნა.",
+          "intDesc": "id7_desc_construction",
+          "url": "https://www.houzz.com",
+          "logo": "/images/houzz-logo.png",
+          "preview": "/images/houzz-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "LOWES.COM",
+          "description": "სამშენებლო, სარემონტო და სახლის გაუმჯობესების ერთ-ერთი ყველაზე დიდი საერთაშორისო ონლაინ მაღაზია, რომელიც სთავაზობს მომხმარებელს ფართო ასორტიმენტს სხვადასხვა კატეგორიაში.",
+          "intDesc": "id8_desc_construction",
+          "url": "https://www.lowes.com",
+          "logo": "/images/lowes-logo.png",
+          "preview": "/images/lowes-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "HOMEDepot.COM",
+          "description": "აშშ-ის ერთ-ერთი ყველაზე დიდი სახლის და სამშენებლო მასალების ქსელის საიტი, სადაც წარმოდგენილია ინსტრუმენტები, მასალები, ტექნიკა და რემონტის გადაწყვეტილებები.",
+          "intDesc": "id9_desc_construction",
+          "url": "https://www.homedepot.com",
+          "logo": "/images/homedepot-logo.png",
+          "preview": "/images/homedepot-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "DEZEEN.COM",
+          "description": "არქიტექტურის, დიზაინისა და თანამედროვე მშენებლობის ტენდენციებზე ორიენტირებული ცნობილი გამოცემა, რომელიც იდეალურია შთაგონებისა და ტრენდების გასაცნობად.",
+          "intDesc": "id10_desc_construction",
+          "url": "https://www.dezeen.com",
+          "logo": "/images/dezeen-logo.png",
+          "preview": "/images/dezeen-preview.png"
         }
       ]
     },
     {
       "slug": "Hunting and fishing",
       "name": "Охота и рыбалка",
-      "description": "Охота и рыбалка.",
+      "description": "ნადირობის, თევზაობის, outdoor აღჭურვილობისა და პრაქტიკული რჩევების საიტები.",
       "logo": "Fish",
       "bkglogo": "/images/hunting-logobkg.png",
       "titleKey": "home_hunting",
       "priority": 33,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/hunting-logo.png"
+          "id": 1,
+          "title": "BASSPRO.COM",
+          "description": "ნადირობის, თევზაობისა და გარე აქტივობებისთვის ერთ-ერთი ყველაზე დიდი ონლაინ მაღაზია, სადაც წარმოდგენილია ინვენტარი, ეკიპირება, ტანსაცმელი და აქსესუარები.",
+          "intDesc": "id1_desc_hunting",
+          "url": "https://www.basspro.com",
+          "logo": "/images/basspro-logo.png",
+          "preview": "/images/basspro-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "CABELAS.COM",
+          "description": "ცნობილი ამერიკული პლატფორმა, რომელიც სპეციალიზდება ნადირობის, თევზაობის, კემპინგისა და სხვა outdoor მიმართულებების ინვენტარსა და აღჭურვილობაზე.",
+          "intDesc": "id2_desc_hunting",
+          "url": "https://www.cabelas.com",
+          "logo": "/images/cabelas-logo.png",
+          "preview": "/images/cabelas-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "TAKEMEFISHING.ORG",
+          "description": "საინფორმაციო რესურსი თევზაობის მოყვარულებისთვის, სადაც იპოვი სასწავლო გიდებს, რჩევებს, მოწყობილობების შერჩევის რეკომენდაციებს და ადგილების მოძიების ინსტრუმენტებს.",
+          "intDesc": "id3_desc_hunting",
+          "url": "https://www.takemefishing.org",
+          "logo": "/images/takemefishing-logo.png",
+          "preview": "/images/takemefishing-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "FISHBRAIN.COM",
+          "description": "თევზაობის პოპულარული აპი და პლატფორმა, რომელიც აერთიანებს რუკებს, ლოკაციებს, მომხმარებელთა ჩანაწერებს და ნადავლის გაზიარებას ერთ სივრცეში.",
+          "intDesc": "id4_desc_hunting",
+          "url": "https://fishbrain.com",
+          "logo": "/images/fishbrain-logo.png",
+          "preview": "/images/fishbrain-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "FIELDANDSTREAM.COM",
+          "description": "ნადირობის, თევზაობისა და ბუნებაში აქტიური დასვენების თემებზე ორიენტირებული გამოცემა, სადაც იპოვი პრაქტიკულ სტატიებს, აღჭურვილობის მიმოხილვებს და რჩევებს.",
+          "intDesc": "id5_desc_hunting",
+          "url": "https://www.fieldandstream.com",
+          "logo": "/images/fieldstream-logo.png",
+          "preview": "/images/fieldstream-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "IN-FISHERMAN.COM",
+          "description": "სპეციალიზებული თევზაობის რესურსი, რომელიც განიხილავს ტექნიკებს, ანკესებს, სხვადასხვა სახეობის თევზებსა და სეზონურ სტრატეგიებს დამწყებთათვისაც და გამოცდილებისთვისაც.",
+          "intDesc": "id6_desc_hunting",
+          "url": "https://www.in-fisherman.com",
+          "logo": "/images/infisherman-logo.png",
+          "preview": "/images/infisherman-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "OUTDOORLIFE.COM",
+          "description": "გარე აქტივობებზე, ნადირობაზე, თევზაობაზე და survival თემებზე ორიენტირებული პოპულარული პლატფორმა რეალური ისტორიებით, რჩევებითა და აღჭურვილობის მიმოხილვებით.",
+          "intDesc": "id7_desc_hunting",
+          "url": "https://www.outdoorlife.com",
+          "logo": "/images/outdoorlife-logo.png",
+          "preview": "/images/outdoorlife-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "SPORTSMANSGUIDE.COM",
+          "description": "ონლაინ პლატფორმა, სადაც ნადირობის, თევზაობის, კემპინგისა და სხვა outdoor მიმართულებების პროდუქტები წარმოდგენილია ფართო არჩევანითა და სპეციალური შეთავაზებებით.",
+          "intDesc": "id8_desc_hunting",
+          "url": "https://www.sportsmansguide.com",
+          "logo": "/images/sportsmansguide-logo.png",
+          "preview": "/images/sportsmansguide-preview.png"
         }
       ]
     },
     {
       "slug": "Parcels",
       "name": "Посылки",
-      "description": "Посылки.",
+      "description": "ამანათების, ტრეკინგის, საერთაშორისო გადაზიდვებისა და ქართული გადამზიდავების საიტები.",
       "logo": "PackageOpen",
       "bkglogo": "/images/parcels-logobkg.png",
       "titleKey": "home_parcels",
       "priority": 34,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/parcels-logo.png"
+          "id": 1,
+          "title": "DHL.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე ცნობილი საკურიერო და ამანათების გადაზიდვის კომპანია, სადაც მარტივად შეგიძლია ამანათის გაგზავნა, ტრეკინგი და საერთაშორისო სერვისების გამოყენება.",
+          "intDesc": "id1_desc_parcels",
+          "url": "https://www.dhl.com",
+          "logo": "/images/dhl-logo.png",
+          "preview": "/images/dhl-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "FEDEX.COM",
+          "description": "საერთაშორისო ლოჯისტიკური კომპანია, რომელიც გთავაზობს ამანათების გაგზავნას, ტრეკინგს, სწრაფ მიწოდებას და ბიზნეს გადაზიდვების მრავალფეროვან ვარიანტებს.",
+          "intDesc": "id2_desc_parcels",
+          "url": "https://www.fedex.com",
+          "logo": "/images/fedex-logo.png",
+          "preview": "/images/fedex-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "UPS.COM",
+          "description": "ამანათების და ტვირთების გადაზიდვის ცნობილი პლატფორმა, სადაც მომხმარებელი იღებს ტრეკინგს, მიწოდების სტატუსს და საერთაშორისო გადაზიდვების მართვის ინსტრუმენტებს.",
+          "intDesc": "id3_desc_parcels",
+          "url": "https://www.ups.com",
+          "logo": "/images/ups-logo.png",
+          "preview": "/images/ups-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "USPS.COM",
+          "description": "აშშ-ის საფოსტო სამსახურის ოფიციალური საიტი, რომელიც სასარგებლოა საერთაშორისო ტრეკინგისთვის, საფოსტო გადაზიდვებისა და ამანათების სტატუსის შესამოწმებლად.",
+          "intDesc": "id4_desc_parcels",
+          "url": "https://www.usps.com",
+          "logo": "/images/usps-logo.png",
+          "preview": "/images/usps-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "17TRACK.NET",
+          "description": "ამანათების მრავალკომპანიური ტრეკინგის პოპულარული სერვისი, რომელიც ერთ სივრცეში აერთიანებს სხვადასხვა ქვეყნის ფოსტასა და კურიერულ კომპანიებს.",
+          "intDesc": "id5_desc_parcels",
+          "url": "https://www.17track.net",
+          "logo": "/images/17track-logo.png",
+          "preview": "/images/17track-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "PARCELSAPP.COM",
+          "description": "ამანათების ტრეკინგის უნივერსალური პლატფორმა, სადაც შესაძლებელია სხვადასხვა საერთაშორისო და ადგილობრივი გადამზიდავის გზავნილების სტატუსის სწრაფად შემოწმება.",
+          "intDesc": "id6_desc_parcels",
+          "url": "https://parcelsapp.com",
+          "logo": "/images/parcelsapp-logo.png",
+          "preview": "/images/parcelsapp-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "GPOST.GE",
+          "description": "საქართველოს ფოსტის ოფიციალური საიტი, სადაც მომხმარებელი ამოწმებს ამანათის სტატუსს, საერთაშორისო გზავნილებს და სარგებლობს საფოსტო მომსახურებებით.",
+          "intDesc": "id7_desc_parcels",
+          "url": "https://gpost.ge",
+          "logo": "/images/gpost-logo.png",
+          "preview": "/images/gpost-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "BOXETTE.GE",
+          "description": "ქართული გადამზიდავი სერვისი საერთაშორისო ამანათებისთვის, რომელიც მომხმარებელს აძლევს ტრეკინგის, მისამართების და ტრანსპორტირების მართვის შესაძლებლობას.",
+          "intDesc": "id8_desc_parcels",
+          "url": "https://boxette.ge",
+          "logo": "/images/boxette-logo.png",
+          "preview": "/images/boxette-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "INEX.GE",
+          "description": "საქართველოში პოპულარული საფოსტო და ამანათების გადამზიდავი სერვისი, რომელიც მომხმარებელს ეხმარება უცხოური მაღაზიებიდან შეკვეთილი ნივთების ჩამოტანაში.",
+          "intDesc": "id9_desc_parcels",
+          "url": "https://inex.ge",
+          "logo": "/images/inex-logo.png",
+          "preview": "/images/inex-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "CAMEX.GE",
+          "description": "საერთაშორისო ამანათების ჩამოტანის ქართული სერვისი, რომელიც მომხმარებლებს სთავაზობს ამერიკიდან, ევროპიდან და სხვა ქვეყნებიდან გზავნილების მიღებას.",
+          "intDesc": "id10_desc_parcels",
+          "url": "https://camex.ge",
+          "logo": "/images/camex-logo.png",
+          "preview": "/images/camex-preview.png"
         }
       ]
     },
     {
       "slug": "Real estate",
       "name": "Недвижимость",
-      "description": "Лучшие сайты для покупки, продажи и аренды недвижимости в Грузии и по всему миру.",
+      "description": "ყიდვის, გაყიდვის, ქირავნობისა და უძრავი ქონების მოძიების პლატფორმები საქართველოში და მსოფლიოში.",
       "logo": "DoorClosedLocked",
       "bkglogo": "/images/reals-logobkg.png",
       "titleKey": "home_real",
@@ -3758,54 +4074,184 @@
     {
       "slug": "weather",
       "name": "Погода",
-      "description": "Погода.",
+      "description": "ამინდის პროგნოზების, მეტეო მონაცემებისა და გაფრთხილებების საიტები.",
       "logo": "CloudSun",
       "bkglogo": "/images/weather-logobkg.png",
       "titleKey": "home_weather",
       "priority": 29,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/weather-logo.png"
+          "id": 1,
+          "title": "METEO.GOV.GE",
+          "description": "საქართველოს ამინდის ოფიციალური მეტეოროლოგიური რესურსი, სადაც შესაძლებელია ქვეყნის სხვადასხვა რეგიონის პროგნოზების, ტემპერატურისა და გაფრთხილებების ნახვა.",
+          "intDesc": "id1_desc_weather",
+          "url": "https://meteo.gov.ge",
+          "logo": "/images/meteo-logo.png",
+          "preview": "/images/meteo-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "ACCUWEATHER.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე პოპულარული ამინდის პლატფორმა, რომელიც გაძლევს საათობრივ და მრავალდღიან პროგნოზებს, რუკებს და გაფრთხილებებს სხვადასხვა ქალაქისთვის.",
+          "intDesc": "id2_desc_weather",
+          "url": "https://www.accuweather.com",
+          "logo": "/images/accuweather-logo.png",
+          "preview": "/images/accuweather-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "WEATHER.COM",
+          "description": "The Weather Channel-ის ოფიციალური საიტი, სადაც წარმოდგენილია დეტალური ამინდის პროგნოზები, ტემპერატურა, ნალექი, ქარი და სხვადასხვა რეგიონების რუკები.",
+          "intDesc": "id3_desc_weather",
+          "url": "https://weather.com",
+          "logo": "/images/weathercom-logo.png",
+          "preview": "/images/weathercom-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "WINDY.COM",
+          "description": "ამინდის ვიზუალური პლატფორმა, რომელიც განსაკუთრებით კარგია ქარის, წვიმის, ტალღების, ტემპერატურისა და მეტეო რუკების სანახავად რეალურ დროში.",
+          "intDesc": "id4_desc_weather",
+          "url": "https://www.windy.com",
+          "logo": "/images/windy-logo.png",
+          "preview": "/images/windy-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "VENTUSKY.COM",
+          "description": "ინტერაქტიული ამინდის რუკების სერვისი, რომელიც მომხმარებელს აჩვენებს ღრუბლიანობას, ქარს, ნალექს, ტემპერატურას და სხვა მონაცემებს თანამედროვე ვიზუალიზაციით.",
+          "intDesc": "id5_desc_weather",
+          "url": "https://www.ventusky.com",
+          "logo": "/images/ventusky-logo.png",
+          "preview": "/images/ventusky-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "YR.NO",
+          "description": "ნორვეგიული ამინდის სერვისი, რომელიც ცნობილია სიზუსტით და სუფთა ინტერფეისით; განსაკუთრებით მოსახერხებელია ქალაქების ამინდის მოკლე და ნათელი პროგნოზებისთვის.",
+          "intDesc": "id6_desc_weather",
+          "url": "https://www.yr.no",
+          "logo": "/images/yr-logo.png",
+          "preview": "/images/yr-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "FORECA.COM",
+          "description": "პოპულარული ამინდის საიტი, რომელიც აჩვენებს დეტალურ საათობრივ პროგნოზებს, სხვადასხვა ქალაქის ამინდს და სპეციალურ მონაცემებს მოგზაურობის დაგეგმვისთვის.",
+          "intDesc": "id7_desc_weather",
+          "url": "https://www.foreca.com",
+          "logo": "/images/foreca-logo.png",
+          "preview": "/images/foreca-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "WEATHER.GOV",
+          "description": "აშშ-ის ეროვნული ამინდის სამსახურის ოფიციალური საიტი, რომელიც სასარგებლოა მათთვის, ვისაც სჭირდება ოფიციალური პროგნოზები, გაფრთხილებები და მეტეო ანალიზი.",
+          "intDesc": "id8_desc_weather",
+          "url": "https://www.weather.gov",
+          "logo": "/images/weathergov-logo.png",
+          "preview": "/images/weathergov-preview.png"
         }
       ]
     },
     {
       "slug": "Employment",
       "name": "Трудоустройство",
-      "description": "Трудоустройство.",
+      "description": "დასაქმების, ვაკანსიების, freelance პროექტებისა და remote მუშაობის პლატფორმები.",
       "logo": "UserRoundSearch",
       "bkglogo": "/images/employment-logobkg.png",
       "titleKey": "home_employment",
       "priority": 19,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/employment-logo.png"
+          "id": 1,
+          "title": "JOBS.GE",
+          "description": "საქართველოში ერთ-ერთი ყველაზე ცნობილი დასაქმების პლატფორმა, სადაც ქვეყნდება ვაკანსიები სხვადასხვა სფეროში და კომპანიები ეძებენ თანამშრომლებს ყველა დონის პოზიციებზე.",
+          "intDesc": "id1_desc_employment",
+          "url": "https://jobs.ge",
+          "logo": "/images/jobsge-logo.png",
+          "preview": "/images/jobsge-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "HR.GE",
+          "description": "ქართული დასაქმების და HR პლატფორმა, რომელიც აერთიანებს ვაკანსიებს, კადრების მოძიებას და კომპანიისთვის თანამშრომლების შერჩევის სასარგებლო ინსტრუმენტებს.",
+          "intDesc": "id2_desc_employment",
+          "url": "https://hr.ge",
+          "logo": "/images/hrge-logo.png",
+          "preview": "/images/hrge-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "LINKEDIN.COM",
+          "description": "პროფესიული ქსელი და დასაქმების ერთ-ერთი მთავარი საერთაშორისო პლატფორმა, სადაც შესაძლებელია სამსახურის მოძებნა, პროფესიული კონტაქტების შექმნა და კარიერული განვითარების დაგეგმვა.",
+          "intDesc": "id3_desc_employment",
+          "url": "https://www.linkedin.com/jobs",
+          "logo": "/images/linkedin-logo.png",
+          "preview": "/images/linkedin-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "INDEED.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე დიდი დასაქმების საიტი, სადაც მილიონობით ვაკანსიაა წარმოდგენილი სხვადასხვა ქვეყნისა და პროფესიის მიხედვით.",
+          "intDesc": "id4_desc_employment",
+          "url": "https://www.indeed.com",
+          "logo": "/images/indeed-logo.png",
+          "preview": "/images/indeed-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "GLASSDOOR.COM",
+          "description": "დასაქმების პლატფორმა, რომელიც ვაკანსიებთან ერთად აჩვენებს კომპანიების შეფასებებს, ხელფასების დიაპაზონებს და ინტერვიუს გამოცდილებებს რეალური თანამშრომლებისგან.",
+          "intDesc": "id5_desc_employment",
+          "url": "https://www.glassdoor.com",
+          "logo": "/images/glassdoor-logo.png",
+          "preview": "/images/glassdoor-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "UPWORK.COM",
+          "description": "ფრილანსერებისა და დამკვეთების საერთაშორისო პლატფორმა, სადაც შესაძლებელია დისტანციური სამუშაოს, პროექტების და გრძელვადიანი თანამშრომლობის მოძებნა.",
+          "intDesc": "id6_desc_employment",
+          "url": "https://www.upwork.com",
+          "logo": "/images/upwork-logo.png",
+          "preview": "/images/upwork-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "FREELANCER.COM",
+          "description": "პოპულარული freelancing პლატფორმა, რომელიც აერთიანებს პროგრამირებას, დიზაინს, მარკეტინგს და მრავალ სხვა მიმართულებას დისტანციური სამუშაოს მსურველთათვის.",
+          "intDesc": "id7_desc_employment",
+          "url": "https://www.freelancer.com",
+          "logo": "/images/freelancer-logo.png",
+          "preview": "/images/freelancer-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "REMOTEOK.COM",
+          "description": "დისტანციური სამუშაოების პლატფორმა, სადაც განსაკუთრებით ბევრი ვაკანსიაა ტექნოლოგიების, მარკეტინგის, დიზაინის და startup გარემოს მიმართულებით.",
+          "intDesc": "id8_desc_employment",
+          "url": "https://remoteok.com",
+          "logo": "/images/remoteok-logo.png",
+          "preview": "/images/remoteok-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "WEWORKREMOTELY.COM",
+          "description": "remote სამსახურის მოძიების ცნობილი საიტი, რომელიც პოპულარულია საერთაშორისო კომპანიებსა და დისტანციურ თანამშრომლობაზე ორიენტირებულ პროფესიონალებში.",
+          "intDesc": "id9_desc_employment",
+          "url": "https://weworkremotely.com",
+          "logo": "/images/wwr-logo.png",
+          "preview": "/images/wwr-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "HH.RU",
+          "description": "რუსულენოვან ბაზარზე ერთ-ერთი ყველაზე დიდი დასაქმების პლატფორმა, სადაც წარმოდგენილია ათასობით ვაკანსია სხვადასხვა სფეროში და სხვადასხვა ქვეყანაში.",
+          "intDesc": "id10_desc_employment",
+          "url": "https://hh.ru",
+          "logo": "/images/hh-logo.png",
+          "preview": "/images/hh-preview.png"
         }
       ]
     },
@@ -4031,27 +4477,101 @@
     {
       "slug": "Cooking",
       "name": "кулинария",
-      "description": "кулинария.",
+      "description": "რეცეპტების, კულინარიის, დესერტებისა და სამზარეულოს იდეების საიტები.",
       "logo": "CookingPot",
       "bkglogo": "/images/cooking-logobkg.png",
       "titleKey": "home_cooking",
       "priority": 32,
       "sites": [
         {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/shops-logo.png"
+          "id": 1,
+          "title": "GEMRIELIA.GE",
+          "description": "ქართული კულინარიული პლატფორმა, სადაც თავმოყრილია ადგილობრივი და საერთაშორისო კერძების რეცეპტები, რჩევები და მომზადების ეტაპობრივი ინსტრუქციები.",
+          "intDesc": "id1_desc_cooking",
+          "url": "https://gemrielia.ge",
+          "logo": "/images/gemrielia-logo.png",
+          "preview": "/images/gemrielia-preview.png"
         },
         {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
+          "id": 2,
+          "title": "KULINARIA.GE",
+          "description": "ქართულენოვანი კულინარიული რესურსი, რომელიც მომხმარებელს სთავაზობს ყოველდღიური კერძების, ტკბილეულისა და ტრადიციული რეცეპტების დიდ არჩევანს.",
+          "intDesc": "id2_desc_cooking",
+          "url": "https://kulinaria.ge",
+          "logo": "/images/kulinaria-logo.png",
+          "preview": "/images/kulinaria-preview.png"
+        },
+        {
+          "id": 3,
+          "title": "ALLRECIPES.COM",
+          "description": "მსოფლიოში ერთ-ერთი ყველაზე პოპულარული რეცეპტების საიტი, სადაც მილიონობით მომხმარებელი აზიარებს კერძებს, შეფასებებს, ფოტოებს და მომზადების პრაქტიკულ რჩევებს.",
+          "intDesc": "id3_desc_cooking",
+          "url": "https://www.allrecipes.com",
+          "logo": "/images/allrecipes-logo.png",
+          "preview": "/images/allrecipes-preview.png"
+        },
+        {
+          "id": 4,
+          "title": "BBCGOODFOOD.COM",
+          "description": "კულინარიული პლატფორმა მაღალი ხარისხის რეცეპტებით, სადაც წარმოდგენილია საუზმეები, ძირითადი კერძები, დესერტები და სეზონური მენიუები სხვადასხვა გემოვნებისთვის.",
+          "intDesc": "id4_desc_cooking",
+          "url": "https://www.bbcgoodfood.com",
+          "logo": "/images/bbcgoodfood-logo.png",
+          "preview": "/images/bbcgoodfood-preview.png"
+        },
+        {
+          "id": 5,
+          "title": "FOODNETWORK.COM",
+          "description": "ცნობილი კულინარიული მედია ბრენდის საიტი, სადაც ნახავ რეცეპტებს, შეფების რჩევებს, ვიდეოებს და იდეებს როგორც ყოველდღიური, ისე სადღესასწაულო კერძებისთვის.",
+          "intDesc": "id5_desc_cooking",
+          "url": "https://www.foodnetwork.com",
+          "logo": "/images/foodnetwork-logo.png",
+          "preview": "/images/foodnetwork-preview.png"
+        },
+        {
+          "id": 6,
+          "title": "TASTY.CO",
+          "description": "სოციალურ ქსელებში პოპულარული კულინარიული პლატფორმა, რომელიც მარტივი ვიდეოებით და მოკლე ინსტრუქციებით ასწავლის კერძების სწრაფ და გასაგებ მომზადებას.",
+          "intDesc": "id6_desc_cooking",
+          "url": "https://tasty.co",
+          "logo": "/images/tasty-logo.png",
+          "preview": "/images/tasty-preview.png"
+        },
+        {
+          "id": 7,
+          "title": "EPICURIOUS.COM",
+          "description": "გემოვნებიან და შედარებით პროფესიულ კულინარიაზე ორიენტირებული პლატფორმა, რომელიც გთავაზობს დახვეწილ რეცეპტებს, ინგრედიენტების იდეებს და კულინარიულ გზამკვლევებს.",
+          "intDesc": "id7_desc_cooking",
+          "url": "https://www.epicurious.com",
+          "logo": "/images/epicurious-logo.png",
+          "preview": "/images/epicurious-preview.png"
+        },
+        {
+          "id": 8,
+          "title": "SIMPLYRECIPES.COM",
+          "description": "ოჯახური, გასაგები და პრაქტიკული რეცეპტების რესურსი, რომელიც განსაკუთრებით მოსახერხებელია მათთვის, ვისაც ყოველდღიური სამზარეულოს იდეები უნდა.",
+          "intDesc": "id8_desc_cooking",
+          "url": "https://www.simplyrecipes.com",
+          "logo": "/images/simplyrecipes-logo.png",
+          "preview": "/images/simplyrecipes-preview.png"
+        },
+        {
+          "id": 9,
+          "title": "SERIOUSEATS.COM",
+          "description": "კულინარიული ტექნიკისა და ხარისხიანი დეტალური ინსტრუქციების ცნობილი საიტი, რომელიც კარგია მათთვის, ვისაც რეცეპტის მიღმა ლოგიკაც აინტერესებს.",
+          "intDesc": "id9_desc_cooking",
+          "url": "https://www.seriouseats.com",
+          "logo": "/images/seriouseats-logo.png",
+          "preview": "/images/seriouseats-preview.png"
+        },
+        {
+          "id": 10,
+          "title": "MARMITON.ORG",
+          "description": "პოპულარული ფრანგული კულინარიული პლატფორმა, სადაც წარმოდგენილია ათასობით რეცეპტი, ინგრედიენტების იდეები და სხვადასხვა სამზარეულოს საინტერესო ვარიანტები.",
+          "intDesc": "id10_desc_cooking",
+          "url": "https://www.marmiton.org",
+          "logo": "/images/marmiton-logo.png",
+          "preview": "/images/marmiton-preview.png"
         }
       ]
     },
@@ -4172,60 +4692,6 @@
           "url": "https://www.notion.so",
           "logo": "/images/notion-logo.png",
           "preview": "/images/notion-preview.png"
-        }
-      ]
-    },
-    {
-      "slug": "Torrent Sites",
-      "name": "Торрент Сайти",
-      "description": "Торрент Сайти.",
-      "logo": "LayersPlus",
-      "bkglogo": "/images/torrent-logobkg.png",
-      "titleKey": "home_torrent",
-      "priority": 40,
-      "sites": [
-        {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/shops-logo.png"
-        },
-        {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
-        }
-      ]
-    },
-    {
-      "slug": "Adult",
-      "name": "18+",
-      "description": "18+.",
-      "logo": "Mars",
-      "bkglogo": "/images/adult-logobkg.png",
-      "titleKey": "home_adult",
-      "priority": 141,
-      "sites": [
-        {
-          "id": 20,
-          "title": "Coursera",
-          "description": "Курсы от ведущих университетов.",
-          "intDesc": "home_apps",
-          "url": "https://www.coursera.org",
-          "logo": "/images/shops-logo.png"
-        },
-        {
-          "id": 21,
-          "title": "Stepik",
-          "description": "Бесплатные курсы по программированию и наукам.",
-          "intDesc": "home_apps",
-          "url": "https://stepik.org",
-          "logo": "/images/stepik-logo.png"
         }
       ]
     }

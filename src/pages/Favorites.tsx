@@ -13,7 +13,7 @@ export default function Favorites() {
   const groupedFavorites = categories
     .map((category) => {
       const sitesInCategory = (category.sites || []).filter((site) =>
-        favoriteIds.includes(site.url)
+        favoriteIds.includes(site.intDesc)
       );
 
       return {
@@ -60,7 +60,7 @@ pl-6 pr-6 pb-2 md:mb-10 mb-4 flex flex-col items-center
             <AnimatePresence>
               {category.sites.map((site) => (
                 <motion.div
-                  key={site.url}
+                  key={site.intDesc}
                   layout
                   initial={{ opacity: 0, scale: 0.95 }}
                   animate={{ opacity: 1, scale: 1 }}

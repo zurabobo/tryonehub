@@ -1,10 +1,10 @@
-import { create } from 'zustand';
-import { persist } from 'zustand/middleware';
+import { create } from "zustand";
+import { persist } from "zustand/middleware";
 
 interface FavoritesState {
   ids: string[];
-  toggle: (id: string) => void;
-  isFavorite: (id: string) => boolean;
+  toggle: (key: string) => void;
+  isFavorite: (key: string) => boolean;
 }
 
 
@@ -12,15 +12,14 @@ export const useFavoritesStore = create<FavoritesState>()(
   persist(
     (set, get) => ({
       ids: [],
-      toggle: (id) =>
-      set((state) => ({
-        ids: state.ids.includes(id)
-          ? state.ids.filter((x) => x !== id)
-          : [...state.ids, id],
-      })),
-
-      isFavorite: (id) => get().ids.includes(id),
+      toggle: (key) =>
+        set((state) => ({
+          ids: state.ids.includes(key)
+            ? state.ids.filter((x) => x !== key)
+            : [...state.ids, key],
+        })),
+      isFavorite: (key) => get().ids.includes(key),
     }),
-    { name: 'favorites' }
+    { name: "favorites" }
   )
 );

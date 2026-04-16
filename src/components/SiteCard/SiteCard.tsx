@@ -19,7 +19,8 @@ const SiteCard = ({
   showPreview = true,
   // isActive = false,
 }: Props) => {
-  const isFav = useFavoritesStore((s) => s.isFavorite(site.url));
+  const favoriteKey = site.intDesc;
+const isFav = useFavoritesStore((s) => s.isFavorite(favoriteKey));
   const toggle = useFavoritesStore((s) => s.toggle);
   const [previewTop, setPreviewTop] = useState("184px");
   const { t } = useTranslate();
@@ -32,11 +33,9 @@ const SiteCard = ({
 
     const observer = new IntersectionObserver(
       ([entry]) => {
-        // Если верх карточки коснулся заголовка (50px от топа)
         setIsActive(entry.isIntersecting);
       },
       {
-        // Срабатывает ровно когда карточка заходит под заголовок
         rootMargin: "-50px 0px -70% 0px",
         threshold: 0,
       }
@@ -154,7 +153,7 @@ const SiteCard = ({
               <button
                 onClick={(e) => {
                   e.preventDefault();
-                  toggle(site.url);
+                  toggle(favoriteKey);
                 }}
                 className=""
               >
@@ -180,7 +179,6 @@ const SiteCard = ({
                 {t(site.intDesc)}
               </p>
             </div>
-            
           </div>
         </div>
       </a>
@@ -217,8 +215,7 @@ const SiteCard = ({
           className="max-h-[90px] object-contain border-[1px] border-solid border-[#444]"
           src={site.logo || FALLBACK_LOGO}
           // src={`https://www.google.com/s2/favicons?domain=${site.url}&sz=64`}
-          
-        
+
           alt={site.title}
         />
       </div>
@@ -266,7 +263,7 @@ md:from-transparent md:via-transparent md:to-transparent
               if (!isFav && variant !== "favorites") {
                 flyToFavorites();
               }
-              toggle(site.url);
+              toggle(favoriteKey);
             }}
           >
             <FavIcon
