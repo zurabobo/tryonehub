@@ -59,7 +59,7 @@ export const en = {
     'Welcome to the Tryonehub website! We collect the best websites according to different categories.: Sports, movies, fashion, studies and more. Our goal is to help you find useful resources quickly.',
   about_privacy: 'Privacy Policy',
   contacts_title: 'Contacts',
-  contacts_text: 'Contact us by email: zura.bobo@gmail.com . We welcome your suggestions, comments, and ideas for improving the site.',
+  contacts_text: 'Contact us by email. Through the Mail, We welcome your suggestions, comments and ideas to improve the site.',
   privacy_title: 'Privacy policy',
   privacy_text: `We respect your privacy. TryOneHub does not collect users' personal data unnecessarily and without your consent.
 

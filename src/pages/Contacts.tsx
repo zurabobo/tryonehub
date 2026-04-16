@@ -4,7 +4,7 @@ import { useTranslate } from "../hooks/useTranslate";
 function Contacts() {
   const { t } = useTranslate();
   return (
-    <div className="p-[20px]  text-[#e5e7eb]">
+    <div className="p-[20px] text-center text-[#e5e7eb]">
       <Helmet>
         <title>Contact Us | TryOneHub</title>
         <meta
@@ -18,6 +18,9 @@ function Contacts() {
       <p className="max-w-[800px] mt-[0] mx-[auto] mb-[16px]">
         {t("contacts_text")}
       </p>
+      <a className="text-[#38bdf8]" href="mailto:info@tryonehub.com">
+        info@tryonehub.com
+      </a>
     </div>
   );
 }
