@@ -390,14 +390,15 @@ shops_description: 'Online stores and trading platforms: purchase of goods, elec
   id11_desc_fashion: '',
   id12_desc_fashion: '',
   id13_desc_fashion: '',
-  id1_desc_search: 'Georgian online video content and popular media search service, which allows you to quickly find local videos, broadcasts and entertainment videos aimed at the Georgian audience.',
-  id2_desc_search: 'The world is largest search engine, which provides fast and accurate search for websites, images, videos, maps and news using modern ranking algorithms and artificial intelligence.',
-  id3_desc_search: 'A modern Microsoft search engine with a user-friendly interface, intelligent image and video search, built-in AI tools, and advanced result filtering capabilities.',
-  id4_desc_search: 'A popular search engine in the CIS countries, offering fast search for websites, maps, images and news, as well as many additional services for everyday user tasks.',
-  id5_desc_search: 'A user privacy-oriented search engine that does not track query history and offers clean search results without personalized data collection.',
-  id6_desc_search: 'China is largest search engine that provides access to local Chinese websites, images, videos, and news optimized for Chinese and regional Internet resources.',
-  id7_desc_search: 'A popular search platform in South Korea that combines the search for websites, blogs, news and multimedia content with an emphasis on local services and personalized results.',
-  id8_desc_search: 'One of the oldest Internet portals with a search engine, news, mail services and entertainment content, popular among users from different countries.',
+
+  
+  id1_desc_search: 'The world is largest search engine, which provides fast and accurate search for websites, images, videos, maps and news using modern ranking algorithms and artificial intelligence.',
+  id2_desc_search: 'A modern Microsoft search engine with a user-friendly interface, intelligent image and video search, built-in AI tools, and advanced result filtering capabilities.',
+  id3_desc_search: 'One of the most famous search engines in the Russian-speaking space, which offers web search, images, videos, maps, email and many additional online services.',
+  id4_desc_search: 'A user privacy-oriented search engine that does not track query history and offers clean search results without personalized data collection.',
+  id5_desc_search: 'One of the largest search engines in China, it is exceptionally efficient for searching Chinese-language websites, news, images and videos.',
+  id6_desc_search: 'A search platform that uses part of the income from advertisements to plant trees, so it is a good choice for those who are interested in the ecological direction.',
+  id7_desc_search: 'A search engine that provides a more personal search and gives the user the opportunity to get results without unnecessary tracking and personal profiling.',
 
   id1_desc_social: 'The largest social network in the world for communicating with friends, posting photos and videos, creating pages, groups, and running an online business.',
   id2_desc_social: 'A popular platform for publishing photos and short videos, stories and reels, as well as brand promotion and personal blogs.',
