@@ -193,7 +193,7 @@ const SiteCard = ({
       className={`
     group relative border-[2px] border-[#ffffff26]
     rounded-[8px] bg-[#1E293B] p-[10px]
-    h-[180px] active:scale-[0.98]
+    md:h-[180px] h-auto active:scale-[0.98]
     flex flex-col no-underline [color:inherit]
     transition-all duration-300 md:transform-gpu
     hover:z-50
