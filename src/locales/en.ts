@@ -399,6 +399,13 @@ shops_description: 'Online stores and trading platforms: purchase of goods, elec
   id5_desc_search: 'One of the largest search engines in China, it is exceptionally efficient for searching Chinese-language websites, news, images and videos.',
   id6_desc_search: 'A search platform that uses part of the income from advertisements to plant trees, so it is a good choice for those who are interested in the ecological direction.',
   id7_desc_search: 'A search engine that provides a more personal search and gives the user the opportunity to get results without unnecessary tracking and personal profiling.',
+  id8_desc_search: 'A European search engine that focuses on the protection of the user is personal data and offers the ability to search the web, images, maps and news.',
+  id9_desc_search: 'One of the most popular search platforms in South Korea, combining search, portal-type services and access to local content.', 
+  id10_desc_search: 'A classic internet portal and search engine still used to find websites, financial information, email and news.', 
+  id11_desc_search: 'Brave Search is an independent search engine that is focused on privacy and trying to consumers show more fresh and less tracings based results.', 
+  id12_desc_search: 'A search platform built on a question-and-answer style that, with a simple interface, helps the user search for everyday information, topics and sites.', 
+
+
 
   id1_desc_social: 'The largest social network in the world for communicating with friends, posting photos and videos, creating pages, groups, and running an online business.',
   id2_desc_social: 'A popular platform for publishing photos and short videos, stories and reels, as well as brand promotion and personal blogs.',
