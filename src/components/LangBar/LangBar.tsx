@@ -21,21 +21,21 @@ export default function LangBar() {
   const Icon = iconsMap.Languages;
 
   return (
-    <div className="flex items-center justify-center border-[1px] border-[#9CA3AF] max-md:w-[90%] max-md:mx-auto rounded-[6px] w-[110px] ">
-      <div className="flex items-center justify-center border-r-[1px] border-[#9CA3AF] w-[38px] h-[30px] ">
+    <div className="flex items-center justify-center border-2 border-white/10 max-md:w-[90%] max-md:mx-auto rounded-[6px] w-[110px] ">
+      <div className="flex items-center justify-center border-r-[2px] border-white/10 w-[38px] h-[30px] ">
         <Icon size={20} stroke="#E5E7EB"/>
       </div>
 
       <div className="relative w-full hidden md:block">
         <div
           onClick={() => setOpen((o) => !o)}
-          className="p-[4px] y-[6px] bg-[#1E293B] text-[#E5E7EB] text-[12px] cursor-pointer rounded-[6px] text-center select-none"
+          className="p-[4px] y-[6px] bg-[#1E293B] text-[#E5E7EB] text-[12px] cursor-pointer md:hover:bg-[#273449] rounded-[6px] text-center select-none"
         >
           {current.name}
         </div>
 
         {open && (
-          <div className="absolute top-full left-0 right-0 bg-[#0F172A] rounded-b-[6px] border border-[#9CA3AF] mt-[4px] flex flex-col z-10">
+          <div className="absolute top-full left-0 right-0 bg-[#0F172A] rounded-b-[6px] border border-white/10 mt-[4px] flex flex-col z-10">
             {languages
               .filter((l) => l.code !== lang)
               .map((l) => (
@@ -45,7 +45,7 @@ export default function LangBar() {
                     setLang(l.code);
                     setOpen(false);
                   }}
-                  className="px-[10px] py-[6px] text-[12px] text-[#E5E7EB] border-b  border-[#9CA3AF] last:rounded-b-[6px] last:border-b-0 hover:bg-[#1E293B]"
+                  className="px-[10px] py-[6px] text-[12px] text-[#E5E7EB] border-b  border-white/10 last:rounded-b-[6px] last:border-b-0 hover:bg-[#273449]"
                 >
                   {l.name}
                 </button>

@@ -13,6 +13,7 @@ import { useState } from "react";
 import { HeaderNavLink } from "./HeaderNavLink";
 import { DropdownMenu } from "./DropDownMenu";
 import { DropdownItem } from "./DropdownItem";
+import ThemeToggle from "../ThemeToggle/ThemeToggle";
 
 const MAIN_CATEGORY_SLUGS = ["weather"];
 
@@ -41,7 +42,7 @@ export const Header: React.FC = () => {
       className="
  bg-[#1E293B] text-white
   flex justify-between items-center gap-[12px]
-  border-b border-[#E5E7EB]
+  border-b border-[#fff]
   px-[30px] py-0
   [@media(max-width:1024px)]:px-[20px]
   [@media(max-width:768px)]:px-[8px] [@media(max-width:768px)]:py-[8px] [@media(max-width:768px)]:flex-wrap [@media(max-width:768px)]:items-center [@media(max-width:768px)]:sticky top-0 left-0 right-0 z-[10000]
@@ -66,6 +67,7 @@ export const Header: React.FC = () => {
           />
         </svg>
       </Link>
+
       <div>
         <DateTime currentLocale={locale} />
 
@@ -137,8 +139,9 @@ export const Header: React.FC = () => {
           </div>
         </div>
       </div>
+      <div className="max-[768px]:hidden flex items-center">
+      <ThemeToggle />
 
-      <div className="max-[768px]:hidden">
         <LangBar />
       </div>
       <button
@@ -250,7 +253,7 @@ export const Header: React.FC = () => {
             className={`
     ${catsOpen ? "grid" : "hidden"}
     grid-cols-2 max-[400px]:grid-cols-1
-    max-h-[60vh] overflow-y-auto
+    max-h-[50vh] overflow-y-auto
     [-webkit-overflow-scrolling:touch]
     border-b border-[#E5E7EB]
   `}
@@ -330,6 +333,7 @@ export const Header: React.FC = () => {
           </RouterNavLink>
         </nav>
         <LangBar />
+        <ThemeToggle isMobile onAfterToggle={closeMenu} />
       </aside>
 
       {adultSlug && (
