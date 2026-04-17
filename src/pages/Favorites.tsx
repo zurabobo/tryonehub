@@ -3,10 +3,13 @@ import SiteCard from "../components/SiteCard/SiteCard";
 import sitesData from "../data/sites.json";
 import { useTranslate } from "../hooks/useTranslate";
 import { motion, AnimatePresence } from "framer-motion";
+import { useThemeStore } from "../store/theme/theme.store";
 
 export default function Favorites() {
   const { t } = useTranslate();
   const favoriteIds = useFavoritesStore((state) => state.ids);
+  const theme = useThemeStore((s) => s.theme);
+  const isDark = theme === "dark";
 
   const categories = sitesData?.categories || [];
 
@@ -34,7 +37,10 @@ export default function Favorites() {
 
   return (
     <div className="md:px-6 pb-6 mt-6">
-      <h1 className="text-3xl font-medium text-center mb-10 text-gray-200">
+      <h1
+        className={`text-3xl font-medium text-center mb-4 ${isDark ? "text-[#E5E7EB]" : "text-[#0F172A]"
+          }`}
+      >
         {t("header_favorites")}
       </h1>
 
@@ -43,17 +49,18 @@ export default function Favorites() {
         {groupedFavorites.map((category) => (
           <div
             key={category.slug}
-            // className="border-l border-white/10 pl-6 pr-6 mb-10 flex flex-col items-center first:border-none "
-            className="
-border-b border-white/10
+
+            className={`border-b 
 md:border-b-0 md:border-l
 md:border-r
 last:border-b-0
-pl-6 pr-6 pb-2 md:mb-10 mb-4 flex flex-col items-center
-"
+pl-6 pr-6 pb-2 md:mb-10 mb-4 flex flex-col items-center ${isDark ? "border-white/10" : "border-[#0F172A]/10"}`}
+
+
           >
             {/* Category Title */}
-            <h2 className="text-[16px]  mb-2 text-[#E5E7EB] text-center">
+            <h2 className={`text-[16px]  mb-2 text-center ${isDark ? "text-[#E5E7EB]" : "text-[#0F172A]"
+              }`}>
               {t(category.title)}
             </h2>
 

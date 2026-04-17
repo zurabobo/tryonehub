@@ -3,8 +3,8 @@ import { persist } from 'zustand/middleware';
 import { ru, en, ka, type Language } from '../locales';
 import type { Translations } from '../locales';
 
-
 type Translation = Record<string, string>;
+
 export const LOCALES = {
   GEORGIAN: 'ka',
   ENGLISH: 'en',
@@ -24,23 +24,59 @@ export const translations: Record<Language, Translation> = {
   ru,
 };
 
+const detectInitialLanguage = (): Language => {
+  if (typeof window === 'undefined') {
+    return LOCALES.ENGLISH;
+  }
+
+  const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  const browserLang = window.navigator.language.toLowerCase();
+
+  // თუ მომხმარებელი საქართველოშია -> ქართული
+  if (timeZone === 'Asia/Tbilisi') {
+    return LOCALES.GEORGIAN;
+  }
+
+  // საქართველოს გარეთ -> ბრაუზერის ენით
+  if (browserLang.startsWith('ru')) {
+    return LOCALES.RUSSIAN;
+  }
+
+  // ყველა დანარჩენი -> ინგლისური
+  return LOCALES.ENGLISH;
+};
+
 export const useLocaleStore = create<LocaleState>()(
   persist(
-    (set, get) => ({
-      lang: LOCALES.GEORGIAN,
-      translations: translations[LOCALES.GEORGIAN],
-      setLang: (lang) => {
-        set({
-          lang,
-          translations: translations[lang] || translations[LOCALES.GEORGIAN],
-        });
-      },
-      t: (key) => {
-        const { lang } = get();
-        return translations[lang]?.[key] ?? translations.ka?.[key] ?? translations.en?.[key] ?? key;
-      },
-    }),
-    { name: 'locale-storage' }
+    (set, get) => {
+      const initialLang = detectInitialLanguage();
+
+      return {
+        lang: initialLang,
+        translations: translations[initialLang],
+
+        setLang: (lang) => {
+          set({
+            lang,
+            translations: translations[lang] || translations[LOCALES.ENGLISH],
+          });
+        },
+
+        t: (key) => {
+          const { lang } = get();
+
+          return (
+            translations[lang]?.[key] ??
+            translations[LOCALES.ENGLISH]?.[key] ??
+            translations[LOCALES.GEORGIAN]?.[key] ??
+            key
+          );
+        },
+      };
+    },
+    {
+      name: 'locale-storage',
+    }
   )
 );
 
