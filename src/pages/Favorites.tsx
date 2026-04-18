@@ -55,8 +55,6 @@ md:border-b-0 md:border-l
 md:border-r
 last:border-b-0
 pl-6 pr-6 pb-2 md:mb-10 mb-4 flex flex-col items-center ${isDark ? "border-white/10" : "border-[#0F172A]/10"}`}
-
-
           >
             {/* Category Title */}
             <h2 className={`text-[16px]  mb-2 text-center ${isDark ? "text-[#E5E7EB]" : "text-[#0F172A]"

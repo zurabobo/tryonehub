@@ -1,38 +1,3 @@
-// import { AnimatePresence, motion } from "framer-motion";
-// import { Moon, Sun } from "lucide-react";
-// import { useThemeStore } from "../../store/theme/theme.store";
-
-// export default function ThemeToggle() {
-//   const { theme, toggleTheme } = useThemeStore();
-
-//   return (
-//     <button
-//       type="button"
-//       onClick={toggleTheme}
-//       aria-label={
-//         theme === "dark" ? "Switch to light mode" : "Switch to dark mode"
-//       }
-//       className="
-//         relative inline-flex items-center justify-center
-//         w-[32px] h-[32px] rounded-lg border-2 overflow-hidden
-//         transition-all duration-200 mr-[10px]  border-white/10 text-[#E5E7EB] md:hover:bg-[#273449]"
-//     >
-//       <AnimatePresence mode="wait" initial={false}>
-//         <motion.span
-//           key={theme}
-//           initial={{ rotate: -90, opacity: 0, scale: 0.7 }}
-//           animate={{ rotate: 0, opacity: 1, scale: 1 }}
-//           exit={{ rotate: 90, opacity: 0, scale: 0.7 }}
-//           transition={{ duration: 0.2 }}
-//           className="absolute"
-//         >
-//           {theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
-//         </motion.span>
-//       </AnimatePresence>
-//     </button>
-//   );
-// }
-
 import { motion } from "framer-motion";
 import { Moon, Sun } from "lucide-react";
 import { useThemeStore } from "../../store/theme/theme.store";

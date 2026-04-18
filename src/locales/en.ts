@@ -61,13 +61,75 @@ export const en = {
   contacts_title: 'Contacts',
   contacts_text: 'Contact us by email. Through the Mail, We welcome your suggestions, comments and ideas to improve the site.',
   privacy_title: 'Privacy policy',
-  privacy_text: `We respect your privacy. TryOneHub does not collect users' personal data unnecessarily and without your consent.
+  privacy_text: `Last updated: 2026.  TryOneHub (hereinafter referred to as "site") respects user privacy and ensures the security of your data. This document describes how we collect, use and protect information.
 
-The site may use technical cookies necessary for the correct operation of the pages, saving user preferences and improving the overall experience of using the site.
+1. What data do we collect
 
-In the future, the site may use analytics tools and advertising services, including Google AdSense, which may use cookies to display more relevant content and ads.
+When using the site, the following types of information can be collected:
+- Technical data (IP address, browser, device)
+- Usage data (which pages you visited, how long you stayed)
+- cookies and similar technologies
 
-By using the website, you agree to this privacy policy. If you have any questions, you can contact us using the contacts listed on the website.`,
+We do not collect personal information such as username, password or bank details.
+
+2. Cookies
+
+We use cookies to improve the functioning of the site.
+
+Cookies are divided into the following categories:
+- Necessary cookies - required for site work
+- Analytical cookies - allow us to analyze user behavior
+- Advertising cookies-used to optimize advertising (in the future)
+
+You can manage the use of cookies through the consent window.
+
+3. Google Analytics
+
+The site uses Google Analytics to analyze user activity.
+
+Google Analytics collects:
+- IP address (anonymously)
+- Device and browser information
+- Behavior data
+
+More information:
+https://policies.google.com/privacy
+
+4. Microsoft Clarity
+
+We use Microsoft Clarity to better understand how users use the site (heatmaps, session recordings).
+
+These data are used:
+- UX for improvement
+- For site optimization
+
+More information:
+https://privacy.microsoft.com/
+
+5. Third-party services
+
+There may be links to other websites on the site.  
+We are not responsible for the privacy policies of these sites.
+
+6. Data security
+
+We use modern technologies to protect data, although 100% security on the internet is not guaranteed.
+
+7. User rights
+
+You have the right:
+- Refuse cookies
+- Change your consent settings
+- Stop using the site at any time
+
+8. Changes
+
+We reserve the right to update this policy periodically. Changes are reflected on this page.
+
+9. Contact us
+
+If you have questions, you can contact us:
+📧 tryonehub@gmail.com`,
   sport_description: 'The best sports sites: news, reviews, statistics.',
   movies_description: 'Sites about movies and series: ratings, trailers, reviews.',
   videos_description:
