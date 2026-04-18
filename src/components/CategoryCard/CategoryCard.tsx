@@ -6,6 +6,7 @@ import { iconsMap } from "../../constants/iconsMap";
 import AdultModal from "../AdultModal/AdultModal";
 import { motion } from "framer-motion";
 import { useThemeStore } from "../../store/theme/theme.store";
+import { useLocaleStore } from "../../store/localeStore";
 
 interface Props {
   category: CategoryCardProps;
@@ -15,6 +16,7 @@ const CategoryCard = ({ category }: Props) => {
   const { t } = useTranslate();
   const navigate = useNavigate();
   const theme = useThemeStore((s) => s.theme);
+  const lang = useLocaleStore((s) => s.lang);
 
   const [hovered, setHovered] = useState(false);
   const [adultSlug, setAdultSlug] = useState<string | null>(null);
@@ -30,7 +32,7 @@ const CategoryCard = ({ category }: Props) => {
       return;
     }
 
-    navigate(`/category/${category.slug}`);
+    navigate(`/${lang}/category/${category.slug}`);
   };
 
   const isDark = theme === "dark";
@@ -38,7 +40,7 @@ const CategoryCard = ({ category }: Props) => {
   return (
     <>
       <Link
-        to={`/category/${category.slug}`}
+        to={`/${lang}/category/${category.slug}`}
         onClick={handleClick}
         onMouseEnter={() => setHovered(true)}
         onMouseLeave={() => setHovered(false)}

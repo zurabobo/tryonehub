@@ -1,10 +1,12 @@
 import { useState } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
 import {
   useLocaleStore,
   LOCALES,
   type Language,
 } from "../../store/localeStore";
 import { iconsMap } from "../../constants/iconsMap";
+import { switchLocalePath } from "../../utils/switchLocalePath";
 
 const languages: { name: string; code: Language }[] = [
   { name: "ქართული", code: LOCALES.GEORGIAN },
@@ -17,13 +19,22 @@ export default function LangBar() {
   const lang = useLocaleStore((s) => s.lang);
   const setLang = useLocaleStore((s) => s.setLang);
 
+  const navigate = useNavigate();
+  const location = useLocation();
+
   const current = languages.find((l) => l.code === lang)!;
   const Icon = iconsMap.Languages;
 
+  const handleChangeLanguage = (newLang: Language) => {
+    setLang(newLang);
+    setOpen(false);
+    navigate(switchLocalePath(location.pathname, newLang));
+  };
+
   return (
-    <div className="flex items-center justify-center border-2 border-white/10 max-md:w-[90%] max-md:mx-auto rounded-[6px] w-[110px] ">
-      <div className="flex items-center justify-center border-r-[2px] border-white/10 w-[38px] h-[30px] ">
-        <Icon size={20} stroke="#E5E7EB"/>
+    <div className="flex items-center justify-center border-2 border-white/10 max-md:w-[90%] max-md:mx-auto rounded-[6px] w-[110px]">
+      <div className="flex items-center justify-center border-r-[2px] border-white/10 w-[38px] h-[30px]">
+        <Icon size={20} stroke="#E5E7EB" />
       </div>
 
       <div className="relative w-full hidden md:block">
@@ -41,11 +52,8 @@ export default function LangBar() {
               .map((l) => (
                 <button
                   key={l.code}
-                  onClick={() => {
-                    setLang(l.code);
-                    setOpen(false);
-                  }}
-                  className="px-[10px] py-[6px] text-[12px] text-[#E5E7EB] border-b  border-white/10 last:rounded-b-[6px] last:border-b-0 hover:bg-[#273449]"
+                  onClick={() => handleChangeLanguage(l.code)}
+                  className="px-[10px] py-[6px] text-[12px] text-[#E5E7EB] border-b border-white/10 last:rounded-b-[6px] last:border-b-0 hover:bg-[#273449]"
                 >
                   {l.name}
                 </button>
@@ -54,13 +62,13 @@ export default function LangBar() {
         )}
       </div>
 
-      <div className="hidden max-md:flex w-full justify-around items-center ">
+      <div className="hidden max-md:flex w-full justify-around items-center">
         {languages.map((l) => (
           <button
             key={l.code}
-            onClick={() => setLang(l.code)}
+            onClick={() => handleChangeLanguage(l.code)}
             className={`
-              text-[12px] px-[6px] py-[4px] rounded w-[30%] 
+              text-[12px] px-[6px] py-[4px] rounded w-[30%]
               ${l.code === lang ? "bg-[#E5E7EB] text-[#1E293B] font-semibold" : "text-white"}
             `}
           >

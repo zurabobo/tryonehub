@@ -1,5 +1,7 @@
 import { NavLink } from "react-router-dom";
 import React from "react";
+import { useLocaleStore } from "../../store/localeStore";
+import { withLocalePath } from "../../utils/withLocalePath";
 
 interface DropdownItemProps {
   to: string;
@@ -12,9 +14,11 @@ export const DropdownItem: React.FC<DropdownItemProps> = ({
   children,
   onClick,
 }) => {
+  const lang = useLocaleStore((s) => s.lang);
+
   return (
     <NavLink
-      to={to}
+      to={withLocalePath(to, lang)}
       end
       onClick={onClick}
       className={({ isActive }) => `
@@ -22,20 +26,18 @@ export const DropdownItem: React.FC<DropdownItemProps> = ({
         border border-[#0F172A]
         text-[0.875rem]
         transition-colors duration-200
-       max-[490px]:text-[0.77rem]
+        max-[490px]:text-[0.77rem]
         before:content-['›'] before:mr-2 before:transition-colors before:duration-200 
 
         ${
           isActive
-            ? "bg-[#E5E7EB] text-[#1E293B] before:text-[#1E293B] "
+            ? "bg-[#E5E7EB] text-[#1E293B] before:text-[#1E293B]"
             : "bg-transparent text-[#E5E7EB] before:text-[#9CA3AF]"
         }
 
-        
         [@media(hover:hover)]:hover:bg-[#E5E7EB]
         [@media(hover:hover)]:hover:text-[#1E293B]
         [@media(hover:hover)]:hover:before:text-[#1E293B]
-       
       `}
     >
       {children}
