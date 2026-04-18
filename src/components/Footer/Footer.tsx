@@ -21,7 +21,7 @@ function Footer() {
         onClick={reopenConsent}
         className="
     text-sm underline transition-colors
-      text-[#0F172A] hover:text-[#38BDF8]"
+      text-[#38BDF8] hover:text-[#38BDF8]"
       >
         Cookie settings
       </button>
