@@ -30,6 +30,9 @@ export default function Privacy() {
       </h1>
 
       <div className="max-w-[800px] mx-auto">
+        <p className={`mb-4 text-center  ${
+              isDark ? "text-[#CBD5E1]" : "text-[#475569]"
+            }`}>{t("privacy_update")}</p>
         {paragraphs.map((paragraph, index) => (
           <p
             key={index}

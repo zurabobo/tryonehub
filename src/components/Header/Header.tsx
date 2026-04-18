@@ -82,7 +82,7 @@ export const Header: React.FC = () => {
                   className="relative group hidden md:flex items-center justify-center
                 h-[32px] cursor-pointer
                 rounded-b-[5px]
-                hover:bg-[#E5E7EB]  hover:rounded-t-[5px] hover:rounded-b-[0]"
+                hover:bg-[#ffffff]  hover:rounded-t-[5px] hover:rounded-b-[0]"
                   onMouseEnter={toggleCategories}
                   onMouseLeave={closeCategories}
                 >

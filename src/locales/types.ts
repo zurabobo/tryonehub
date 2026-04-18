@@ -64,6 +64,8 @@ export interface Translations {
     readonly contacts_text: string
     readonly privacy_title: string
     readonly privacy_text: string
+    readonly privacy_update: string
+
 
     readonly sport_description: string
     readonly movies_description: string

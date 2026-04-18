@@ -61,7 +61,8 @@ export const en = {
   contacts_title: 'Contacts',
   contacts_text: 'Contact us by email. Through the Mail, We welcome your suggestions, comments and ideas to improve the site.',
   privacy_title: 'Privacy policy',
-  privacy_text: `Last updated: 2026.  TryOneHub (hereinafter referred to as "site") respects user privacy and ensures the security of your data. This document describes how we collect, use and protect information.
+  privacy_update: 'Last updated: 2026 year',
+  privacy_text: `TryOneHub (hereinafter referred to as "site") respects user privacy and ensures the security of your data. This document describes how we collect, use and protect information.
 
 1. What data do we collect
 
